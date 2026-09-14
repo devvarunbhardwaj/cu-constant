@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-09-14T11:11:26.711Z",
+  "sections": [
+    "hero-section"
+  ],
+  "warnings": [],
+  "files": [
+    "hero-section.ts",
+    "index.ts",
+    "manifest.json",
+    "types/hero-section.d.ts",
+    "types/media.d.ts"
+  ]
+}
