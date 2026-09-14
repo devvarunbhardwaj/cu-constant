@@ -5,7 +5,7 @@ import type { HeroSection } from './types/hero-section';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "can be a good idea",
+  "heading": "sexy",
   "subheading": "Testing subheading 1",
   "fallbackImage": {
     "url": "http://127.0.0.1:1337/uploads/picsum_photos_seed_01b7dc653d53_1400_933_43c84f75db.jpg",
