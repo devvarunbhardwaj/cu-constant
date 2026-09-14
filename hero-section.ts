@@ -5,7 +5,7 @@ import type { HeroSection } from './types/hero-section';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "first university",
+  "heading": "test again best agin",
   "subheading": "In an era propelled by the advent of artificial intelligence, Chandigarh University, Uttar Pradesh, has embraced a multidisciplinary education model enriched by AI integration, prioritising customised learning pathways, data-driven insights, virtual reality experiences, and real-world simulations to prepare global visionaries.",
   "fallbackImage": {
     "url": "http://127.0.0.1:1337/uploads/Screenshot_2026_09_15_at_1_04_14_AM_a39a49d515.png",
