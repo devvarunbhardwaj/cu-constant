@@ -5,15 +5,15 @@ import type { HeroSection } from './types/hero-section';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "not that sexy",
-  "subheading": "Testing subheading 1",
+  "heading": "first university",
+  "subheading": "In an era propelled by the advent of artificial intelligence, Chandigarh University, Uttar Pradesh, has embraced a multidisciplinary education model enriched by AI integration, prioritising customised learning pathways, data-driven insights, virtual reality experiences, and real-world simulations to prepare global visionaries.",
   "fallbackImage": {
-    "url": "http://127.0.0.1:1337/uploads/picsum_photos_seed_01b7dc653d53_1400_933_43c84f75db.jpg",
-    "alt": "Chandigarh University",
-    "width": 1400,
-    "height": 933
+    "url": "http://127.0.0.1:1337/uploads/Screenshot_2026_09_15_at_1_04_14_AM_a39a49d515.png",
+    "alt": "",
+    "width": 1778,
+    "height": 1102
   },
-  "countdownDeadline": "2026-10-20T18:29:59.000Z",
-  "countdownLabel": "Testing countdown label 1\nline two",
+  "countdownDeadline": "2026-09-07T20:30:00.000Z",
+  "countdownLabel": "xyz",
   "countdownDateLabel": ""
 };
