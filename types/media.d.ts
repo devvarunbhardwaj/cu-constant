@@ -6,3 +6,9 @@ export type CmsImage = {
   width: number | null;
   height: number | null;
 };
+
+export type CmsVideo = {
+  url: string;
+  /** MIME type, used for the `<source type>` hint. */
+  mime: string;
+};

@@ -5,15 +5,15 @@ import type { HeroSection } from './types/hero-section';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "test again best agin",
+  "heading": "India's First *AI-Augmented\nMultidisciplinary University*",
   "subheading": "In an era propelled by the advent of artificial intelligence, Chandigarh University, Uttar Pradesh, has embraced a multidisciplinary education model enriched by AI integration, prioritising customised learning pathways, data-driven insights, virtual reality experiences, and real-world simulations to prepare global visionaries.",
   "fallbackImage": {
-    "url": "http://127.0.0.1:1337/uploads/Screenshot_2026_09_15_at_1_04_14_AM_a39a49d515.png",
-    "alt": "",
-    "width": 1778,
-    "height": 1102
+    "url": "http://127.0.0.1:1337/uploads/images_hero_bg_0f8469866c.webp",
+    "alt": "Chandigarh University",
+    "width": 1728,
+    "height": 1151
   },
-  "countdownDeadline": "2026-09-07T20:30:00.000Z",
-  "countdownLabel": "xyz",
-  "countdownDateLabel": ""
+  "countdownDeadline": "2026-10-20T18:29:59.000Z",
+  "countdownLabel": "Application Window For CUCET\n(Phase-I) Closes On",
+  "countdownDateLabel": "15th October 2026"
 };
