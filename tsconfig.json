@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "skipLibCheck": true,
+    "lib": [
+      "lib.es2020.d.ts"
+    ]
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
