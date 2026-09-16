@@ -6,7 +6,7 @@ export type { HeroBackgroundVideo };
 
 export const HERO_BACKGROUND_VIDEO: HeroBackgroundVideo = {
   "video": {
-    "url": "http://127.0.0.1:1337/uploads/images_header_vod_a3e95f51ba.mp4",
+    "url": "http://127.0.0.1:1337/uploads/2026_09_15_09_48_42_2b07030381.mp4",
     "mime": "video/mp4"
   }
 };
