@@ -30,6 +30,11 @@ export const NAV: Nav = {
       "label": "Contact Us",
       "href": "/contact",
       "order": 5
+    },
+    {
+      "label": "why not me ?",
+      "href": "/neo",
+      "order": 6
     }
   ],
   "partnerLogo": null,
