@@ -6,22 +6,6 @@ export type { Routes };
 
 export const ROUTES: Routes = [
   {
-    "path": "/about",
-    "siteSection": "about",
-    "navLabel": "About",
-    "navSummary": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private university in the QS World University Rankings 2026 for the third consecutive year.",
-    "order": 0,
-    "seoTitle": "About | Chandigarh University, Uttar Pradesh",
-    "seoDescription": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private…",
-    "canonical": "",
-    "eyebrow": "About",
-    "title": "About Chandigarh University, Uttar Pradesh",
-    "lede": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private university in the QS World University Rankings 2026 for the third consecutive year.",
-    "heroImage": null,
-    "surface": "light",
-    "cta": null
-  },
-  {
     "path": "/academics",
     "siteSection": "academics",
     "navLabel": "Academics",
@@ -98,6 +82,27 @@ export const ROUTES: Routes = [
     "title": "AI Features",
     "lede": "Where artificial intelligence actually touches a student's day — the learning platform, the laboratories, the campus itself, and the research it fuels.",
     "heroImage": null,
+    "surface": "light",
+    "cta": null
+  },
+  {
+    "path": "/about",
+    "siteSection": "about",
+    "navLabel": "About",
+    "navSummary": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private university in the QS World University Rankings 2026 for the third consecutive year.",
+    "order": 0,
+    "seoTitle": "About | Chandigarh University, Uttar Pradesh",
+    "seoDescription": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private…",
+    "canonical": "what is this ?",
+    "eyebrow": "About",
+    "title": "About Chandigarh University, Uttar Pradesh",
+    "lede": "India's first AI-augmented multidisciplinary university, built on more than a decade of Chandigarh University's record and ranked India's No. 1 private university in the QS World University Rankings 2026 for the third consecutive year.",
+    "heroImage": {
+      "url": "http://127.0.0.1:1337/uploads/images_leadership_chancellor_e59d1a3176.webp",
+      "alt": "",
+      "width": 760,
+      "height": 950
+    },
     "surface": "light",
     "cta": null
   },
