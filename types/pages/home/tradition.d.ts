@@ -52,6 +52,16 @@ export type TraditionPatent = {
   author: string;
 };
 
+export type TraditionCompanyLogo = {
+  name: string;
+  logo: CmsImage;
+};
+
+export type TraditionPartnerLogo = {
+  name: string;
+  logo: CmsImage;
+};
+
 export type TraditionSection = {
   /** Accent-marked headline — see `parseAccentHeading`. */
   heading: string;
@@ -76,4 +86,6 @@ export type TraditionSection = {
   researchDomains: string[];
   researchClusters: string[];
   labImages: CmsImage[];
+  companyLogos: TraditionCompanyLogo[];
+  partnerLogos: TraditionPartnerLogo[];
 };

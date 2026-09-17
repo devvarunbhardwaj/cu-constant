@@ -11,6 +11,7 @@ export type ResearchCentresRow = {
   name: string;
   acronym: string;
   lede: string;
+  vision: string;
   focusAreas: FocusArea[];
   image: CmsImage | null;
   order: number;

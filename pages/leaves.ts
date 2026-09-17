@@ -7,60 +7,60 @@ export type { Leaves };
 export const LEAVES: Leaves = [
   {
     "siteRoute": "uanh0am3iv0pqy798kw1a9fi",
-    "intro": "Chandigarh University, Uttar Pradesh's Learning Management System (LMS) is a next-gen platform designed to revolutionise the educational experience. Powered by AI, the LMS ensures seamless access to resources and a collaborative environment to nurture academic excellence.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "gamified-learning",
-        "index": "01",
-        "label": "Gamified learning",
-        "title": "Gamified Learning Experience",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Make complex concepts comprehensible through a gamified learning experience that integrates game elements into the educational process, engaging students through AI-driven quizzes, leaderboards, and interactive challenges."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "predictive-analytics",
-        "index": "02",
-        "label": "Predictive analytics",
-        "title": "Predictive Analytics",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Maximise opportunities for long-term success through predictive analytics that track performance trends, predict academic outcomes, and recommend timely interventions and strategies to proactively address issues."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "personalised-paths",
-        "index": "03",
-        "label": "Personalised paths",
-        "title": "AI-Enabled, Personalised Learning Paths",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Develop skills through adaptive learning paths and receive tailored content recommendations based on your progress, preferences, and learning patterns for optimal results."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "data-driven-insights",
-        "index": "04",
-        "label": "Data-driven insights",
-        "title": "Data-Driven Insights",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Leverage data to track and analyse engagement and performance—empowering you to excel and reach your full potential."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "virtual-assistance",
-        "index": "05",
-        "label": "Virtual assistance",
-        "title": "24/7 Virtual Assistance",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Get instant support and receive guidance anytime and anywhere through AI-powered chatbots for queries and information."
+            "text": "testing testing"
           }
         ]
       }
@@ -69,31 +69,13 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "learning",
-        "label": "In the classroom",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_AI_Augmented_20_Personalised_20_Learning_3f348fd742.webp",
-            "alt": "AI-augmented personalised learning at Chandigarh University Uttar Pradesh",
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+            "alt": "testing image",
             "width": 1200,
-            "height": 1440
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Personalised_20_Learning_468385458f.webp",
-            "alt": "Personalised learning at Chandigarh University Uttar Pradesh",
-            "width": 896,
-            "height": 1196
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Fluid_20_Learning_6ad03dc93c.webp",
-            "alt": "Fluid learning at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_AI_20_Expert_20_Mentorship_74c30278d0.webp",
-            "alt": "AI expert mentorship at Chandigarh University Uttar Pradesh",
-            "width": 1200,
-            "height": 1440
+            "height": 800
           }
         ]
       }
@@ -101,27 +83,27 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "gjfuvlgvx6o4zxdqbawaeubd",
-    "intro": "Centres of Excellence where the university's AI research meets a discipline — each one a working lab as well as a research group.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "coe-marketing",
-        "index": "01",
-        "label": "Marketing strategies",
-        "title": "CoE for AI Applications in Marketing Strategies",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The Centre of Excellence for AI Applications in Digital Marketing seeks to transform marketing strategies through AI-powered insights. Students will dive into audience segmentation, dynamic content creation, and predictive consumer behaviour analytics."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "coe-computer-vision",
-        "index": "02",
-        "label": "Computer vision",
-        "title": "CoE for AI Applications in Computer Vision and Deep Technology",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The Centre for Excellence in AI Applications in Computer Vision and Deep Technology focuses on pioneering machine intelligence for visual data interpretation. Research areas include object recognition, anomaly detection, and applications in robotics and augmented reality."
+            "text": "testing testing"
           }
         ]
       }
@@ -130,31 +112,13 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "labs",
-        "label": "The labs",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_ai_20labs_Apple_20_Lab_7441f304ef.webp",
-            "alt": "The Apple Lab at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_ai_20labs_Apple_20_Lab_1_4723dfd0ca.webp",
-            "alt": "The Apple Lab at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Robotic_20_Center_d7c4231499.webp",
-            "alt": "The Robotics Centre at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_State_20of_20the_20_Lab_7ccbf74f8a.webp",
-            "alt": "A laboratory at Chandigarh University Uttar Pradesh",
-            "width": 876,
-            "height": 1196
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 1552
           }
         ]
       }
@@ -162,61 +126,61 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "ot802sqv7f4fvczh6j741n20",
-    "intro": "AI-powered academic tools keep education accessible around the clock.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "connected-campus",
-        "index": "01",
-        "label": "Connected campus",
-        "title": "Connected Campus",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "With Software-Defined Networking (SDN)-enabled connectivity and digitised resources, students experience seamless, anytime, and anywhere learning. The advanced campus network supports collaborative research, multimedia streaming, and hybrid education."
+            "text": "testing testing"
           },
           {
-            "text": "Students benefit from IP-based services such as virtual labs, video conferencing, and a wide array of non-synchronous learning tools, empowering them to achieve academic excellence."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "safety-and-green-living",
-        "index": "02",
-        "label": "Safety & green living",
-        "title": "Enhanced Safety and Green Living",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Integrated smart CCTV surveillance systems and real-time situational awareness ensure a secure environment for students. Occupancy analytics and automated emergency alarms provide timely alerts during critical situations, promoting safety across the campus."
+            "text": "testing testing"
           },
           {
-            "text": "Additionally, features like smart lighting and environmental sensors create a comfortable and eco-friendly learning atmosphere, helping students thrive in a greener, healthier environment."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "adaptive-infrastructure",
-        "index": "03",
-        "label": "Adaptive infrastructure",
-        "title": "Future-Ready and Adaptive Infrastructure",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The campus features scalable and modular infrastructure that supports emerging technologies and services, ensuring adaptability to future demands. Telemetry and analytics tools enable smart, data-driven decisions for resource management and optimization."
+            "text": "testing testing"
           },
           {
-            "text": "IoT-enabled systems monitor air quality, waste management, and energy consumption, creating a sustainable environment. Smart lighting and environmental sensors further enhance energy efficiency, maintaining a modern, comfortable, and forward-thinking learning space for students."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "sustainable-operations",
-        "index": "04",
-        "label": "Sustainable operations",
-        "title": "Sustainable and Smart Campus Operations",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The \"5 Cs of Sustainability\"—Clean, Community, Culture, Care, and Corporate Governance—guide the campus' policies and operations as a sustainability-driven ecosystem. By integrating environmental science into management and academic practices, the campus sets a vision for a sustainable future."
+            "text": "testing testing"
           },
           {
-            "text": "This holistic framework ensures a balance between environmental, social, and economic well-being, preparing students to become responsible global citizens."
+            "text": "testing testing"
           }
         ]
       }
@@ -225,31 +189,13 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "campus",
-        "label": "The smart campus",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Smart_20_Classroom_dc6149aab3.webp",
-            "alt": "A smart classroom at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Green_20_Campus_82ed0af822.webp",
-            "alt": "The green campus at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_AI_Optimised_20_Smart_20_Infrastructure_f3bcdcbca4.webp",
-            "alt": "AI-optimised infrastructure at Chandigarh University Uttar Pradesh",
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+            "alt": "testing image",
             "width": 1200,
-            "height": 1440
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Seminar_20_Hall_7d547afe35.webp",
-            "alt": "A seminar hall at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
+            "height": 747
           }
         ]
       }
@@ -257,36 +203,36 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "kt4ydrdbk5lgn9eob88jrc8y",
-    "intro": "Chandigarh University, Uttar Pradesh, recognises research and innovation as pivotal drivers for addressing global challenges across diverse sectors. We foster an AI-fuelled interdisciplinary research environment, central to our academic mission, for building sustainable solutions in domains such as Engineering, Sciences, Management, Humanities, and Law. For us, research isn't just an academic activity but a vital form of learning by immersing individuals in real-world challenges. A strategic concentration on high-impact areas like artificial intelligence, data sciences, clean energy, and health encourages fresh perspectives and transformative breakthroughs in research.\n\nOur researchers are supported with a wealth of cutting-edge resources to help them thrive across all stages of research. The University also assists research publications and patent filing by providing researchers with legal and technical expertise in intellectual property, facilitating the process.\n\nThe state-of-the-art Labs and Centres for Excellence are equipped with cutting-edge technology, enabling researchers to explore and apply theoretical concepts. These facilities also aid in performing quantitative and qualitative research tasks, strengthening analytical capabilities and fostering deeper academic inquiry.\n\nCollaboration with global companies and renowned national research organisations plays a pivotal role in advancing interdisciplinary research. With a forward-looking research agenda and dedication to these aforementioned principles, Chandigarh University is committed to contributing to achieving the United Nations Sustainable Development Goals and shaping transformative advancements for society.",
+    "intro": "testing testing\n\ntesting testing",
     "blocks": [
       {
         "anchorId": "research-and-innovation",
-        "index": "01",
-        "label": "Research & innovation",
-        "title": "Research & Innovation",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Chandigarh University, Uttar Pradesh, recognises research and innovation as pivotal drivers for addressing global challenges across diverse sectors. We foster an AI-fuelled interdisciplinary research environment, central to our academic mission, for building sustainable solutions in domains such as Engineering, Sciences, Management, Humanities, and Law. For us, research isn't just an academic activity but a vital form of learning by immersing individuals in real-world challenges. A strategic concentration on high-impact areas like artificial intelligence, data sciences, clean energy, and health encourages fresh perspectives and transformative breakthroughs in research."
+            "text": "testing testing"
           },
           {
-            "text": "Our researchers are supported with a wealth of cutting-edge resources to help them thrive across all stages of research. The University also assists research publications and patent filing by providing researchers with legal and technical expertise in intellectual property, facilitating the process."
+            "text": "testing testing"
           },
           {
-            "text": "The state-of-the-art Labs and Centres for Excellence are equipped with cutting-edge technology, enabling researchers to explore and apply theoretical concepts. These facilities also aid in performing quantitative and qualitative research tasks, strengthening analytical capabilities and fostering deeper academic inquiry."
+            "text": "testing testing"
           },
           {
-            "text": "Collaboration with global companies and renowned national research organisations plays a pivotal role in advancing interdisciplinary research. With a forward-looking research agenda and dedication to these aforementioned principles, Chandigarh University is committed to contributing to achieving the United Nations Sustainable Development Goals and shaping transformative advancements for society."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "objectives",
-        "index": "02",
-        "label": "Objectives",
-        "title": "Objectives",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Chandigarh University is steadfast towards encouraging an innovation-led research culture across multiple disciplines. The following objectives outline its commitment to advancing impactful research and global knowledge exchange."
+            "text": "testing testing"
           }
         ]
       }
@@ -296,69 +242,69 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "eogwa0bgoblhmy9cto6rv49u",
-    "intro": "Our world-class sports facilities foster physical fitness, teamwork, and competitive spirit.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "facilities",
-        "index": "01",
-        "label": "Facilities",
-        "title": "World-Class Facilities",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "State-of-the-art sports infrastructure includes dedicated spaces for football, basketball, tennis, and cricket, promoting a vibrant sports culture on campus."
+            "text": "testing testing"
           },
           {
-            "text": "The university provides a fully equipped gymnasium and diverse indoor gaming options for relaxation and fitness."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "training",
-        "index": "02",
-        "label": "Training",
-        "title": "Training & Competitions",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Comprehensive coaching programs are designed to support student-athletes in achieving excellence at university and national levels."
+            "text": "testing testing"
           },
           {
-            "text": "Participation in elite inter-university and national tournaments helps students hone their skills and achieve sporting excellence."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "wellness",
-        "index": "03",
-        "label": "Fitness & wellness",
-        "title": "Fitness & Wellness",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Integrating wellness into campus life, our yoga and meditation sessions foster a balanced and healthy lifestyle."
+            "text": "testing testing"
           },
           {
-            "text": "Specialised training programs prepare student-athletes for professional sports careers with expert coaching and mentorship."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "gym-equipment",
-        "index": "04",
-        "label": "Gym equipment",
-        "title": "Modern Equipment",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Exclusive gym spaces for boys and girls promote a safe, convenient, and encouraging fitness experience. With advanced strength and cardio machines, students can train effectively and maintain peak physical fitness."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "fitness-programs",
-        "index": "05",
-        "label": "Fitness programmes",
-        "title": "Fitness Programs",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Certified trainers provide personalised workout plans tailored to individual fitness goals and needs. Group fitness classes such as Zumba and aerobics offer a lively and social way to stay fit and energised."
+            "text": "testing testing"
           }
         ]
       }
@@ -367,31 +313,13 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "grounds",
-        "label": "Grounds & complex",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Sport_20_Complex_230b4cd0ce.webp",
-            "alt": "The sports complex at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_sports1_de5aeeb82f.webp",
-            "alt": "Sports facilities at Chandigarh University Uttar Pradesh",
-            "width": 960,
-            "height": 640
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_sports2_de74d7ece6.webp",
-            "alt": "Sports facilities at Chandigarh University Uttar Pradesh",
-            "width": 1600,
-            "height": 1066
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_assets_sports3_8c64dc45fb.webp",
-            "alt": "Sports facilities at Chandigarh University Uttar Pradesh",
-            "width": 835,
-            "height": 503
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 847
           }
         ]
       }
@@ -399,38 +327,38 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "t33zw71dvqcirpeyf71thzle",
-    "intro": "A haven for knowledge seekers, our libraries house an extensive collection of books, research papers, digital resources, and academic journals.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "academic-resources",
-        "index": "01",
-        "label": "Academic resources",
-        "title": "Academic Resources",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "With a diverse selection of books, research papers, and journals, our library serves as a hub for knowledge and exploration. Our digital libraries provide students with remote access to a wealth of e-books, research papers, and academic journals."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "study-spaces",
-        "index": "02",
-        "label": "Study & research",
-        "title": "Study & Research Spaces",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Well-maintained silent zones ensure a calm and focused atmosphere, ideal for individual learning and academic productivity. Dedicated discussion rooms provide a collaborative space for group projects, brainstorming sessions, and research activities."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "technology",
-        "index": "03",
-        "label": "Technology",
-        "title": "Technology Integration",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The university's online book catalogue allows students to efficiently search, borrow, and manage their reading materials with ease. A well-integrated digital system grants students access to authoritative research portals and academic databases for scholarly growth."
+            "text": "testing testing"
           }
         ]
       }
@@ -439,31 +367,13 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "library",
-        "label": "The libraries",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Digital_20_Libraries_24188780d4.webp",
-            "alt": "The digital library at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_Mobile_Liberrary_3a79c98711.webp",
-            "alt": "",
-            "width": 390,
-            "height": 844
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Seminar_20_Hall_7d547afe35.webp",
-            "alt": "A seminar hall at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Smart_20_Classroom_dc6149aab3.webp",
-            "alt": "A smart classroom at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 800
           }
         ]
       }
@@ -471,58 +381,58 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "d75ye9hnmqok9jg4sqww2p6v",
-    "intro": "Separate, secure hostels for boys and girls, with wardens, biometric entry and a dining mess on the lower floors.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "accommodation",
-        "index": "01",
-        "label": "Accommodation",
-        "title": "Accommodation",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Chandigarh University, Uttar Pradesh, offers a well-furnished and secure hostel accommodation that creates a nurturing environment for students where they can grow, connect, and excel in their personal and professional journey. The campus offers separate hostel facilities for boys and girls."
+            "text": "testing testing"
           },
           {
-            "text": "A uniquely designed triquetra-shaped, 11-storey hostel offers a modern and structured living space. The ground and first floors house essential amenities and a spacious dining mess for students."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "living",
-        "index": "02",
-        "label": "Safe living",
-        "title": "Safe & Comfortable Living",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Core requirements like high-speed Wi-Fi internet access, 24/7 security, hygiene-conscious dining, and vibrant recreational spaces assure the safety and well-being of students."
+            "text": "testing testing"
           },
           {
-            "text": "Separate hostels for boys and girls, equipped with biometric entry, ensure enhanced security and a well-regulated living environment. Trained wardens and student mentors help create a safe, structured, and nurturing hostel atmosphere."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "services",
-        "index": "03",
-        "label": "Amenities",
-        "title": "Amenities & Services",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "The hostels are equipped with laundry services, regular housekeeping, and well-managed mess facilities to maintain cleanliness and comfort for students."
+            "text": "testing testing"
           },
           {
-            "text": "Another key element of a well-managed hostel life at Chandigarh University is the unwavering support of wardens and support staff, ensuring a comfortable and hassle-free living experience for students."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "allotment",
-        "index": "04",
-        "label": "Allotment",
-        "title": "Hostel Allotment Process",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Hostel rooms are allotted through the Chandigarh University Information Management System (CUIMS)."
+            "text": "testing testing"
           }
         ]
       }
@@ -531,43 +441,25 @@ export const LEAVES: Leaves = [
     "gallery": [
       {
         "groupId": "hostel",
-        "label": "The hostels",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Hostel_d73099c4ad.webp",
-            "alt": "",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_infrastructure_Hostel_4923f17bd4.webp",
-            "alt": "",
-            "width": 1920,
-            "height": 1280
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 800
           }
         ]
       },
       {
         "groupId": "around",
-        "label": "Around the blocks",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_infrastructure_ampitheator_0404a2d153.webp",
-            "alt": "The amphitheatre at Chandigarh University Uttar Pradesh",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_why_CU_Images_Green_20_Campus_82ed0af822.webp",
-            "alt": "The green campus at Chandigarh University Uttar Pradesh",
-            "width": 956,
-            "height": 1276
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_Mobile_Campus_inside_f61f671990.webp",
-            "alt": "",
-            "width": 390,
-            "height": 844
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 800
           }
         ]
       }
@@ -575,155 +467,95 @@ export const LEAVES: Leaves = [
   },
   {
     "siteRoute": "t54ydssbth4jk4m4sh0pgzw0",
-    "intro": "Where ideas meet inspiration, talent shines on stage, and every moment brings our community closer together.",
+    "intro": "testing testing",
     "blocks": [
       {
         "anchorId": "campus-events",
-        "index": "01",
-        "label": "Campus events",
-        "title": "Experience the Spirit of Campus Life with Campus Events",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Regular cultural events and interactive activities promote diversity, engagement, and a sense of belonging among students."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "cultural",
-        "index": "02",
-        "label": "Cultural",
-        "title": "Cultural & Clubs",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Fresh Gen Fiesta, the Darpan Theatre Festival, Rhythm & Roots and Verse & Vibes run through the year, alongside Foundation Day, Independence Day, Republic Day and Teacher's Day observances."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "competitions",
-        "index": "03",
-        "label": "Competitions",
-        "title": "Events & Competitions",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Innovation competitions including CUFlowJam and the Smart India Hackathon sit beside workshops on data science, robotics and cybersecurity, and seminars on GATE, fintech and career preparation."
+            "text": "testing testing"
           }
         ]
       },
       {
         "anchorId": "community",
-        "index": "04",
-        "label": "Community",
-        "title": "Health & Community Service",
+        "index": "0000",
+        "label": "testing testing",
+        "title": "testing testing",
         "paragraphs": [
           {
-            "text": "Blood donation camps, safety awareness programmes and women empowerment initiatives run as part of the campus calendar."
+            "text": "testing testing"
           }
         ]
       }
     ],
     "chips": [
       {
-        "label": "Academics"
+        "label": "testing testing"
       },
       {
-        "label": "AI"
+        "label": "testing testing"
       },
       {
-        "label": "Cultural & Clubs"
+        "label": "testing testing"
       },
       {
-        "label": "Orientation"
+        "label": "testing testing"
       },
       {
-        "label": "Events & Competitions"
+        "label": "testing testing"
       },
       {
-        "label": "Sports"
+        "label": "testing testing"
       }
     ],
     "gallery": [
       {
         "groupId": "fests",
-        "label": "Fests",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_Paradox_774b8d7b7a.webp",
-            "alt": "",
-            "width": 1920,
-            "height": 1080
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_120_20_Bahadur_7750c5c9c6.webp",
-            "alt": "120 Bahadur, a fest performance at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_Dhavni_Bhanushali_a95027cc24.webp",
-            "alt": "",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_asees_20kor_fb0929abb8.webp",
-            "alt": "Asees Kaur performing at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_Fareedkot_e4b992568a.webp",
-            "alt": "",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_fests_HSK_02655_32dd4f31ab.webp",
-            "alt": "A fest at Chandigarh University Uttar Pradesh",
-            "width": 2560,
-            "height": 1706
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+            "alt": "testing image",
+            "width": 800,
+            "height": 600
           }
         ]
       },
       {
         "groupId": "events",
-        "label": "Events",
+        "label": "testing testing",
         "images": [
           {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_20_Convergence_976ee4f472.webp",
-            "alt": "AI Convergence at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_Yogi_20ji_20_Inaugration_71cbda04ad.webp",
-            "alt": "The inauguration at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_Kuldeep_20_Yadav_69c47f7f3f.webp",
-            "alt": "Kuldeep Yadav at Chandigarh University Uttar Pradesh",
-            "width": 1805,
-            "height": 820
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_SYP_0506_479f3effa1.webp",
-            "alt": "An event at Chandigarh University Uttar Pradesh",
-            "width": 2560,
-            "height": 1707
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_SYP_8601_42e0356b44.webp",
-            "alt": "An event at Chandigarh University Uttar Pradesh",
-            "width": 2560,
-            "height": 1707
-          },
-          {
-            "url": "http://127.0.0.1:1337/uploads/images_campus_life_events_IMG_9449_fa768a00dc.webp",
-            "alt": "An event at Chandigarh University Uttar Pradesh",
-            "width": 2560,
-            "height": 1707
+            "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+            "alt": "testing image",
+            "width": 1200,
+            "height": 800
           }
         ]
       }

@@ -5,442 +5,1064 @@ import type { TraditionSection } from '../../types/pages/home/tradition';
 export type { TraditionSection };
 
 export const TRADITION_SECTION: TraditionSection = {
-  "heading": "*Illustrious Legacy* of\nChandigarh University",
-  "filmHeading": "Welcome to \n*Chandigarh University, Uttar Pradesh*",
-  "ctaLabel": "Apply Now",
-  "opportunitiesText": "From securing a dream job with the world's leading companies to serving in the defence forces or pursuing your passion as an artist, CU offers diverse opportunities to fulfil your aspirations.",
+  "heading": "testing *testing*",
+  "filmHeading": "testing *testing*",
+  "ctaLabel": "testing testing",
+  "opportunitiesText": "testing testing",
   "stats": [
     {
-      "value": "100 K",
-      "label": "ALUMNI",
-      "note": "Accomplished Alumni Across the Globe"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "250+",
-      "label": "STARTUPS",
-      "note": "Startups Incubated"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "1.7 CR",
-      "label": "PLACEMENT",
-      "note": "Highest Package Offered (International)"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "980+",
-      "label": "STALWARTS",
-      "note": "Industry Stalwarts for Top-Tier Mentorship"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     }
   ],
   "slides": [
     {
-      "title": "India's First *AI-Integrated* \nMultidisciplinary University",
-      "description": "In an era propelled by the advent of artificial intelligence, Chandigarh University, Uttar Pradesh, has embraced a multidisciplinary education model enriched by AI integration, preparing students to lead the future."
+      "title": "testing *testing*",
+      "description": "testing testing"
     },
     {
-      "title": "Scholarship Worth *100 Crore* \nto Unlock Your Potential",
-      "description": "To unlock your scholarly potential and pave the way for your bright future at Chandigarh University, Uttar Pradesh, with up to 100% scholarship opportunities."
+      "title": "testing *testing*",
+      "description": "testing testing"
     },
     {
-      "title": "*India's No.1* Private University \nnow in *Uttar Pradesh*",
-      "description": "A new era of academic excellence begins as the legacy of India's No. 1 leading private university expands to UP, built on world-class education, industry-aligned programs and exceptional placement outcomes."
+      "title": "testing *testing*",
+      "description": "testing testing"
     }
   ],
   "alumni": [
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Anusha_Raj_Judicial_Magistrate_Government_of_Bihar_Patna_1_88b757eb1a.webp",
-        "alt": "Anusha Raj",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
       },
-      "name": "Anusha Raj",
-      "role": "Judicial Magistrate",
-      "status": "Government of Bihar, Patna"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Jaspreet_Singh_Atlassian_Package_59_9_Lakh_1_b4766fe164.webp",
-        "alt": "Jaspreet Singh",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "name": "Jaspreet Singh",
-      "role": "Atlassian Package",
-      "status": "₹59.9 Lakh"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Kshitij_Rasal_Tesla_USA_70_Lakh_1_23d198de00.webp",
-        "alt": "Kshitij Rasal",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "name": "Kshitij Rasal",
-      "role": "Tesla, USA",
-      "status": "70 Lakh"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Pawan_Sehrawat_Arjun_Awardee_Key_Player_of_Indian_Kabaddi_Team_1_be964fd1b0.webp",
-        "alt": "Pawan Sehrawat",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "name": "Pawan Sehrawat",
-      "role": "Arjun Awardee",
-      "status": "Indian Kabaddi Team"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Sanjay_Arjuna_Awardee_Key_Player_of_Indian_Hockey_Team_1_6905ee59a0.webp",
-        "alt": "Sanjay",
-        "width": 600,
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
         "height": 600
       },
-      "name": "Sanjay",
-      "role": "Arjuna Awardee",
-      "status": "Indian Hockey Team"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Utkarsh_Luthra_Entrepreneur_Medoc_Health_1_Cr_Turnover_1_229d7566fd.webp",
-        "alt": "Utkarsh Luthra",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "name": "Utkarsh Luthra",
-      "role": "Entrepreneur - Medoc Health",
-      "status": "1 Cr Turnover"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/legacy_Aluminus_Vishwas_Khatak_Civil_Judge_cum_Judicial_Magistrate_Government_of_Haryana_1_6ff01f45cb.webp",
-        "alt": "Vishwas Khatak",
-        "width": 600,
-        "height": 600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "name": "Vishwas Khatak",
-      "role": "Civil Judge cum Judicial Magistrate",
-      "status": "Government of Haryana"
+      "name": "testing testing",
+      "role": "testing testing",
+      "status": "0000"
     }
   ],
   "highlights": [
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_traditon_section_india_first_ai_fest_cb12e97f56.jpg",
-        "alt": "India First AI Fest at Chandigarh University",
-        "width": 1920,
-        "height": 960
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
       },
-      "title": "India First AI Fest"
+      "title": "testing testing"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_traditon_section_Overall_Champian_a9af3ece4d.jpg",
-        "alt": "Chandigarh University students with the overall championship trophy",
-        "width": 2160,
-        "height": 1080
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "title": "39th AIU Inter-University North Zone"
+      "title": "testing testing"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_traditon_section_Khelo_Indian_2_3b69e7a720.jpg",
-        "alt": "Khelo India celebration at Chandigarh University",
-        "width": 2160,
-        "height": 1080
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "title": "Khelo India Celebration"
+      "title": "testing testing"
     },
     {
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_traditon_section_NIRF_RANKING_1_2ccf653fe5.jpg",
-        "alt": "NIRF ranking celebration at Chandigarh University",
-        "width": 2160,
-        "height": 1080
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "title": "NIRF Ranking Celebration"
+      "title": "testing testing"
     }
   ],
   "quickLinks": [
     {
-      "label": "Explore Careers",
+      "label": "testing testing",
       "href": "#programs-section"
     },
     {
-      "label": "International Edge",
+      "label": "testing testing",
       "href": "#international-section"
     },
     {
-      "label": "In the News",
+      "label": "testing testing",
       "href": "#news-section"
     },
     {
-      "label": "Glimpse of Student Life",
+      "label": "testing testing",
       "href": "#campus-life-section"
     }
   ],
   "placementMetrics": [
     {
-      "value": "10,000+",
-      "label": "OFFERS",
-      "note": "Placement Offers Made to Our Students"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "1,300+",
-      "label": "COMPANIES",
-      "note": "Company Visits for Campus Recruitment"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "₹1.7 CR",
-      "label": "HIGHEST",
-      "note": "Highest International Package Offered"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "180+",
-      "label": "10+ LPA",
-      "note": "Companies Offering Above 10 LPA"
+      "value": "0000",
+      "label": "0000",
+      "note": "testing testing"
     }
   ],
   "departments": [
     {
-      "name": "CSE & IT",
-      "companies": 122,
-      "students": 2030
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Management",
-      "companies": 400,
-      "students": 1427
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Electrical",
-      "companies": 37,
-      "students": 628
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Mechanical",
-      "companies": 115,
-      "students": 530
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Hotel Mgmt",
-      "companies": 106,
-      "students": 294
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Civil/Chem",
-      "companies": 35,
-      "students": 178
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     },
     {
-      "name": "Pharma",
-      "companies": 27,
-      "students": 159
+      "name": "testing testing",
+      "companies": 0,
+      "students": 0
     }
   ],
   "overviewMetrics": [
     {
-      "value": "100 K",
-      "label": "ALUMNI",
-      "note": "Accomplished Alumni Across the Globe"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "250+",
-      "label": "STARTUPS",
-      "note": "Startups Incubated at Chandigarh University"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "980+",
-      "label": "STALWARTS",
-      "note": "Industry Stalwarts for Top-Tier Mentorship"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "1.7 CR",
-      "label": "PLACEMENT",
-      "note": "Highest International Package Offered"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     }
   ],
   "researchMetrics": [
     {
-      "value": "24,000",
-      "label": "PAPERS",
-      "note": "Publications in National and International Journals"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "5,900",
-      "label": "PATENTS",
-      "note": "Patents Filed From Campus Labs"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "200",
-      "label": "GROUPS",
-      "note": "Active Interdisciplinary Research Groups"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     },
     {
-      "value": "2M+",
-      "label": "CITATIONS",
-      "note": "Citations of Chandigarh University Research"
+      "value": "0000",
+      "label": "testing testing",
+      "note": "testing testing"
     }
   ],
   "impactRings": [
     {
-      "label": "Citations per publication",
-      "value": 83,
-      "total": 100
+      "label": "testing testing",
+      "value": 0,
+      "total": 1
     },
     {
-      "label": "Publications per research group",
-      "value": 120,
-      "total": 200
+      "label": "testing testing",
+      "value": 0,
+      "total": 1
     },
     {
-      "label": "Patents per 100 publications",
-      "value": 25,
-      "total": 100
+      "label": "testing testing",
+      "value": 0,
+      "total": 1
     }
   ],
   "patents": [
     {
-      "title": "Toilet Flushing System And A Method Thereof",
+      "title": "testing testing",
       "applicationId": "201811031386",
-      "author": "Lohit Gaurav"
+      "author": "testing testing"
     },
     {
-      "title": "A Solar Powered Traffic Light Control System",
+      "title": "testing testing",
       "applicationId": "201811040359",
-      "author": "Dr. Sanjeet Singh"
+      "author": "testing testing"
     },
     {
-      "title": "Automated Soil Levelling Device",
+      "title": "testing testing",
       "applicationId": "202311024727",
-      "author": "Amanpreet Singh"
+      "author": "testing testing"
     },
     {
-      "title": "Automatic Irrigation System And A Method For The Same",
+      "title": "testing testing",
       "applicationId": "201811040604",
-      "author": "Dr. Seema"
+      "author": "testing testing"
     },
     {
-      "title": "Bill Estimation System",
+      "title": "testing testing",
       "applicationId": "201811040364",
-      "author": "Khushal Thakur"
+      "author": "testing testing"
     },
     {
-      "title": "Comb Cleaning Device",
+      "title": "testing testing",
       "applicationId": "202011009961",
-      "author": "Dr. Inderpreet Kaur"
+      "author": "testing testing"
     },
     {
-      "title": "Fermented Herbal Drink And Preparation Thereof",
+      "title": "testing testing",
       "applicationId": "201811031413",
-      "author": "Dr. Tarun Kumar"
+      "author": "testing testing"
     },
     {
-      "title": "Heat Absorption Covering Apparatus",
+      "title": "testing testing",
       "applicationId": "201911054747",
-      "author": "Sahil Dogra"
+      "author": "testing testing"
     },
     {
-      "title": "Intelligent Shopping System",
+      "title": "testing testing",
       "applicationId": "202011009967",
-      "author": "Arun Kumar"
+      "author": "testing testing"
     },
     {
-      "title": "Locker Security System",
+      "title": "testing testing",
       "applicationId": "201811040358",
-      "author": "Khushal Thakur"
+      "author": "testing testing"
     },
     {
-      "title": "Artificial Intelligence Based Market Forecasting Devices and Frameworks",
+      "title": "testing testing",
       "applicationId": "438059-001",
-      "author": "Dr. Uma Shankar"
+      "author": "testing testing"
     },
     {
-      "title": "IoT-Enabled Smart Agriculture Monitoring System Using Deep Learning Networks",
+      "title": "testing testing",
       "applicationId": "20251109432A",
-      "author": "Dr. Neha Gupta"
+      "author": "testing testing"
     },
     {
-      "title": "Graphene-Based Nanocomposites for High-Efficiency Lithium-Ion Battery Electrodes",
+      "title": "testing testing",
       "applicationId": "542190-008",
-      "author": "Dr. Sandeep Kumar"
+      "author": "testing testing"
     },
     {
-      "title": "Dynamic Revenue Management and Automated Room Pricing System",
+      "title": "testing testing",
       "applicationId": "PAT-BUS-101",
-      "author": "Dr. Vivek Agnihotri"
+      "author": "testing testing"
     },
     {
-      "title": "Smart Room Sanitation Status Indicator Device and Method",
+      "title": "testing testing",
       "applicationId": "PAT-HTL-102",
-      "author": "Dr. Inderpreet Kaur"
+      "author": "testing testing"
     },
     {
-      "title": "Smart Kitchen Inventory Sensor Shelf for Dynamic Menu Pricing",
+      "title": "testing testing",
       "applicationId": "PAT-HTL-103",
-      "author": "Chef Kabir Anand"
+      "author": "testing testing"
     },
     {
-      "title": "Automated Customer Sentiment Analysis Interface for Retail Counters",
+      "title": "testing testing",
       "applicationId": "PAT-MKT-104",
-      "author": "Dr. Preeti Sharma"
+      "author": "testing testing"
     },
     {
-      "title": "Dynamic Advertising Board with Interactive Customer Scanning",
+      "title": "testing testing",
       "applicationId": "PAT-MKT-105",
-      "author": "Dr. Rajat Verma"
+      "author": "testing testing"
     },
     {
-      "title": "Wearable Glucose Monitor with Real-Time Haptic Alert System",
+      "title": "testing testing",
       "applicationId": "PAT-HLH-106",
-      "author": "Dr. Preeti Sharma"
+      "author": "testing testing"
     },
     {
-      "title": "Automated Employee Attendance and Smart Locker Access System",
+      "title": "testing testing",
       "applicationId": "PAT-BUS-107",
-      "author": "Lohit Gaurav"
+      "author": "testing testing"
     }
   ],
   "researchDomains": [
-    "AI-ML",
-    "Autonomous Agents",
-    "AR-VR",
-    "Robotics",
-    "Sustainability",
-    "Data Science",
-    "Quantum Computing",
-    "Cybersecurity",
-    "Biotechnology",
-    "Renewable Energy",
-    "Healthcare AI"
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing"
   ],
   "researchClusters": [
-    "Artificial Intelligence",
-    "Medicine",
-    "Chemistry",
-    "Augmented Reality",
-    "Robotics",
-    "Biotechnology"
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing",
+    "testing testing"
   ],
   "labImages": [
     {
-      "url": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp",
-      "alt": "",
-      "width": 2560,
-      "height": 1707
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
+    }
+  ],
+  "companyLogos": [
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "url": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_6859_5b0979e6ee.webp",
-      "alt": "AI lab workstations at Chandigarh University, Uttar Pradesh",
-      "width": 2457,
-      "height": 1638
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
     },
     {
-      "url": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7760_6452537816.webp",
-      "alt": "",
-      "width": 2560,
-      "height": 1707
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    }
+  ],
+  "partnerLogos": [
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     }
   ]
 };

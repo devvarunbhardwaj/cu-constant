@@ -7,43 +7,43 @@ export type { CucetSlabs };
 export const CUCET_SLABS: CucetSlabs = [
   {
     "phase": "phase-2",
-    "band": "90.01 – 100",
-    "value": "100%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 100
   },
   {
     "phase": "phase-2",
-    "band": "80 – 90",
-    "value": "40%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 101
   },
   {
     "phase": "phase-2",
-    "band": "70 – 79.99",
-    "value": "30%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 102
   },
   {
     "phase": "phase-2",
-    "band": "60 – 69.99",
-    "value": "20%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 103
   },
   {
     "phase": "phase-2",
-    "band": "50 – 59.99",
-    "value": "15%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 104
   },
   {
     "phase": "phase-2",
-    "band": "40 – 49.99",
-    "value": "10%",
+    "band": "testing testing",
+    "value": "0000",
     "note": "",
     "order": 105
   }

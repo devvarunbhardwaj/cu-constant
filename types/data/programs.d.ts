@@ -84,8 +84,8 @@ export type Program = {
   /** The sub-line under "Why Choose …?". Constants-only, like `about`. */
   whyChoose?: string;
 
-  /** Programme ids for the Related Programmes row. Defaults to same-discipline siblings. */
-  relatedIds?: number[];
+  /** Programme codes for the Related Programmes row. Defaults to same-discipline siblings. */
+  relatedIds?: string[];
 
   /** Per-programme placement content. Constants-only, like `about`. */
   placement?: {

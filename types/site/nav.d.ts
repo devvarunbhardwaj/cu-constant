@@ -13,9 +13,54 @@ export type ColumnLogo = {
   logo: CmsImage;
 };
 
+/** NavbarData.ts's `primaryLinks` entry shape, verbatim. */
+export type PrimaryLink = {
+  label: string;
+  href: string;
+};
+
+/** NavbarData.ts's `secondaryLinks` entry shape, verbatim. */
+export type SecondaryLink = {
+  label: string;
+  hasDropdown: boolean;
+  href?: string;
+};
+
+/** NavbarData.ts's `dropdownLinksData[section]` row shape, verbatim. */
+export type DropdownLink = {
+  label: string;
+  href: string;
+};
+
+/** One row of Navbar.tsx's SEARCH_SUGGESTIONS const; `href` is that row's `target` anchor. */
+export type SearchSuggestion = {
+  label: string;
+  href: string;
+};
+
+/** The shared leaf CTA band rendered by SectionShell.tsx / LeafShell.tsx on every leaf page. */
+export type CtaBand = {
+  eyebrow: string;
+  title: string;
+  body: string;
+  primaryLabel: string;
+  primaryHref: string;
+  secondaryLabel: string;
+  secondaryHref: string;
+  tone: 'accent' | 'neutral' | null;
+};
+
 export type Nav = {
   quickLinks: QuickLink[];
   partnerLogo: CmsImage | null;
   columnLogos: ColumnLogo[];
   searchPlaceholder: string;
+  primaryLinks: PrimaryLink[];
+  secondaryLinks: SecondaryLink[];
+  /** Mirrors NavbarData.ts's `dropdownLinksData`: keyed by a secondary link's label. */
+  dropdownLinksData: Record<string, DropdownLink[]>;
+  applyLabel: string;
+  applyHref: string;
+  searchSuggestions: SearchSuggestion[];
+  defaultCta: CtaBand | null;
 };

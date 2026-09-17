@@ -5,40 +5,45 @@ import type { Contact } from '../types/pages/contact';
 export type { Contact };
 
 export const CONTACT: Contact = {
-  "campusName": "Chandigarh University",
-  "campusAddress": "Chandigarh University, Lucknow - Kanpur Highway - 27, Unnao, Uttar Pradesh, India",
+  "campusName": "testing testing",
+  "campusAddress": "testing testing",
   "campusMapLink": "",
-  "campusImage": null,
+  "campusImage": {
+    "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+    "alt": "testing image",
+    "width": 1200,
+    "height": 800
+  },
   "groups": [
     {
-      "name": "General Helpline",
+      "name": "testing testing",
       "body": "",
       "channels": [
         {
           "kind": "phone",
-          "label": "24*7 Helpline No.",
-          "value": "9646001222"
+          "label": "testing testing",
+          "value": "0000"
         },
         {
           "kind": "phone",
-          "label": "Toll Free No.",
-          "value": "1800 270 1411"
+          "label": "testing testing",
+          "value": "0000"
         }
       ]
     },
     {
-      "name": "Admissions Helpline",
+      "name": "testing testing",
       "body": "",
       "channels": [
         {
           "kind": "phone",
-          "label": "Admissions Helpline",
-          "value": "+91-9646001333"
+          "label": "testing testing",
+          "value": "0000"
         },
         {
           "kind": "email",
-          "label": "Admissions Helpline",
-          "value": "admissions@culko.in"
+          "label": "testing testing",
+          "value": "0000"
         }
       ]
     }

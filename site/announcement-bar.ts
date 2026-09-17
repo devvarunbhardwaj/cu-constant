@@ -5,24 +5,24 @@ import type { AnnouncementBar } from '../types/site/announcement-bar';
 export type { AnnouncementBar };
 
 export const ANNOUNCEMENT_BAR: AnnouncementBar = {
-  "message": "International Conference On New Media Ecologies: Transforming Communication Paradigms In The Digital Age",
-  "ctaLabel": "Register Now",
+  "message": "testing testing",
+  "ctaLabel": "testing testing",
   "contactLinks": [
     {
       "id": "1",
-      "label": "Whatsapp",
+      "label": "testing testing",
       "link": "https://wa.me/9115888961",
       "icon": "whatsapp"
     },
     {
       "id": "2",
-      "label": "Call Us",
+      "label": "testing testing",
       "link": "tel:+18002701411",
       "icon": "phone"
     },
     {
       "id": "3",
-      "label": "culko.in",
+      "label": "testing testing",
       "link": "https://culko.in",
       "icon": "globe"
     }

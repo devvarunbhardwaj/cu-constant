@@ -7,75 +7,120 @@ export type { CampusLife };
 export const CAMPUS_LIFE: CampusLife = {
   "facilities": [
     {
-      "name": "Food Courts",
-      "body": "Catering to diverse tastes and dietary preferences, our food courts offer a wide variety of nutritious and flavourful meals.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
     },
     {
-      "name": "Libraries",
-      "body": "A haven for knowledge seekers, our libraries house an extensive collection of books, research papers, digital resources, and academic journals.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Banking",
-      "body": "The university campus hosts full-fledged banking facilities, including ATMs, student-friendly loan services, and online transaction support.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Healthcare",
-      "body": "Student well-being is our top priority, and our healthcare facilities ensure immediate medical assistance in times of need.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Transportation",
-      "body": "Efficient and well-maintained transport services connect students and staff to and from the university with ease.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
     },
     {
-      "name": "Sports",
-      "body": "Our world-class sports facilities foster physical fitness, teamwork, and competitive spirit.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Gyms",
-      "body": "State-of-the-art gyms offer modern workout equipment, personal training sessions, and group fitness classes.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
     },
     {
-      "name": "Classrooms",
-      "body": "Equipped with smart boards, ergonomic seating and high-speed internet connectivity to enhance the learning experience.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
     },
     {
-      "name": "Laundry",
-      "body": "Laundry service is available on campus at an additional charge; it is not included in the hostel fee.",
-      "image": null
+      "name": "testing testing",
+      "body": "testing testing",
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
     }
   ],
   "hostelFacts": [
     {
-      "label": "Blocks",
-      "value": "Separate boys' and girls' hostels, 11 storeys, triquetra plan"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Rooms",
-      "value": "4-seater air-conditioned rooms with individual bed, almirah and study table"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Meals",
-      "value": "Three meals a day plus evening tea and snacks"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Included",
-      "value": "Gym, sports, salon and Wi-Fi access"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Fee, SAARC",
-      "value": "INR 1,45,000 per year"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Fee, non-SAARC",
-      "value": "USD 2,250 per year"
+      "label": "testing testing",
+      "value": "0000"
     }
   ]
 };

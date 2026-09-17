@@ -5,15 +5,15 @@ import type { HeroSection } from '../../types/pages/home/hero';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "India's First *AI-Augmented\nMultidisciplinary University*",
-  "subheading": "longs headings are boring",
+  "heading": "testing *testing*",
+  "subheading": "testing testing",
   "fallbackImage": {
-    "url": "http://127.0.0.1:1337/uploads/images_hero_bg_0f8469866c.webp",
-    "alt": "Chandigarh University",
-    "width": 1728,
-    "height": 1151
+    "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+    "alt": "testing image",
+    "width": 1200,
+    "height": 800
   },
   "countdownDeadline": "2026-10-20T18:29:59.000Z",
-  "countdownLabel": "Application Window For CUCET\n(Phase-I) Closes On",
-  "countdownDateLabel": "15th October 2026"
+  "countdownLabel": "0000",
+  "countdownDateLabel": "0000"
 };

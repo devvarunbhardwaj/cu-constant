@@ -6,3356 +6,4228 @@ export type { Programs };
 
 export const PROGRAMS: Programs = [
   {
-    "id": 1689,
+    "id": 1926,
     "discipline": "Business",
     "programCode": "LMB301",
-    "programShortName": "MBA",
-    "programName": "Master of Business Administration",
+    "programShortName": "program 1 testing",
+    "programName": "program 1 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 156500,
-    "eligibilityCriteria": "Bachelor's degree in any discipline with at least 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply.",
-    "title": "MBA",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 1 testing",
+    "title": "program 1 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year postgraduate program equipping students with core managerial competencies, strategic leadership, and practical business decision-making skills.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 1 testing",
+    "description": "program 1 testing",
+    "format": "program 1 testing",
+    "duration": "program 1 testing",
+    "eligibility": "program 1 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_301_b902279bce.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Curriculum Design Based on",
-        "titleHighlight": "Industry Demands",
-        "description": "The design of the curriculum is based on feedback from academic and industry professionals, with the use of case studies, simulations and current business situations.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 1 testing",
+        "titleHighlight": "program 1 testing",
+        "description": "program 1 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "02",
-        "title": "Exposure to",
-        "titleHighlight": "Experiential Learning",
-        "description": "Emphasis on learning through experience by means of project work, field work and internships, which improves decision-making skills and understanding.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 1 testing",
+        "titleHighlight": "program 1 testing",
+        "description": "program 1 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "03",
-        "title": "Career",
-        "titleHighlight": "Opportunities",
-        "description": "Career opportunities range across BFSI, FMCG, IT, consulting and e-commerce, with structured placement assistance and active industry linkage.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 1 testing",
+        "titleHighlight": "program 1 testing",
+        "description": "program 1 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 1 testing",
+      "facts": [
+        {
+          "label": "program 1 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 1 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 1 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 1 testing"
+    },
+    "whyChoose": "program 1 testing",
+    "globalCertifications": "program 1 testing"
   },
   {
-    "id": 1690,
+    "id": 1927,
     "discipline": "Business",
     "programCode": "LMB302",
-    "programShortName": "MBA_AF",
-    "programName": "Master of Business Administration (Applied Finance) with PwC",
+    "programShortName": "program 2 testing",
+    "programName": "program 2 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 175000,
-    "eligibilityCriteria": "Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University/ Institution. Applicants with Commerce background will be preferred. Graduates of recognized professional programmes like CA/ ICWA etc.",
-    "title": "MBA (Applied Finance) with PwC",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 2 testing",
+    "title": "program 2 testing",
     "theme": "dark",
     "logoId": "PwC",
-    "partner": "PwC",
-    "description": "A 2-year specialized program designed with PwC to deliver hands-on expertise in financial modeling, valuation, corporate finance, and risk management.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 2 testing",
+    "description": "program 2 testing",
+    "format": "program 2 testing",
+    "duration": "program 2 testing",
+    "eligibility": "program 2 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_302_b6c2e107ad.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [
       {
-        "num": "01",
-        "title": "PwC Industry",
-        "titleHighlight": "Integration",
-        "description": "Designed with PwC, the curriculum brings industry practice into corporate finance and consulting coursework, with students mentored by professionals working in the field.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 2 testing",
+        "titleHighlight": "program 2 testing",
+        "description": "program 2 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "02",
-        "title": "Real Business",
-        "titleHighlight": "Scenarios",
-        "description": "Corporate finance, investment management, financial statements and risk management are taught through real business cases, financial tools and case studies.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 2 testing",
+        "titleHighlight": "program 2 testing",
+        "description": "program 2 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "03",
-        "title": "Internships &",
-        "titleHighlight": "Live Projects",
-        "description": "Internships and live projects run throughout the program, with professional development and placement assistance into finance and consulting careers.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 2 testing",
+        "titleHighlight": "program 2 testing",
+        "description": "program 2 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 2 testing",
+      "facts": [
+        {
+          "label": "program 2 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 2 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 2 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 2 testing"
+    },
+    "whyChoose": "program 2 testing",
+    "globalCertifications": "program 2 testing"
   },
   {
-    "id": 1691,
+    "id": 1928,
     "discipline": "Business",
     "programCode": "LMB303",
-    "programShortName": "MBA_FINTECH",
-    "programName": "Master of Business Administration (FinTech) with NSE Academy",
+    "programShortName": "program 3 testing",
+    "programName": "program 3 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 175000,
-    "eligibilityCriteria": "Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University. Applicants with Commerce background will be preferred.",
-    "title": "MBA (FinTech) with NSE Academy",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 3 testing",
+    "title": "program 3 testing",
     "theme": "active",
     "logoId": "NSE",
-    "partner": "NSE Academy",
-    "description": "A 2-year industry-aligned program in collaboration with NSE Academy covering financial technology, blockchain, algorithmic trading, and digital banking.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 3 testing",
+    "description": "program 3 testing",
+    "format": "program 3 testing",
+    "duration": "program 3 testing",
+    "eligibility": "program 3 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_303_4c9b420850.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_image_85_4846640fbc.png",
-      "alt": "",
-      "width": 99,
-      "height": 98
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Live Market &",
-        "titleHighlight": "Trading Labs",
-        "description": "Students work with live financial market data and trading platforms, with trading simulations built into the coursework.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 3 testing",
+        "titleHighlight": "program 3 testing",
+        "description": "program 3 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       },
       {
-        "num": "02",
-        "title": "NSE Academy",
-        "titleHighlight": "Certifications",
-        "description": "Globally recognised certifications from NSE Academy across financial markets, FinTech and digital banking are available through the program.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 3 testing",
+        "titleHighlight": "program 3 testing",
+        "description": "program 3 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       },
       {
-        "num": "03",
-        "title": "Emerging Technology",
-        "titleHighlight": "Curriculum",
-        "description": "The curriculum covers current FinTech trends alongside Artificial Intelligence, blockchain technology and digital banking.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 3 testing",
+        "titleHighlight": "program 3 testing",
+        "description": "program 3 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       },
       {
-        "num": "04",
-        "title": "BFSI Career",
-        "titleHighlight": "Prospects",
-        "description": "Class projects, industry-linked learning and strong placement support open career prospects across the BFSI and FinTech sectors.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 3 testing",
+        "titleHighlight": "program 3 testing",
+        "description": "program 3 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 3 testing",
+      "facts": [
+        {
+          "label": "program 3 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 3 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 3 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 3 testing"
+    },
+    "whyChoose": "program 3 testing",
+    "globalCertifications": "program 3 testing"
   },
   {
-    "id": 1692,
+    "id": 1929,
     "discipline": "Business",
     "programCode": "LMB305",
-    "programShortName": "MBA_SHR",
-    "programName": "Master of Business Administration (Strategic HR) with AON",
+    "programShortName": "program 4 testing",
+    "programName": "program 4 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 162500,
-    "eligibilityCriteria": "Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA/CS etc",
-    "title": "MBA (Strategic HR)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 4 testing",
+    "title": "program 4 testing",
     "theme": "light",
     "logoId": "AON",
-    "partner": "AON",
-    "description": "A 2-year corporate-focused program with AON focusing on talent acquisition, strategic human capital management, and organizational analytics.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 4 testing",
+    "description": "program 4 testing",
+    "format": "program 4 testing",
+    "duration": "program 4 testing",
+    "eligibility": "program 4 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_305_cfc7955ac7.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Operations Meets",
-        "titleHighlight": "HR Strategy",
-        "description": "The academic format targets the exact point where daily business operations overlap with high-level human resource strategy.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 4 testing",
+        "titleHighlight": "program 4 testing",
+        "description": "program 4 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       },
       {
-        "num": "02",
-        "title": "Workforce",
-        "titleHighlight": "Analytics",
-        "description": "Instructional pacing accelerates once candidates clear the management fundamentals, pushing them directly into complex workforce analytics.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 4 testing",
+        "titleHighlight": "program 4 testing",
+        "description": "program 4 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "03",
-        "title": "AI-Enabled",
-        "titleHighlight": "Infrastructure",
-        "description": "Conventional classrooms give way to an AI-enabled infrastructure designed to foster continuous technical engagement and skill development.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 4 testing",
+        "titleHighlight": "program 4 testing",
+        "description": "program 4 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "04",
-        "title": "Hire-Ready",
-        "titleHighlight": "Capabilities",
-        "description": "Students leave holding the strategic capabilities that global consulting firms and major public organisations are actively hiring for.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 4 testing",
+        "titleHighlight": "program 4 testing",
+        "description": "program 4 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 4 testing",
+      "facts": [
+        {
+          "label": "program 4 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 4 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 4 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 4 testing"
+    },
+    "whyChoose": "program 4 testing",
+    "globalCertifications": "program 4 testing"
   },
   {
-    "id": 1693,
+    "id": 1930,
     "discipline": "Business",
     "programCode": "LMB306",
-    "programShortName": "MBA_DM",
-    "programName": "Master of Business Administration (Digital Marketing)",
+    "programShortName": "program 5 testing",
+    "programName": "program 5 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 156500,
-    "eligibilityCriteria": "Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc.",
-    "title": "MBA (Digital Marketing)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 5 testing",
+    "title": "program 5 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year master degree mastering search engine optimization, performance marketing, social media strategies, and consumer analytics.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 5 testing",
+    "description": "program 5 testing",
+    "format": "program 5 testing",
+    "duration": "program 5 testing",
+    "eligibility": "program 5 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_306_5331bf4994.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 847
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry Co-Designed",
-        "titleHighlight": "Program",
-        "description": "The curriculum was developed with industry leaders, so what students learn about digital marketing stays aligned with current business and technology trends.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 5 testing",
+        "titleHighlight": "program 5 testing",
+        "description": "program 5 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
       },
       {
-        "num": "02",
-        "title": "Live",
-        "titleHighlight": "Projects",
-        "description": "Students complete live projects during the program, putting what they learn into practice and building a portfolio as they go.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 5 testing",
+        "titleHighlight": "program 5 testing",
+        "description": "program 5 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       },
       {
-        "num": "03",
-        "title": "Digital Event",
-        "titleHighlight": "Learning",
-        "description": "Digithons, brand challenges and experiential learning build creativity, sharpen problem-solving and give a clearer read of the industry.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 5 testing",
+        "titleHighlight": "program 5 testing",
+        "description": "program 5 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       },
       {
-        "num": "04",
-        "title": "Start-Up",
-        "titleHighlight": "Collaborations",
-        "description": "Students build digital solutions for start-ups, supported by mentoring and entrepreneurial training.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 5 testing",
+        "titleHighlight": "program 5 testing",
+        "description": "program 5 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       }
     ],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1694,
+    "id": 1931,
     "discipline": "Business",
     "programCode": "LMB307",
-    "programShortName": "MBA_DSAI",
-    "programName": "Master of Business Administration (Data Science and Artificial Intelligence) with SAS",
+    "programShortName": "program 6 testing",
+    "programName": "program 6 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 168000,
-    "eligibilityCriteria": "Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution with Mathematics/Statistics/Quantitative Techniques as one of the subjects at 10+2 or Graduation Level.",
-    "title": "MBA (Data Science and Artificial Intelligence) with SAS",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 6 testing",
+    "title": "program 6 testing",
     "theme": "active",
     "logoId": "SAS",
-    "partner": "SAS",
-    "description": "A 2-year program in partnership with SAS integrating business acumen with advanced predictive analytics, AI algorithms, and data visualization.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 6 testing",
+    "description": "program 6 testing",
+    "format": "program 6 testing",
+    "duration": "program 6 testing",
+    "eligibility": "program 6 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_307_09b8362442.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_sas_image_b160a8cf8b.webp",
-      "alt": "",
-      "width": 104,
-      "height": 43
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1695,
+    "id": 1932,
     "discipline": "Business",
     "programCode": "LMB308",
-    "programShortName": "MBA_BA with IBM",
-    "programName": "Master of Business Administration (Business Analytics) with IBM",
+    "programShortName": "program 7 testing",
+    "programName": "program 7 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 165000,
-    "eligibilityCriteria": "Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution with Mathematics/Statistics/Quantitative Techniques as one of the subjects at 10+2 or Graduation Level. Graduates of recognized professional programmes like CA/ ICWA/CS etc. are also eligible to apply.",
-    "title": "MBA (Business Analytics) with IBM",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 7 testing",
+    "title": "program 7 testing",
     "theme": "light",
     "logoId": "IBM",
-    "partner": "IBM",
-    "description": "A 2-year postgraduate course created with IBM to equip leaders with big data analytics, Python data science tools, and business intelligence techniques.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 7 testing",
+    "description": "program 7 testing",
+    "format": "program 7 testing",
+    "duration": "program 7 testing",
+    "eligibility": "program 7 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_308_e8ea410939.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_ibm_logo_c1bdff5761.jpg",
-      "alt": "",
-      "width": 1205,
-      "height": 980
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Integrated",
-        "titleHighlight": "Learning",
-        "description": "A unique collaboration with IBM offers coursework that is current, based on expert insights, and a strong, analytics-driven learning experience.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 7 testing",
+        "titleHighlight": "program 7 testing",
+        "description": "program 7 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "02",
-        "title": "Project-Based",
-        "titleHighlight": "Learning",
-        "description": "Real-world datasets, case studies and a data-driven problem-solving mindset, focused on improving managerial skill and making you a better analyst.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 7 testing",
+        "titleHighlight": "program 7 testing",
+        "description": "program 7 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "03",
-        "title": "IBM Digital",
-        "titleHighlight": "Credentials",
-        "description": "Students earn IBM digital badges and certifications linked to their coursework and accepted internationally, adding credibility and making them job-ready.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 7 testing",
+        "titleHighlight": "program 7 testing",
+        "description": "program 7 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "04",
-        "title": "Tools and",
-        "titleHighlight": "Technologies",
-        "description": "Students work with IBM tools across AI solutions, cloud platforms, machine learning and business intelligence, building skills that stay rare in the market.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 7 testing",
+        "titleHighlight": "program 7 testing",
+        "description": "program 7 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 7 testing",
+      "facts": [
+        {
+          "label": "program 7 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 7 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 7 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 7 testing"
+    },
+    "whyChoose": "program 7 testing",
+    "globalCertifications": "program 7 testing"
   },
   {
-    "id": 1696,
+    "id": 1933,
     "discipline": "Computing",
     "programCode": "LMC301",
-    "programShortName": "MCA",
-    "programName": "Master of Computer Applications",
+    "programShortName": "program 8 testing",
+    "programName": "program 8 testing",
     "level": "PG",
-    "durationYears": "2 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 80500,
-    "eligibilityCriteria": "A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) or passed any graduation degree (e.g.: B.E. / B.Tech. / B.Sc. / B.Com. / B.A./ B.Voc./ etc.,) with Mathematics, Business Mathematics, Programming or statistics at 10+2 level or at Graduation level with 50% aggregate For students having no Mathematics background compulsory 3-credit bridge course will be offered by the university. For students having no background knowledge in Computer Subjects, a 3-credit bridge course on Introduction to problem-solving will be offered as per university norms.",
-    "title": "MCA",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 8 testing",
+    "title": "program 8 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year postgraduate degree designed to build expert software engineering, full-stack development, database architecture, and computer application skills.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 8 testing",
+    "description": "program 8 testing",
+    "format": "program 8 testing",
+    "duration": "program 8 testing",
+    "eligibility": "program 8 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMC_301_5032c18406.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1697,
+    "id": 1934,
     "discipline": "Computing",
     "programCode": "LMC302",
-    "programShortName": "MCA_AIML",
-    "programName": "Master of Computer Applications (Artificial Intelligence and Machine Learning) with SAS",
+    "programShortName": "program 9 testing",
+    "programName": "program 9 testing",
     "level": "PG",
-    "durationYears": "2 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85500,
-    "eligibilityCriteria": "A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) at Graduation level with 55% aggregate",
-    "title": "MCA (AI & ML) with SAS",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 9 testing",
+    "title": "program 9 testing",
     "theme": "active",
     "logoId": "SAS",
-    "partner": "SAS",
-    "description": "A 2-year specialized MCA program with SAS emphasizing deep learning, neural networks, computer vision, and machine learning deployment.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "B.E./B.Tech in CSE/IT/ECE (min 55% aggregate)",
+    "partner": "program 9 testing",
+    "description": "program 9 testing",
+    "format": "program 9 testing",
+    "duration": "program 9 testing",
+    "eligibility": "program 9 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMC_302_25fbcadc86.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_sas_image_b160a8cf8b.webp",
-      "alt": "",
-      "width": 104,
-      "height": 43
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1698,
+    "id": 1935,
     "discipline": "Applied Health Sciences",
     "programCode": "LMS304",
-    "programShortName": "MSC_DS",
-    "programName": "Master of Science (Data Science)",
+    "programShortName": "program 10 testing",
+    "programName": "program 10 testing",
     "level": "PG",
-    "durationYears": "2 Year",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 55000,
-    "eligibilityCriteria": "Candidate must have completed bachelor's degree in B.A./BCA/B.Sc. / B.Com (Statistics) / Commerce or Mathematics or Computer Science) /B.E/B.Tech OR equivalent undergraduate degree with any one of the following subject Computer Science/ Mathematics/ Statistics with atleast 50% marks in aggregate.",
-    "title": "M.Sc (Data Science)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 10 testing",
+    "title": "program 10 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year advanced science program mastering statistical computing, data mining, machine learning pipelines, and quantitative analytics.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 10 testing",
+    "description": "program 10 testing",
+    "format": "program 10 testing",
+    "duration": "program 10 testing",
+    "eligibility": "program 10 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMS_304_d5cfb5cf68.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1699,
+    "id": 1936,
     "discipline": "Engineering",
     "programCode": "LCS301",
-    "programShortName": "MTECH_CSE-AIML",
-    "programName": "Master of Technology (Computer Science and Engineering) with SAS",
+    "programShortName": "program 11 testing",
+    "programName": "program 11 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 66000,
-    "eligibilityCriteria": "Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination.",
-    "title": "M.Tech (CSE -AI & ML) with SAS",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 11 testing",
+    "title": "program 11 testing",
     "theme": "dark",
     "logoId": "SAS",
-    "partner": "SAS",
-    "description": "A 2-year master of technology program with SAS focusing on cutting-edge artificial intelligence, deep learning architectures, and scalable ML systems.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "B.E./B.Tech in CSE/IT/ECE (min 55% aggregate)",
+    "partner": "program 11 testing",
+    "description": "program 11 testing",
+    "format": "program 11 testing",
+    "duration": "program 11 testing",
+    "eligibility": "program 11 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_301_9e30f96813.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 786
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_sas_image_b160a8cf8b.webp",
-      "alt": "",
-      "width": 104,
-      "height": 43
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Global SAS",
-        "titleHighlight": "Certifications",
-        "description": "Earn globally recognised SAS certifications and digital badges that strengthen technical expertise and professional credibility.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 11 testing",
+        "titleHighlight": "program 11 testing",
+        "description": "program 11 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "02",
-        "title": "Industry-Delivered",
-        "titleHighlight": "Training",
-        "description": "135+ hours of classroom training from experienced SAS industry professionals, plus 200+ hours of self-paced learning on the SAS Learning Portal.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 11 testing",
+        "titleHighlight": "program 11 testing",
+        "description": "program 11 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "03",
-        "title": "Hands-on Learning &",
-        "titleHighlight": "Labs",
-        "description": "Work on real-world datasets using enterprise-grade tools, with 24x7 access to advanced analytics laboratories.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 11 testing",
+        "titleHighlight": "program 11 testing",
+        "description": "program 11 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       },
       {
-        "num": "04",
-        "title": "Internship &",
-        "titleHighlight": "Placement Support",
-        "description": "Internship opportunities through SAS Talent Connect and placement support via Credly certification recognition.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 11 testing",
+        "titleHighlight": "program 11 testing",
+        "description": "program 11 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 11 testing",
+      "facts": [
+        {
+          "label": "program 11 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 11 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 11 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 11 testing"
+    },
+    "whyChoose": "program 11 testing",
+    "globalCertifications": "program 11 testing"
   },
   {
-    "id": 1700,
+    "id": 1937,
     "discipline": "Computing",
     "programCode": "LMC303",
-    "programShortName": "MCA - D S",
-    "programName": "Master of Computer Application (Data Science)",
+    "programShortName": "program 12 testing",
+    "programName": "program 12 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) at Graduation level with 55% aggregate.",
-    "title": "MCA (Data Science)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 12 testing",
+    "title": "program 12 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year postgraduate program offering deep training in big data processing, data warehousing, and predictive modeling for tech industry roles.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "B.E./B.Tech in CSE/IT/ECE (min 55% aggregate)",
+    "partner": "program 12 testing",
+    "description": "program 12 testing",
+    "format": "program 12 testing",
+    "duration": "program 12 testing",
+    "eligibility": "program 12 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMC_303_7c19dfb534.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Focused",
-        "titleHighlight": "Curriculum",
-        "description": "Learn the tools, techniques and approaches that are shaping real data teams today, with a focus on skills you can actually put to work.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 12 testing",
+        "titleHighlight": "program 12 testing",
+        "description": "program 12 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       },
       {
-        "num": "02",
-        "title": "Practical",
-        "titleHighlight": "Learning",
-        "description": "Get comfortable with real datasets, case studies, projects and internships where the data isn't always neat and neither are the problems you're solving.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 12 testing",
+        "titleHighlight": "program 12 testing",
+        "description": "program 12 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "03",
-        "title": "Career",
-        "titleHighlight": "Growth",
-        "description": "From technology and finance to healthcare, retail, e-commerce and consulting, build versatile data skills that open a range of high-demand career paths.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 12 testing",
+        "titleHighlight": "program 12 testing",
+        "description": "program 12 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 12 testing",
+      "facts": [
+        {
+          "label": "program 12 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 12 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 12 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 12 testing"
+    },
+    "whyChoose": "program 12 testing",
+    "globalCertifications": "program 12 testing"
   },
   {
-    "id": 1701,
+    "id": 1938,
     "discipline": "Engineering",
     "programCode": "LCS302",
-    "programShortName": "M.Tech- CSE DS",
-    "programName": "Master of Technology (Computer Science and Engineering - Data Science)",
+    "programShortName": "program 13 testing",
+    "programName": "program 13 testing",
     "level": "PG",
-    "durationYears": "2 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination.",
-    "title": "M.Tech (CSE - Data Science)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 13 testing",
+    "title": "program 13 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year postgraduate engineering course specializing in scalable data architectures, high-performance computing, and enterprise analytics.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "B.E./B.Tech in CSE/IT/ECE (min 55% aggregate)",
+    "partner": "program 13 testing",
+    "description": "program 13 testing",
+    "format": "program 13 testing",
+    "duration": "program 13 testing",
+    "eligibility": "program 13 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_302_6116149f86.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1702,
+    "id": 1939,
     "discipline": "Legal Studies",
     "programCode": "LLA301",
-    "programShortName": "LLM",
-    "programName": "Master of Law",
+    "programShortName": "program 14 testing",
+    "programName": "program 14 testing",
     "level": "PG",
-    "durationYears": "1 year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Recognized Bachelor's Degree in Law (LLB) with atleast 50% marks from a recognized Board / University.",
-    "title": "LLM in Criminal Law",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 14 testing",
+    "title": "program 14 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 1-year postgraduate legal program offering advanced specialization in constitutional jurisprudence, corporate laws, international legal frameworks, and dispute resolution.",
-    "format": "On Campus (Full Time)",
-    "duration": "1 Year (2 Semesters)",
-    "eligibility": "Recognized Bachelor degree in Law (LLB) (min 50%)",
+    "partner": "program 14 testing",
+    "description": "program 14 testing",
+    "format": "program 14 testing",
+    "duration": "program 14 testing",
+    "eligibility": "program 14 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LLA_301_69200c6ef2.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 1552
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1703,
+    "id": 1940,
     "discipline": "Biotechnology",
     "programCode": "LMS305",
-    "programShortName": "M.Sc.- BT",
-    "programName": "Master of Science (Biotechnology)",
+    "programShortName": "program 15 testing",
+    "programName": "program 15 testing",
     "level": "PG",
-    "durationYears": "2 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 60000,
-    "eligibilityCriteria": "Bachelor's degree with atleast 50% marks in any branch of Life Science / Agriculture/ Pharmacy / Veterinary / Medicine (MBBS) / Medical Lab Technology / Nursing or its equivalent.",
-    "title": "M.Sc (Biotechnology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 15 testing",
+    "title": "program 15 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 2-year advanced research degree covering genetic engineering, bioprocess technology, molecular biology, and pharmaceutical applications.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "B.Sc in Life Sciences / Biotech (min 50%)",
+    "partner": "program 15 testing",
+    "description": "program 15 testing",
+    "format": "program 15 testing",
+    "duration": "program 15 testing",
+    "eligibility": "program 15 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMS_305_27d01b032a.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 847
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1704,
+    "id": 1941,
     "discipline": "Business",
     "programCode": "LMB309",
-    "programShortName": "MBA GBM",
-    "programName": "Master of Business Administration (Global Business Management) with Grant Thorton",
+    "programShortName": "program 16 testing",
+    "programName": "program 16 testing",
     "level": "PG",
-    "durationYears": "2 years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 169000,
-    "eligibilityCriteria": "Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply.",
-    "title": "MBA (Global Business Management) with Grant Thornton",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 16 testing",
+    "title": "program 16 testing",
     "theme": "light",
     "logoId": "Grant Thornton",
-    "partner": "Grant Thornton",
-    "description": "A 2-year global business management program with Grant Thornton focusing on international trade, cross-border strategy, and global risk management.",
-    "format": "On Campus (Full Time)",
-    "duration": "2 Years (4 Semesters)",
-    "eligibility": "Graduate (min 50%)",
+    "partner": "program 16 testing",
+    "description": "program 16 testing",
+    "format": "program 16 testing",
+    "duration": "program 16 testing",
+    "eligibility": "program 16 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_309_f10169f1f2.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_image_83_d0f8fba383.png",
-      "alt": "",
-      "width": 115,
-      "height": 115
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1705,
+    "id": 1942,
     "discipline": "Business",
     "programCode": "LBB701",
-    "programShortName": "BBA- H",
-    "programName": "Bachelor of Business Administration (Hons.)",
+    "programShortName": "program 17 testing",
+    "programName": "program 17 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 79500,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "BBA (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 17 testing",
+    "title": "program 17 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year foundational management degree providing comprehensive knowledge of business administration, marketing, finance, and enterprise management.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 17 testing",
+    "description": "program 17 testing",
+    "format": "program 17 testing",
+    "duration": "program 17 testing",
+    "eligibility": "program 17 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBB_701_5b6f4b4365.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 801
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1706,
+    "id": 1943,
     "discipline": "Business",
     "programCode": "LBB702",
-    "programShortName": "BBA-BA - H",
-    "programName": "Bachelor of Business Administration (Business Analytics )(Hons.) with Deloitte",
+    "programShortName": "program 18 testing",
+    "programName": "program 18 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 87500,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "BBA (Business Analytics )(Hons.) - Deloitte",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 18 testing",
+    "title": "program 18 testing",
     "theme": "active",
     "logoId": "Deloitte",
-    "partner": "Deloitte",
-    "description": "A 4-year undergraduate business analytics program with Deloitte training students in data-driven decision making, business intelligence, and visualization.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 18 testing",
+    "description": "program 18 testing",
+    "format": "program 18 testing",
+    "duration": "program 18 testing",
+    "eligibility": "program 18 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBB_702_c6e74c4859.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_image_84_b9501fd389.png",
-      "alt": "",
-      "width": 102,
-      "height": 98
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Oriented",
-        "titleHighlight": "Curriculum",
-        "description": "Curriculum co-developed with Deloitte across Python, R, SQL, Tableau and Power BI, aligned to global business analytics standards from the first semester.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 18 testing",
+        "titleHighlight": "program 18 testing",
+        "description": "program 18 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "02",
-        "title": "Certification from",
-        "titleHighlight": "Deloitte",
-        "description": "Students receive Deloitte's own certification, which builds prestige and adds real credibility to the resume.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 18 testing",
+        "titleHighlight": "program 18 testing",
+        "description": "program 18 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "03",
-        "title": "Project-Based Learning &",
-        "titleHighlight": "Case Studies",
-        "description": "Students analyse and solve real-world problems through simulated projects and case studies conducted with Deloitte as mentor.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 18 testing",
+        "titleHighlight": "program 18 testing",
+        "description": "program 18 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "04",
-        "title": "AI & Analytics",
-        "titleHighlight": "Laboratory",
-        "description": "Access to cloud-enabled AI and analytics labs, with coursework designed around the analytical skills the workplace actually needs.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 18 testing",
+        "titleHighlight": "program 18 testing",
+        "description": "program 18 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 18 testing",
+      "facts": [
+        {
+          "label": "program 18 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 18 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 18 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 18 testing"
+    },
+    "whyChoose": "program 18 testing",
+    "globalCertifications": "program 18 testing"
   },
   {
-    "id": 1707,
+    "id": 1944,
     "discipline": "Business",
     "programCode": "LBB703",
-    "programShortName": "BBA_DM-H",
-    "programName": "Bachelor of Business Administration (Digital Marketing) (Hons.)",
+    "programShortName": "program 19 testing",
+    "programName": "program 19 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 83000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "BBA (Digital Marketing) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 19 testing",
+    "title": "program 19 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year undergraduate degree focusing on digital media channels, online brand management, content strategy, and digital advertising.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 19 testing",
+    "description": "program 19 testing",
+    "format": "program 19 testing",
+    "duration": "program 19 testing",
+    "eligibility": "program 19 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBB_703_b59134d192.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1708,
+    "id": 1945,
     "discipline": "Business",
     "programCode": "LBB704",
-    "programShortName": "BBA_BRAND-H",
-    "programName": "Bachelor of Business Administration (Branding and Advertising) (Hons.)",
+    "programShortName": "program 20 testing",
+    "programName": "program 20 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 81000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "BBA (Branding and Advertising) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 20 testing",
+    "title": "program 20 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year specialized program developing expertise in brand strategy, creative advertising, marketing communications, and consumer behavior.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 20 testing",
+    "description": "program 20 testing",
+    "format": "program 20 testing",
+    "duration": "program 20 testing",
+    "eligibility": "program 20 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBB_704_66c6caa327.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Create Actual",
-        "titleHighlight": "Campaigns",
-        "description": "Build campaigns for real brands using concepts developed by international advertising agencies, and learn to develop, pitch and execute them.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 20 testing",
+        "titleHighlight": "program 20 testing",
+        "description": "program 20 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "02",
-        "title": "Use the Tools of",
-        "titleHighlight": "Google & Meta",
-        "description": "Work with Google Ads, Meta Ads, search engine optimisation tools and the analytics products leading marketers use every day.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 20 testing",
+        "titleHighlight": "program 20 testing",
+        "description": "program 20 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "03",
-        "title": "How AI Is",
-        "titleHighlight": "Changing Marketing",
-        "description": "Learn how AI lets businesses personalise products and services, recommend based on past interactions, and target customers by interest.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 20 testing",
+        "titleHighlight": "program 20 testing",
+        "description": "program 20 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       },
       {
-        "num": "04",
-        "title": "Build a Career",
-        "titleHighlight": "Portfolio",
-        "description": "Leave with a portfolio of campaign work, marketing strategies and creative assets that employers actually want to see.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 20 testing",
+        "titleHighlight": "program 20 testing",
+        "description": "program 20 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 20 testing",
+      "facts": [
+        {
+          "label": "program 20 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 20 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 20 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 20 testing"
+    },
+    "whyChoose": "program 20 testing",
+    "globalCertifications": "program 20 testing"
   },
   {
-    "id": 1709,
+    "id": 1946,
     "discipline": "Business",
     "programCode": "LBB705",
-    "programShortName": "BBA_FINTECH-H",
-    "programName": "Bachelor of Business Administration (FinTech) (Hons.) + ACCA with Grant Thornton",
+    "programShortName": "program 21 testing",
+    "programName": "program 21 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 86000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "BBA (FinTech) (Hons.) + ACCA with Grant Thornton",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 21 testing",
+    "title": "program 21 testing",
     "theme": "active",
     "logoId": "Grant Thornton",
-    "partner": "Grant Thornton",
-    "description": "A 4-year integrated fintech and ACCA program with Grant Thornton combining financial technology skills with international accounting standards.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 21 testing",
+    "description": "program 21 testing",
+    "format": "program 21 testing",
+    "duration": "program 21 testing",
+    "eligibility": "program 21 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBB_705_de33102242.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 786
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_image_83_d0f8fba383.png",
-      "alt": "",
-      "width": 115,
-      "height": 115
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "FinTech & AI",
-        "titleHighlight": "Learning",
-        "description": "Students develop skills in Artificial Intelligence, Machine Learning, Data Analytics and Digital Finance, and in the technologies reshaping financial markets.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 21 testing",
+        "titleHighlight": "program 21 testing",
+        "description": "program 21 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "02",
-        "title": "Global ACCA",
-        "titleHighlight": "Advantage",
-        "description": "Students who pursue ACCA can be exempted from 9 of the 13 ACCA papers, becoming globally qualified considerably faster.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 21 testing",
+        "titleHighlight": "program 21 testing",
+        "description": "program 21 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "03",
-        "title": "Industry",
-        "titleHighlight": "Integration",
-        "description": "Students learn from industry specialists through hands-on training, workshops and financial applications that show how these technologies work in the real world.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 21 testing",
+        "titleHighlight": "program 21 testing",
+        "description": "program 21 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       },
       {
-        "num": "04",
-        "title": "Future-Focused",
-        "titleHighlight": "Financial Skills",
-        "description": "Predictive analysis, algorithmic forecasting and data-led decision making build the analytical judgement modern finance runs on.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 21 testing",
+        "titleHighlight": "program 21 testing",
+        "description": "program 21 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 21 testing",
+      "facts": [
+        {
+          "label": "program 21 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 21 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 21 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 21 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 21 testing"
+    },
+    "whyChoose": "program 21 testing",
+    "globalCertifications": "program 21 testing"
   },
   {
-    "id": 1710,
+    "id": 1947,
     "discipline": "Commerce",
     "programCode": "LCO701",
-    "programShortName": "BCOM- H",
-    "programName": "Bachelor of Commerce (Hons.)",
+    "programShortName": "program 22 testing",
+    "programName": "program 22 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 72000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "Bachelor of Commerce (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 22 testing",
+    "title": "program 22 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year undergraduate commerce program covering corporate accounting, taxation, auditing, financial management, and commercial laws.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 22 testing",
+    "description": "program 22 testing",
+    "format": "program 22 testing",
+    "duration": "program 22 testing",
+    "eligibility": "program 22 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCO_701_7623d3233e.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "features": [
       {
-        "num": "01",
-        "title": "FinTech & Data Analytics",
-        "titleHighlight": "Integration",
-        "description": "Build expertise in financial technology and data-driven decision-making through a structured framework of theory-based learning and practical application.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 22 testing",
+        "titleHighlight": "program 22 testing",
+        "description": "program 22 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       },
       {
-        "num": "02",
-        "title": "Hands-on Software",
-        "titleHighlight": "Training",
-        "description": "Gain hands-on experience with Tally, Zoho Books, SPSS, Advanced Excel, Power BI, Tableau and AI-powered tools used across the profession.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 22 testing",
+        "titleHighlight": "program 22 testing",
+        "description": "program 22 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "03",
-        "title": "Industry-Based",
-        "titleHighlight": "Learning",
-        "description": "Industrial visits, internships and real-time projects connect what is taught in the classroom to how business is actually practised.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 22 testing",
+        "titleHighlight": "program 22 testing",
+        "description": "program 22 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "04",
-        "title": "Globally Recognized",
-        "titleHighlight": "Curriculum",
-        "description": "Training aligned with globally recognised professional pathways such as CA, CS, CMA, CFA and CPA to support academic and professional growth.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 22 testing",
+        "titleHighlight": "program 22 testing",
+        "description": "program 22 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 22 testing",
+      "facts": [
+        {
+          "label": "program 22 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 22 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 22 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 22 testing"
+    },
+    "whyChoose": "program 22 testing",
+    "globalCertifications": "program 22 testing"
   },
   {
-    "id": 1711,
+    "id": 1948,
     "discipline": "Commerce",
     "programCode": "LCO702",
-    "programShortName": "B.Com ACCA -H",
-    "programName": "B.Com (Hons.) + ACCA with Grant Thornton",
+    "programShortName": "program 23 testing",
+    "programName": "program 23 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 99000,
-    "eligibilityCriteria": "10+2 or its equivalent examination in any stream conducted by a recognized Board with at least 50% marks in the aggregate.",
-    "title": "B.Com (Hons.) + ACCA (International Accounting and Finance) with Grant Thornton",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 23 testing",
+    "title": "program 23 testing",
     "theme": "dark",
     "logoId": "Grant Thornton",
-    "partner": "Grant Thornton",
-    "description": "A 4-year global commerce degree with Grant Thornton offering ACCA certification pathways and advanced international financial reporting expertise.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 23 testing",
+    "description": "program 23 testing",
+    "format": "program 23 testing",
+    "duration": "program 23 testing",
+    "eligibility": "program 23 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCO_702_feb32e6435.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_image_83_d0f8fba383.png",
-      "alt": "",
-      "width": 115,
-      "height": 115
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1712,
+    "id": 1949,
     "discipline": "Computing",
     "programCode": "LBC701",
-    "programShortName": "BCA_DS-H",
-    "programName": "Bachelor of Computer Applications (Data Science) with SAS",
+    "programShortName": "program 24 testing",
+    "programName": "program 24 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 80500,
-    "eligibilityCriteria": "10+2 or its equivalent examination in any stream with at least 55% marks conducted by a recognized Board / University",
-    "title": "BCA (Data Science) with SAS",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 24 testing",
+    "title": "program 24 testing",
     "theme": "active",
     "logoId": "SAS",
-    "partner": "SAS",
-    "description": "A 4-year undergraduate computer application course with SAS specializing in Python, data analysis tools, database management, and machine learning concepts.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 24 testing",
+    "description": "program 24 testing",
+    "format": "program 24 testing",
+    "duration": "program 24 testing",
+    "eligibility": "program 24 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBC_701_787cd1b942.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 1552
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_sas_image_b160a8cf8b.webp",
-      "alt": "",
-      "width": 104,
-      "height": 43
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1713,
+    "id": 1950,
     "discipline": "Computing",
     "programCode": "LBC702",
-    "programShortName": "BCA-H",
-    "programName": "Bachelor of Computer Applications (Hons.)",
+    "programShortName": "program 25 testing",
+    "programName": "program 25 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 74000,
-    "eligibilityCriteria": "10+2 or its equivalent examination in any stream with at least 50% marks conducted by a recognized Board / University",
-    "title": "BCA (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 25 testing",
+    "title": "program 25 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year undergraduate computer application degree building strong foundations in software development, web technology, object-oriented programming, and databases.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 25 testing",
+    "description": "program 25 testing",
+    "format": "program 25 testing",
+    "duration": "program 25 testing",
+    "eligibility": "program 25 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBC_702_d036497087.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Aligned",
-        "titleHighlight": "Learning",
-        "description": "Build a strong computing foundation through programming, databases, software development, AI, cybersecurity, cloud and data-focused learning.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 25 testing",
+        "titleHighlight": "program 25 testing",
+        "description": "program 25 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       },
       {
-        "num": "02",
-        "title": "Learn by",
-        "titleHighlight": "Building",
-        "description": "Work through hands-on projects, laboratory sessions, app building, electives, internships and research projects rather than depending solely on classroom theory.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 25 testing",
+        "titleHighlight": "program 25 testing",
+        "description": "program 25 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       },
       {
-        "num": "03",
-        "title": "Flexible Technology",
-        "titleHighlight": "Pathways",
-        "description": "Explore different areas of computing and gradually shape your skills around the technology roles and career directions that interest you.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 25 testing",
+        "titleHighlight": "program 25 testing",
+        "description": "program 25 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 25 testing",
+      "facts": [
+        {
+          "label": "program 25 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 25 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 25 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 25 testing"
+    },
+    "whyChoose": "program 25 testing",
+    "globalCertifications": "program 25 testing"
   },
   {
-    "id": 1714,
+    "id": 1951,
     "discipline": "Computing",
     "programCode": "LBS707",
-    "programShortName": "BSC_DS-H",
-    "programName": "Bachelor of Science (Data Science) (Hons.)",
+    "programShortName": "program 26 testing",
+    "programName": "program 26 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 52000,
-    "eligibilityCriteria": "10+2 or its equivalent examination in any stream with at least 50% marks conducted by a recognized Board / University",
-    "title": "B.Sc (Data Science) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 26 testing",
+    "title": "program 26 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year scientific undergraduate degree covering quantitative analytics, data science fundamentals, statistical modeling, and computational methods.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 26 testing",
+    "description": "program 26 testing",
+    "format": "program 26 testing",
+    "duration": "program 26 testing",
+    "eligibility": "program 26 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBS_707_7da89fdfef.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1715,
+    "id": 1952,
     "discipline": "Biotechnology",
     "programCode": "LBT201",
-    "programShortName": "BTECH_BIOTECH",
-    "programName": "Bachelor of Technology (Biotechnology)",
+    "programShortName": "program 27 testing",
+    "programName": "program 27 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 107000,
-    "eligibilityCriteria": "10+2 with Physics as compulsory subjects along with any two of the following subjects:- Chemistry/ Biotechnology/ Computer Science / Biology / Mathematics with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Biotechnology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 27 testing",
+    "title": "program 27 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year engineering program combining biological sciences with engineering principles to develop bio-products, pharmaceuticals, and agricultural technologies.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 27 testing",
+    "description": "program 27 testing",
+    "format": "program 27 testing",
+    "duration": "program 27 testing",
+    "eligibility": "program 27 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBT_201_dc8e2f2981.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1716,
+    "id": 1953,
     "discipline": "Engineering",
     "programCode": "LCE201",
-    "programShortName": "BTECH_CE",
-    "programName": "Bachelor of Technology (Civil Engineering)",
+    "programShortName": "program 28 testing",
+    "programName": "program 28 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 104000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Civil Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 28 testing",
+    "title": "program 28 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year engineering degree specializing in structural design, transportation systems, geotechnical engineering, and sustainable infrastructure construction.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 28 testing",
+    "description": "program 28 testing",
+    "format": "program 28 testing",
+    "duration": "program 28 testing",
+    "eligibility": "program 28 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCE_201_6c98c58503.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 1552
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "features": [
       {
-        "num": "01",
-        "title": "Programming &",
-        "titleHighlight": "Digital Skills",
-        "description": "Python and Java sit alongside engineering fundamentals here, building the computational skills that today's digital engineering environment expects.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 28 testing",
+        "titleHighlight": "program 28 testing",
+        "description": "program 28 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       },
       {
-        "num": "02",
-        "title": "Strong Core",
-        "titleHighlight": "Civil Engineering",
-        "description": "Structures, construction, geotechnical, transportation, environmental and water resources, covered as one connected foundation rather than separate modules.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 28 testing",
+        "titleHighlight": "program 28 testing",
+        "description": "program 28 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       },
       {
-        "num": "03",
-        "title": "Multiple Specialization",
-        "titleHighlight": "Pathways",
-        "description": "AI and Machine Learning. Smart Cities. Transportation Geotechnics. Structural Engineering and Construction Management. Four directions, one program, and you choose where to specialise.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 28 testing",
+        "titleHighlight": "program 28 testing",
+        "description": "program 28 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 28 testing",
+      "facts": [
+        {
+          "label": "program 28 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 28 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 28 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 28 testing"
+    },
+    "whyChoose": "program 28 testing",
+    "globalCertifications": "program 28 testing"
   },
   {
-    "id": 1717,
+    "id": 1954,
     "discipline": "Engineering",
     "programCode": "LCS201",
-    "programShortName": "BTECH_CSE",
-    "programName": "Bachelor of Technology (Computer Science and Engineering)",
+    "programShortName": "program 29 testing",
+    "programName": "program 29 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 145000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech (CSE)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 29 testing",
+    "title": "program 29 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year core engineering course providing rigorous training in algorithms, software engineering, operating systems, and computer architecture.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 29 testing",
+    "description": "program 29 testing",
+    "format": "program 29 testing",
+    "duration": "program 29 testing",
+    "eligibility": "program 29 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_201_d0efd0acd9.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Aligned",
-        "titleHighlight": "Curriculum",
-        "description": "Built with input from industry experts, the curriculum pairs core computer science with emerging-tech expertise to ensure relevant skills at Chandigarh University Lucknow.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 29 testing",
+        "titleHighlight": "program 29 testing",
+        "description": "program 29 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "02",
-        "title": "Hands-on",
-        "titleHighlight": "Learning",
-        "description": "Coding practice, labs, live projects and industry training turn theory into ability, so you can actually build and debug, not just describe how software works.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 29 testing",
+        "titleHighlight": "program 29 testing",
+        "description": "program 29 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "03",
-        "title": "Career",
-        "titleHighlight": "Opportunities",
-        "description": "Software, IT services and emerging tech all need skilled graduates right now, and a B.Tech CSE from CU-UP puts you in front of that demand early.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 29 testing",
+        "titleHighlight": "program 29 testing",
+        "description": "program 29 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 29 testing",
+      "facts": [
+        {
+          "label": "program 29 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 29 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 29 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 29 testing"
+    },
+    "whyChoose": "program 29 testing",
+    "globalCertifications": "program 29 testing"
   },
   {
-    "id": 1718,
+    "id": 1955,
     "discipline": "Engineering",
     "programCode": "LCS202",
-    "programShortName": "BTECH_CSE-AIML",
-    "programName": "Bachelor of Technology (Computer Science and Engineering) with Microsoft",
+    "programShortName": "program 30 testing",
+    "programName": "program 30 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 175500,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate.",
-    "title": "B.Tech (CSE-AI & ML) with Microsoft",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 30 testing",
+    "title": "program 30 testing",
     "theme": "active",
     "logoId": "Microsoft",
-    "partner": "Microsoft",
-    "description": "A 4-year practitioner-led program with Microsoft covering artificial intelligence, machine learning models, cloud computing, and intelligent systems.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 60% aggregate)",
+    "partner": "program 30 testing",
+    "description": "program 30 testing",
+    "format": "program 30 testing",
+    "duration": "program 30 testing",
+    "eligibility": "program 30 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_202_9420c231cb.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_microsoft_cd48545b4c.webp",
-      "alt": "",
-      "width": 154,
-      "height": 33
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [
       {
-        "num": "01",
-        "title": "Hands-on Learning with",
-        "titleHighlight": "AI & ML",
-        "description": "Experience AI and ML technologies through practical cases, and involvement in various kinds of activities that build genuine understanding of the subject.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 30 testing",
+        "titleHighlight": "program 30 testing",
+        "description": "program 30 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "02",
-        "title": "Project-Based",
-        "titleHighlight": "Learning",
-        "description": "Get real training via projects, so you understand how to apply and implement AI and ML technologies practically rather than only in theory.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 30 testing",
+        "titleHighlight": "program 30 testing",
+        "description": "program 30 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "03",
-        "title": "Coding and",
-        "titleHighlight": "Problem-Solving",
-        "description": "Apart from becoming proficient in coding, you also build the problem-solving skills that carry over into real-world engineering work.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 30 testing",
+        "titleHighlight": "program 30 testing",
+        "description": "program 30 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "04",
-        "title": "Research and",
-        "titleHighlight": "Innovation",
-        "description": "Work on research projects and become part of a team working on advanced technologies, with mentorship from professionals in the field.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 30 testing",
+        "titleHighlight": "program 30 testing",
+        "description": "program 30 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 30 testing",
+      "facts": [
+        {
+          "label": "program 30 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 30 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 30 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 30 testing"
+    },
+    "whyChoose": "program 30 testing",
+    "globalCertifications": "program 30 testing"
   },
   {
-    "id": 1719,
+    "id": 1956,
     "discipline": "Engineering",
     "programCode": "LCS203",
-    "programShortName": "BTECH_CSE-DS",
-    "programName": "Bachelor of Technology (Computer Science and Engineering) with Google",
+    "programShortName": "program 31 testing",
+    "programName": "program 31 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 158000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech (CSE -Data Science) with Google",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 31 testing",
+    "title": "program 31 testing",
     "theme": "light",
     "logoId": "Google",
-    "partner": "Google",
-    "description": "A 4-year specialized degree with Google Cloud focusing on big data processing, data pipelines, predictive analytics, and machine learning.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 31 testing",
+    "description": "program 31 testing",
+    "format": "program 31 testing",
+    "duration": "program 31 testing",
+    "eligibility": "program 31 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_B_tech_CSE_Data_Science_Google_407c3c1dc2.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_google_image_fa27e74e3f.webp",
-      "alt": "",
-      "width": 109,
-      "height": 37
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Specific Course",
-        "titleHighlight": "Curriculum",
-        "description": "The course curriculum has been structured in such a way that the fundamentals of computer science and analytics have been covered as per industry demands.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 31 testing",
+        "titleHighlight": "program 31 testing",
+        "description": "program 31 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       },
       {
-        "num": "02",
-        "title": "Hands-On",
-        "titleHighlight": "Training",
-        "description": "The students will get hands-on training on labs, real datasets, projects, hackathons, and capstones, enabling them to use data for solving business problems.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 31 testing",
+        "titleHighlight": "program 31 testing",
+        "description": "program 31 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       },
       {
-        "num": "03",
-        "title": "Career",
-        "titleHighlight": "Pathways",
-        "description": "Prepares students with industry certificates, internships and connections, builds students into high-demand positions across industries specializing in analytics, data engineering and AI.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 31 testing",
+        "titleHighlight": "program 31 testing",
+        "description": "program 31 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 31 testing",
+      "facts": [
+        {
+          "label": "program 31 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 31 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 31 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 31 testing"
+    },
+    "whyChoose": "program 31 testing",
+    "globalCertifications": "program 31 testing"
   },
   {
-    "id": 1720,
+    "id": 1957,
     "discipline": "Engineering",
     "programCode": "LCS204",
-    "programShortName": "BTECH_CSE-CS",
-    "programName": "Bachelor of Technology (Computer Science and Engineering) with Quick Heal",
+    "programShortName": "program 32 testing",
+    "programName": "program 32 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 155000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech (CSE-Cyber Security) with Quick Heal",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 32 testing",
+    "title": "program 32 testing",
     "theme": "dark",
     "logoId": "Quick Heal",
-    "partner": "Quick Heal",
-    "description": "A 4-year cyber defense program with Quick Heal Academy focusing on network security, ethical hacking, cryptography, and threat mitigation.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 32 testing",
+    "description": "program 32 testing",
+    "format": "program 32 testing",
+    "duration": "program 32 testing",
+    "eligibility": "program 32 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_204_c0f1405ba9.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_quick_heal_image_eba4ce0cd9.webp",
-      "alt": "",
-      "width": 121,
-      "height": 35
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Quick Heal-Collaborated",
-        "titleHighlight": "Curriculum",
-        "description": "Curriculum developed in active collaboration with Quick Heal, not just endorsed but co-built with a mature cybersecurity company.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 32 testing",
+        "titleHighlight": "program 32 testing",
+        "description": "program 32 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       },
       {
-        "num": "02",
-        "title": "Cyber Labs &",
-        "titleHighlight": "Simulations",
-        "description": "Cyber labs and simulated environments for hands-on practice with attack and defense scenarios, starting in the very first year.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 32 testing",
+        "titleHighlight": "program 32 testing",
+        "description": "program 32 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "03",
-        "title": "Practical",
-        "titleHighlight": "Security Training",
-        "description": "Practical training in ethical hacking, digital forensics and network security, with exposure to cloud security, blockchain security and evolving threat landscapes.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 32 testing",
+        "titleHighlight": "program 32 testing",
+        "description": "program 32 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "04",
-        "title": "Certification &",
-        "titleHighlight": "Career Pathways",
-        "description": "Pathways to earn globally recognised certifications during the program, with workshops, bootcamps and direct interaction with industry professionals.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 32 testing",
+        "titleHighlight": "program 32 testing",
+        "description": "program 32 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 32 testing",
+      "facts": [
+        {
+          "label": "program 32 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 32 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 32 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 32 testing"
+    },
+    "whyChoose": "program 32 testing",
+    "globalCertifications": "program 32 testing"
   },
   {
-    "id": 1721,
+    "id": 1958,
     "discipline": "Engineering",
     "programCode": "LCS205",
-    "programShortName": "BTECH_CSE-CC",
-    "programName": "Bachelor of Technology (Computer Science and Engineering) with Google",
+    "programShortName": "program 33 testing",
+    "programName": "program 33 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 150000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech (CSE-Cloud Computing) with Google",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 33 testing",
+    "title": "program 33 testing",
     "theme": "active",
     "logoId": "Google",
-    "partner": "Google",
-    "description": "A 4-year cloud engineering program with Google Cloud specializing in cloud infrastructure, virtualization, DevOps, and microservices architecture.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 33 testing",
+    "description": "program 33 testing",
+    "format": "program 33 testing",
+    "duration": "program 33 testing",
+    "eligibility": "program 33 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_Bachelor_of_Technology_Computer_Science_and_Engineering_Cloud_Computing_with_Google_1_547870d93c.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 847
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_google_image_fa27e74e3f.webp",
-      "alt": "",
-      "width": 109,
-      "height": 37
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1722,
+    "id": 1959,
     "discipline": "Engineering",
     "programCode": "LEC201",
-    "programShortName": "BTECH_ECE",
-    "programName": "Bachelor of Technology (Electronics and Communication Engineering)",
+    "programShortName": "program 34 testing",
+    "programName": "program 34 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 105000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Electronics and Communication Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 34 testing",
+    "title": "program 34 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year engineering program covering embedded systems, VLSI design, signal processing, wireless communication, and IoT technologies.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 34 testing",
+    "description": "program 34 testing",
+    "format": "program 34 testing",
+    "duration": "program 34 testing",
+    "eligibility": "program 34 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LEC_201_8957b3e02c.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1723,
+    "id": 1960,
     "discipline": "Engineering",
     "programCode": "LEE201",
-    "programShortName": "BTECH_EE",
-    "programName": "Bachelor of Technology (Electrical Engineering)",
+    "programShortName": "program 35 testing",
+    "programName": "program 35 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 104000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Electrical Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 35 testing",
+    "title": "program 35 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year engineering course focusing on power systems, electrical machines, control engineering, renewable energy, and industrial automation.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 35 testing",
+    "description": "program 35 testing",
+    "format": "program 35 testing",
+    "duration": "program 35 testing",
+    "eligibility": "program 35 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LEE_201_f5d451bda4.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 801
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1724,
+    "id": 1961,
     "discipline": "Engineering",
     "programCode": "LIT201",
-    "programShortName": "BTECH_IT",
-    "programName": "Bachelor of Technology (Information Technology)",
+    "programShortName": "program 36 testing",
+    "programName": "program 36 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 115000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Information Technology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 36 testing",
+    "title": "program 36 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year technology degree specializing in software engineering, database management, web applications, and network infrastructure.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 36 testing",
+    "description": "program 36 testing",
+    "format": "program 36 testing",
+    "duration": "program 36 testing",
+    "eligibility": "program 36 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LIT_201_d3e6694c38.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Practice-Oriented",
-        "titleHighlight": "Curriculum",
-        "description": "A solid basis in software engineering, networking, databases, cloud computing and system architecture through experience-oriented learning tied to industry.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 36 testing",
+        "titleHighlight": "program 36 testing",
+        "description": "program 36 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "02",
-        "title": "Full-Stack Development &",
-        "titleHighlight": "DevOps",
-        "description": "Become proficient with React, Node.js, Docker, Git and the deployment methods used by software engineering and DevOps teams.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 36 testing",
+        "titleHighlight": "program 36 testing",
+        "description": "program 36 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "03",
-        "title": "Digital Infrastructure &",
-        "titleHighlight": "Cyber Security",
-        "description": "Hands-on work with network security, ethical hacking, information systems, Wireshark and firewall configuration in a dedicated lab environment.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 36 testing",
+        "titleHighlight": "program 36 testing",
+        "description": "program 36 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "04",
-        "title": "Career-Focused",
-        "titleHighlight": "Specializations",
-        "description": "From the second year, choose specialisation routes across full-stack development, cloud computing, cyber security, data science and entrepreneurship.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 36 testing",
+        "titleHighlight": "program 36 testing",
+        "description": "program 36 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 36 testing",
+      "facts": [
+        {
+          "label": "program 36 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 36 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 36 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 36 testing"
+    },
+    "whyChoose": "program 36 testing",
+    "globalCertifications": "program 36 testing"
   },
   {
-    "id": 1725,
+    "id": 1962,
     "discipline": "Engineering",
     "programCode": "LME201",
-    "programShortName": "BTECH_ME",
-    "programName": "Bachelor of Technology (Mechanical Engineering)",
+    "programShortName": "program 37 testing",
+    "programName": "program 37 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 104000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Mechanical Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 37 testing",
+    "title": "program 37 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year core engineering course covering thermodynamics, fluid mechanics, machine design, CAD/CAM manufacturing, and robotics.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 37 testing",
+    "description": "program 37 testing",
+    "format": "program 37 testing",
+    "duration": "program 37 testing",
+    "eligibility": "program 37 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LME_201_e0daeff7ec.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1726,
+    "id": 1963,
     "discipline": "Legal Studies",
     "programCode": "LLA201",
-    "programShortName": "LLB",
-    "programName": "Bachelor of Law",
+    "programShortName": "program 38 testing",
+    "programName": "program 38 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 68500,
-    "eligibilityCriteria": "Recognized Bachelor degree in any discipline with atleast 50% marks in qualifying exams from recognized Indian / Foreign University.",
-    "title": "LLB",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 38 testing",
+    "title": "program 38 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year professional law degree equipping graduates with comprehensive knowledge of jurisprudence, civil and criminal litigation, constitutional law, and court practice.",
-    "format": "On Campus (Full Time)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "Bachelor degree in relevant discipline (min 50%)",
+    "partner": "program 38 testing",
+    "description": "program 38 testing",
+    "format": "program 38 testing",
+    "duration": "program 38 testing",
+    "eligibility": "program 38 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LLA_201_6c6c0058e0.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1727,
+    "id": 1964,
     "discipline": "Legal Studies",
     "programCode": "LLA501",
-    "programShortName": "BA_LLB",
-    "programName": "Bachelor of Arts and Bachelor of Laws(Hons.) Integrated",
+    "programShortName": "program 39 testing",
+    "programName": "program 39 testing",
     "level": "UG",
-    "durationYears": "5 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 103500,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in any stream conducted by a recognized Board / University / Council in the aggregate.",
-    "title": "BA and LLB(Hons.) Integrated",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 39 testing",
+    "title": "program 39 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 5-year integrated law program combining humanities and legal studies, preparing students for judicial service, corporate law practice, and bar exams.",
-    "format": "On Campus (Full Time)",
-    "duration": "5 Years (10 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 39 testing",
+    "description": "program 39 testing",
+    "format": "program 39 testing",
+    "duration": "program 39 testing",
+    "eligibility": "program 39 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LLA_501_29ae33e227.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Interdisciplinary",
-        "titleHighlight": "Learning",
-        "description": "The program combines the study of law with political science, sociology and economics, so students develop a broader understanding of law, society and government.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 39 testing",
+        "titleHighlight": "program 39 testing",
+        "description": "program 39 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
       },
       {
-        "num": "02",
-        "title": "Practical",
-        "titleHighlight": "Exposure",
-        "description": "Moot court competitions, internships and legal aid clinics let students apply classroom concepts to real courtroom and workplace situations far earlier than in other programs.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 39 testing",
+        "titleHighlight": "program 39 testing",
+        "description": "program 39 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       },
       {
-        "num": "03",
-        "title": "Research & Analytical",
-        "titleHighlight": "Skills",
-        "description": "Case studies, projects and a dissertation develop the research, drafting and analytical skills a career in practice or in academia depends on.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 39 testing",
+        "titleHighlight": "program 39 testing",
+        "description": "program 39 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "04",
-        "title": "LegalTech &",
-        "titleHighlight": "AI Integration",
-        "description": "Students are introduced to LegalTech tools and AI-based legal research, reflecting the increasing use of technology in the practice of law today.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 39 testing",
+        "titleHighlight": "program 39 testing",
+        "description": "program 39 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 39 testing",
+      "facts": [
+        {
+          "label": "program 39 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 39 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 39 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 39 testing"
+    },
+    "whyChoose": "program 39 testing",
+    "globalCertifications": "program 39 testing"
   },
   {
-    "id": 1728,
+    "id": 1965,
     "discipline": "Legal Studies",
     "programCode": "LLA502",
-    "programShortName": "BBA_LLB",
-    "programName": "Bachelor of Business Administration and Bachelor of Law (Hons) Integrated",
+    "programShortName": "program 40 testing",
+    "programName": "program 40 testing",
     "level": "UG",
-    "durationYears": "5 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 96000,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in any stream conducted by a recognized Board / University / Council in the aggregate.",
-    "title": "BBA and LLB (Hons) Integrated",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 40 testing",
+    "title": "program 40 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 5-year integrated program combining business administration with law, training legal experts in corporate law, commercial contracts, and business governance.",
-    "format": "On Campus (Full Time)",
-    "duration": "5 Years (10 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 40 testing",
+    "description": "program 40 testing",
+    "format": "program 40 testing",
+    "duration": "program 40 testing",
+    "eligibility": "program 40 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LLA_502_13db647a40.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 747
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 847
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1729,
+    "id": 1966,
     "discipline": "Journalism and Mass Communication",
     "programCode": "LBA703",
-    "programShortName": "BA_JMC",
-    "programName": "Bachelor of Arts (Journalism and Mass Communication) (Hons.)",
+    "programShortName": "program 41 testing",
+    "programName": "program 41 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 69000,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council in the aggregate.",
-    "title": "BA (Journalism and Mass Communication) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 41 testing",
+    "title": "program 41 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year media degree with BBC modules covering print journalism, broadcast reporting, video editing, digital media, and public relations.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 41 testing",
+    "description": "program 41 testing",
+    "format": "program 41 testing",
+    "duration": "program 41 testing",
+    "eligibility": "program 41 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBA_703_52dd862c89.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1730,
+    "id": 1967,
     "discipline": "Biotechnology",
     "programCode": "LBS702",
-    "programShortName": "BSC_BIOTECH-H",
-    "programName": "Bachelor of Science ( Biotechnology) (Hons.)",
+    "programShortName": "program 42 testing",
+    "programName": "program 42 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 67000,
-    "eligibilityCriteria": "10+2 examination with at least 50% marks in aggregate with Physics/Chemistry and Mathematics/ Biology/ Zoology/ Botany/ Agriculture conducted by a recognized Board / University/council or its equivalent",
-    "title": "B.Sc (Biotechnology) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 42 testing",
+    "title": "program 42 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year science degree exploring molecular biology, immunology, microbiology, genetic manipulation, and bio-research techniques.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 42 testing",
+    "description": "program 42 testing",
+    "format": "program 42 testing",
+    "duration": "program 42 testing",
+    "eligibility": "program 42 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_Bachelor_of_Technology_Biotechnology_58c849c366.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Research-Oriented",
-        "titleHighlight": "Learning",
-        "description": "Research methodology, molecular modelling, drug design, nanobiotechnology and biosensors, approached with the mindset to investigate genuine scientific questions.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 42 testing",
+        "titleHighlight": "program 42 testing",
+        "description": "program 42 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "02",
-        "title": "Hands-On Laboratory",
-        "titleHighlight": "Exposure",
-        "description": "Microbiology, cell biology, biochemistry and molecular biology, worked through in advanced laboratories rather than left to classroom theory alone.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 42 testing",
+        "titleHighlight": "program 42 testing",
+        "description": "program 42 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       },
       {
-        "num": "03",
-        "title": "Research Project &",
-        "titleHighlight": "Internship",
-        "description": "A dedicated final-year project and an industry internship provide meaningful professional and research exposure before you graduate.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 42 testing",
+        "titleHighlight": "program 42 testing",
+        "description": "program 42 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
       },
       {
-        "num": "04",
-        "title": "Career",
-        "titleHighlight": "Flexibility",
-        "description": "Biotechnology creates opportunities across healthcare, pharmaceuticals, diagnostics, agriculture, environmental science, research and higher education.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 42 testing",
+        "titleHighlight": "program 42 testing",
+        "description": "program 42 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 42 testing",
+      "facts": [
+        {
+          "label": "program 42 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 42 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 42 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 42 testing"
+    },
+    "whyChoose": "program 42 testing",
+    "globalCertifications": "program 42 testing"
   },
   {
-    "id": 1731,
+    "id": 1968,
     "discipline": "Applied Health Sciences",
     "programCode": "LBS703",
-    "programShortName": "BSC_FORENSIC-H",
-    "programName": "Bachelor of Science ( Forensic Science) (Hons.)",
+    "programShortName": "program 43 testing",
+    "programName": "program 43 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 67000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate from a recognized Board in Science stream.",
-    "title": "B.Sc (Forensic Science) (Hons.)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 43 testing",
+    "title": "program 43 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year specialized science program focusing on crime scene investigation, forensic toxicology, DNA profiling, and criminalistics.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 43 testing",
+    "description": "program 43 testing",
+    "format": "program 43 testing",
+    "duration": "program 43 testing",
+    "eligibility": "program 43 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBS_703_1d34c42c1f.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 1552
     },
     "features": [
       {
-        "num": "01",
-        "title": "Practice from",
-        "titleHighlight": "Day One",
-        "description": "Build forensic expertise through early exposure to crime scene investigation, evidence handling and laboratory work, with case-based activities that connect science to real investigative challenges.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 43 testing",
+        "titleHighlight": "program 43 testing",
+        "description": "program 43 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "02",
-        "title": "Advanced Tools &",
-        "titleHighlight": "Technology",
-        "description": "Specialised laboratories, analytical instrumentation, digital forensic tools and simulations, backed by internships, expert sessions and hands-on exposure to AI-enabled investigation.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 43 testing",
+        "titleHighlight": "program 43 testing",
+        "description": "program 43 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       },
       {
-        "num": "03",
-        "title": "Career & Research",
-        "titleHighlight": "Readiness",
-        "description": "A foundation for higher studies, independent research and the technology-driven roles forensic science is moving toward, across diverse forensic and investigative work.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 43 testing",
+        "titleHighlight": "program 43 testing",
+        "description": "program 43 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 43 testing",
+      "facts": [
+        {
+          "label": "program 43 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 43 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 43 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 43 testing"
+    },
+    "whyChoose": "program 43 testing",
+    "globalCertifications": "program 43 testing"
   },
   {
-    "id": 1732,
+    "id": 1969,
     "discipline": "Pharmacy",
     "programCode": "LPH201",
-    "programShortName": "BPHARM",
-    "programName": "Bachelor of Pharmacy",
+    "programShortName": "program 44 testing",
+    "programName": "program 44 testing",
     "level": "UG",
-    "durationYears": "4 Year",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 135000,
-    "eligibilityCriteria": "Candidate shall have passed 10+2 examination (with atleast 50% marks) conducted by the respective state/central government authorities recognized as equivalent to 10+2 examination by the Association of Indian Universities (AIU) with English as one of the subjects and Physics, Chemistry, Mathematics/Biology as compulsory subjects. Provided that a student should complete the age of 17 years on or before 31st December of the year of admission to the course.",
-    "title": "B.Pharm",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 44 testing",
+    "title": "program 44 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year professional pharmacy program covering pharmaceutical chemistry, pharmacology, pharmaceutics, pharmacognosy, and clinical pharmacy.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 44 testing",
+    "description": "program 44 testing",
+    "format": "program 44 testing",
+    "duration": "program 44 testing",
+    "eligibility": "program 44 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LPH_201_d4d387e2f1.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "features": [
       {
-        "num": "01",
-        "title": "AI-Enabled",
-        "titleHighlight": "Curriculum",
-        "description": "Artificial intelligence, Python, design thinking, AR and VR labs and flipped classrooms prepare students for a pharmacy profession that is already changing.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 44 testing",
+        "titleHighlight": "program 44 testing",
+        "description": "program 44 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       },
       {
-        "num": "02",
-        "title": "Research &",
-        "titleHighlight": "Innovation",
-        "description": "Hands-on research experience with support for publishing and patenting, mentored by industry professionals and national and international researchers.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 44 testing",
+        "titleHighlight": "program 44 testing",
+        "description": "program 44 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
       },
       {
-        "num": "03",
-        "title": "Industry",
-        "titleHighlight": "Integration",
-        "description": "An industry-driven approach built on pharmaceutical companies, CSIR labs and national hospitals working alongside the faculty.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 44 testing",
+        "titleHighlight": "program 44 testing",
+        "description": "program 44 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
       },
       {
-        "num": "04",
-        "title": "Career",
-        "titleHighlight": "Advancement",
-        "description": "National and international placement support, professional certification, and structured skills development and career-readiness programmes.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 44 testing",
+        "titleHighlight": "program 44 testing",
+        "description": "program 44 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 44 testing",
+      "facts": [
+        {
+          "label": "program 44 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 44 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 44 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 44 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 44 testing"
+    },
+    "whyChoose": "program 44 testing",
+    "globalCertifications": "program 44 testing"
   },
   {
-    "id": 1733,
+    "id": 1970,
     "discipline": "Computing",
     "programCode": "LBC703",
-    "programShortName": "BCA-Hons AI & ML",
-    "programName": "Bachelor of Computer Applications (Hons.) Artificial Intelligence & Machine Learning",
+    "programShortName": "program 45 testing",
+    "programName": "program 45 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "10+2 or its equivalent examination in any stream with atleast 55% marks conducted by a recognized Board / University.",
-    "title": "BCA (Hons.) AI & ML",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 45 testing",
+    "title": "program 45 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year specialized computer application degree focusing on artificial intelligence fundamentals, Python programming, neural networks, and ML applications.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 45 testing",
+    "description": "program 45 testing",
+    "format": "program 45 testing",
+    "duration": "program 45 testing",
+    "eligibility": "program 45 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBC_703_d5e9167fc4.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [
       {
-        "num": "01",
-        "title": "Industry-Focused",
-        "titleHighlight": "Curriculum",
-        "description": "The most recent advancements in Artificial Intelligence and Machine Learning, which ensure you are industry-ready soon after the completion of your course.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 45 testing",
+        "titleHighlight": "program 45 testing",
+        "description": "program 45 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "02",
-        "title": "Practice-Based",
-        "titleHighlight": "Training",
-        "description": "Practice-based training through projects, laboratory work and internships, so what you learn is tested against real application.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 45 testing",
+        "titleHighlight": "program 45 testing",
+        "description": "program 45 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "03",
-        "title": "Career",
-        "titleHighlight": "Opportunities",
-        "description": "Excellent career opportunities, with high demand for AI and ML roles and strong compensation across the industry.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 45 testing",
+        "titleHighlight": "program 45 testing",
+        "description": "program 45 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 45 testing",
+      "facts": [
+        {
+          "label": "program 45 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 45 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 45 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 45 testing"
+    },
+    "whyChoose": "program 45 testing",
+    "globalCertifications": "program 45 testing"
   },
   {
-    "id": 1734,
+    "id": 1971,
     "discipline": "Engineering",
     "programCode": "LAE201",
-    "programShortName": "B.Tech- AE",
-    "programName": "Bachelor of Technology (Aerospace Engineering)",
+    "programShortName": "program 46 testing",
+    "programName": "program 46 testing",
     "level": "UG",
-    "durationYears": "4 Years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 125000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate.",
-    "title": "B.Tech (Aerospace Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 46 testing",
+    "title": "program 46 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year engineering course covering aerodynamics, propulsion systems, flight mechanics, avionics, and spacecraft design.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 46 testing",
+    "description": "program 46 testing",
+    "format": "program 46 testing",
+    "duration": "program 46 testing",
+    "eligibility": "program 46 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LAE_201_e9e921eac9.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1735,
+    "id": 1972,
     "discipline": "Engineering",
     "programCode": "LBT202",
-    "programShortName": "B. Tech (LE) - Biotech.",
-    "programName": "Bachelor of Technology Lateral Entry (Biotechnology)",
+    "programShortName": "program 47 testing",
+    "programName": "program 47 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Physics as a subject. Provided all Basic Science and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee",
-    "title": "B.Tech Lateral Entry (Biotechnology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 47 testing",
+    "title": "program 47 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering program in biotechnology for diploma holders to gain advanced knowledge in bio-process and genetic engineering.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 47 testing",
+    "description": "program 47 testing",
+    "format": "program 47 testing",
+    "duration": "program 47 testing",
+    "eligibility": "program 47 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBT_202_2d615cc05c.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1736,
+    "id": 1973,
     "discipline": "Engineering",
     "programCode": "LCE202",
-    "programShortName": "B.Tech. (LE) - CE",
-    "programName": "Bachelor of Technology Lateral Entry (Civil Engineering)",
+    "programShortName": "program 48 testing",
+    "programName": "program 48 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Civil Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 48 testing",
+    "title": "program 48 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry program in civil engineering enabling diploma graduates to master structural design and construction management.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 48 testing",
+    "description": "program 48 testing",
+    "format": "program 48 testing",
+    "duration": "program 48 testing",
+    "eligibility": "program 48 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCE_202_20afc4fffb.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1737,
+    "id": 1974,
     "discipline": "Engineering",
     "programCode": "LCS206",
-    "programShortName": "B.Tech. (LE) - CSE",
-    "programName": "Bachelor of Technology Lateral Entry (Computer Science & Engineering)",
+    "programShortName": "program 49 testing",
+    "programName": "program 49 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 55% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 55% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Computer Science & Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 49 testing",
+    "title": "program 49 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry program in computer science and engineering focusing on advanced software development and system architecture.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 49 testing",
+    "description": "program 49 testing",
+    "format": "program 49 testing",
+    "duration": "program 49 testing",
+    "eligibility": "program 49 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_206_fb274f2a02.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1738,
+    "id": 1975,
     "discipline": "Engineering",
     "programCode": "LCS207",
-    "programShortName": "B.Tech (LE) - CSE AI & ML",
-    "programName": "Bachelor of Technology CSE Lateral Entry (Artificial Intelligence)",
+    "programShortName": "program 50 testing",
+    "programName": "program 50 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 60% marks in CSE/ IT/ ECE branch of Engineering / Technology. OR Passed B.Sc. CS Degree from a recognized University as defined by UGC,with at least 60% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech CSE Lateral Entry (AI & ML)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 50 testing",
+    "title": "program 50 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering program specializing in artificial intelligence algorithms, machine learning models, and software engineering.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 50 testing",
+    "description": "program 50 testing",
+    "format": "program 50 testing",
+    "duration": "program 50 testing",
+    "eligibility": "program 50 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_207_85e562bb74.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 1552
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1739,
+    "id": 1976,
     "discipline": "Engineering",
     "programCode": "LCS208",
-    "programShortName": "B.Tech (LE) - CSE DS",
-    "programName": "Bachelor of Technology CSE Lateral Entry (Data Science)",
+    "programShortName": "program 51 testing",
+    "programName": "program 51 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three-year Diploma in any stream of Engineering / Technology with at least 55% marks OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 55% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech CSE Lateral Entry (Data Science)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 51 testing",
+    "title": "program 51 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering degree in computer science with specialization in data science, big data analytics, and statistical computing.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 51 testing",
+    "description": "program 51 testing",
+    "format": "program 51 testing",
+    "duration": "program 51 testing",
+    "eligibility": "program 51 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_208_d774f9d730.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1740,
+    "id": 1977,
     "discipline": "Engineering",
     "programCode": "LCS209",
-    "programShortName": "B.Tech (LE) - CSE CS",
-    "programName": "Bachelor of Technology CSE Lateral Entry (Cyber Security)",
+    "programShortName": "program 52 testing",
+    "programName": "program 52 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three-year Diploma in any stream of Engineering / Technology with at least 55% marks OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 55% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech CSE Lateral Entry (Cyber Security)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 52 testing",
+    "title": "program 52 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering program in cyber security focused on network defense, ethical hacking, and information security.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 52 testing",
+    "description": "program 52 testing",
+    "format": "program 52 testing",
+    "duration": "program 52 testing",
+    "eligibility": "program 52 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_Bachelor_of_Technology_Lateral_Entry_Information_Technology_b6d32f7fab.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1741,
+    "id": 1978,
     "discipline": "Engineering",
     "programCode": "LCS210",
-    "programShortName": "B.Tech (LE) - CSE CC",
-    "programName": "Bachelor of Technology CSE Lateral Entry (Cloud Computing)",
+    "programShortName": "program 53 testing",
+    "programName": "program 53 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three-year Diploma in any stream of Engineering / Technology with at least 55% marks OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 55% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech CSE Lateral Entry (Cloud Computing)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 53 testing",
+    "title": "program 53 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering degree focusing on cloud computing architectures, cloud security, and DevOps practices.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 53 testing",
+    "description": "program 53 testing",
+    "format": "program 53 testing",
+    "duration": "program 53 testing",
+    "eligibility": "program 53 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_210_f934f67bc0.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1742,
+    "id": 1979,
     "discipline": "Engineering",
     "programCode": "LCS211",
-    "programShortName": "B.Tech-CSE IOT & AI",
-    "programName": "Bachelor of Technology CSE (Internet of Things and Artificial Intelligence)",
+    "programShortName": "program 54 testing",
+    "programName": "program 54 testing",
     "level": "UG",
-    "durationYears": "4 years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 145000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech CSE (IoT & AI)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 54 testing",
+    "title": "program 54 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year modern engineering degree specializing in Internet of Things (IoT) sensors, embedded systems, smart devices, and artificial intelligence.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 54 testing",
+    "description": "program 54 testing",
+    "format": "program 54 testing",
+    "duration": "program 54 testing",
+    "eligibility": "program 54 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_211_00d2b9d14e.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1743,
+    "id": 1980,
     "discipline": "Engineering",
     "programCode": "LEC202",
-    "programShortName": "B.Tech (LE) - ECE",
-    "programName": "Bachelor of Technology Lateral Entry (Electronics Engineering)",
+    "programShortName": "program 55 testing",
+    "programName": "program 55 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Electronics & Communication Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 55 testing",
+    "title": "program 55 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry program in electronics and communication engineering focusing on VLSI, embedded systems, and wireless communications.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 55 testing",
+    "description": "program 55 testing",
+    "format": "program 55 testing",
+    "duration": "program 55 testing",
+    "eligibility": "program 55 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LEC_202_1e3355e08d.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 1552
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1744,
+    "id": 1981,
     "discipline": "Engineering",
     "programCode": "LEE202",
-    "programShortName": "B.Tech (LE) - EE",
-    "programName": "Bachelor of Technology Lateral Entry (Electrical Engineering)",
+    "programShortName": "program 56 testing",
+    "programName": "program 56 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Electrical Engineering)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 56 testing",
+    "title": "program 56 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry program in electrical engineering covering power electronics, electrical grids, control systems, and automation.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 56 testing",
+    "description": "program 56 testing",
+    "format": "program 56 testing",
+    "duration": "program 56 testing",
+    "eligibility": "program 56 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LEE_202_715d71e1bc.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1745,
+    "id": 1982,
     "discipline": "Engineering",
     "programCode": "LIT202",
-    "programShortName": "B.Tech (LE) - IT",
-    "programName": "Bachelor of Technology Lateral Entry (Information Technology)",
+    "programShortName": "program 57 testing",
+    "programName": "program 57 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Information Technology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 57 testing",
+    "title": "program 57 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry program in information technology enabling diploma holders to master enterprise software systems and cloud technologies.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 57 testing",
+    "description": "program 57 testing",
+    "format": "program 57 testing",
+    "duration": "program 57 testing",
+    "eligibility": "program 57 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LIT_202_a23d6fcf1f.webp",
-      "alt": "",
-      "width": 1200,
-      "height": 667
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1746,
+    "id": 1983,
     "discipline": "Engineering",
     "programCode": "LME202",
-    "programShortName": "B.Tech (LE) - ME",
-    "programName": "Bachelor of Technology Lateral Entry (Mechanical Technology)",
+    "programShortName": "program 58 testing",
+    "programName": "program 58 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee.",
-    "title": "B.Tech Lateral Entry (Mechanical Technology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 58 testing",
+    "title": "program 58 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry engineering program in mechanical engineering covering machine design, thermal engineering, and industrial automation.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "10+2 Science Stream (min 50% aggregate)",
+    "partner": "program 58 testing",
+    "description": "program 58 testing",
+    "format": "program 58 testing",
+    "duration": "program 58 testing",
+    "eligibility": "program 58 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LME_202_92c56c72af.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1747,
+    "id": 1984,
     "discipline": "Engineering",
     "programCode": "LRA201",
-    "programShortName": "B. Tech- Robo & Auto",
-    "programName": "Bachelor of Technology (Robotics & Automation)",
+    "programShortName": "program 59 testing",
+    "programName": "program 59 testing",
     "level": "UG",
-    "durationYears": "4 years",
+    "durationYears": "0000",
     "cucetCompulsory": true,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 104000,
-    "eligibilityCriteria": "10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 55% marks in the aggregate.",
-    "title": "B.Tech (Robotics & Automation)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 59 testing",
+    "title": "program 59 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year futuristic engineering course covering industrial robotics, autonomous systems, mechatronics, sensors, and control systems.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 55% aggregate)",
+    "partner": "program 59 testing",
+    "description": "program 59 testing",
+    "format": "program 59 testing",
+    "duration": "program 59 testing",
+    "eligibility": "program 59 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LRA_201_98223195a3.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "features": [
       {
-        "num": "01",
-        "title": "Robotics &",
-        "titleHighlight": "Simulation Labs",
-        "description": "Hands-on interaction with industry through robotics and simulation laboratories, backed by industry-specific autonomous laboratory training.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 59 testing",
+        "titleHighlight": "program 59 testing",
+        "description": "program 59 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "02",
-        "title": "Multi-Disciplinary",
-        "titleHighlight": "Engineering",
-        "description": "Mechanical, electrical, electronics and computer engineering are taught as one connected foundation for building automated systems.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 59 testing",
+        "titleHighlight": "program 59 testing",
+        "description": "program 59 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       },
       {
-        "num": "03",
-        "title": "Live Projects &",
-        "titleHighlight": "Internships",
-        "description": "Individual projects each semester followed by group projects, alongside live industry projects and internships.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 59 testing",
+        "titleHighlight": "program 59 testing",
+        "description": "program 59 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg"
       },
       {
-        "num": "04",
-        "title": "Intelligent Systems &",
-        "titleHighlight": "Automation",
-        "description": "Introduction to intelligent systems and automation technologies, with current technology-driven roles built into the curriculum.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 59 testing",
+        "titleHighlight": "program 59 testing",
+        "description": "program 59 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 59 testing",
+      "facts": [
+        {
+          "label": "program 59 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 59 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 59 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 59 testing"
+    },
+    "whyChoose": "program 59 testing",
+    "globalCertifications": "program 59 testing"
   },
   {
-    "id": 1748,
+    "id": 1985,
     "discipline": "Design",
     "programCode": "LDE701",
-    "programShortName": "B.Des (F & D)",
-    "programName": "Bachelor of Design (Fashion & Design)",
+    "programShortName": "program 60 testing",
+    "programName": "program 60 testing",
     "level": "UG",
-    "durationYears": "4 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks.",
-    "title": "B.Des (Fashion & Design)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 60 testing",
+    "title": "program 60 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year creative design degree focusing on fashion illustration, garment construction, textile science, apparel merchandising, and brand design.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 60 testing",
+    "description": "program 60 testing",
+    "format": "program 60 testing",
+    "duration": "program 60 testing",
+    "eligibility": "program 60 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LDE_701_339d994012.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1749,
+    "id": 1986,
     "discipline": "Design",
     "programCode": "LDE702",
-    "programShortName": "B.Des (I Des)",
-    "programName": "Bachelor of Design (Interior Design)",
+    "programShortName": "program 61 testing",
+    "programName": "program 61 testing",
     "level": "UG",
-    "durationYears": "4 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks.",
-    "title": "B.Des (Interior Design)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 61 testing",
+    "title": "program 61 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year design program specializing in interior architecture, spatial planning, 3D interior visualization, lighting design, and sustainable materials.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 61 testing",
+    "description": "program 61 testing",
+    "format": "program 61 testing",
+    "duration": "program 61 testing",
+    "eligibility": "program 61 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LDE_702_5727ee3ae1.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1750,
+    "id": 1987,
     "discipline": "Applied Health Sciences",
     "programCode": "LBS708",
-    "programShortName": "B.Sc.- MB",
-    "programName": "Bachelor of Science (Hons) (Microbiology)",
+    "programShortName": "program 62 testing",
+    "programName": "program 62 testing",
     "level": "UG",
-    "durationYears": "4 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 60000,
-    "eligibilityCriteria": "10+2 examination with atleast 50% marks in aggregate with Physics/Chemistry and Mathematics/ Biology/ Zoology/ Botany/ Agriculture conducted by a recognized Board / University/council or its equivalent.",
-    "title": "B.Sc (Hons) (Microbiology)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 62 testing",
+    "title": "program 62 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year science degree exploring pathogenic microorganisms, industrial microbiology, immunology, virology, and medical diagnostics.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 62 testing",
+    "description": "program 62 testing",
+    "format": "program 62 testing",
+    "duration": "program 62 testing",
+    "eligibility": "program 62 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBS_708_500963da25.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "Microbiology for",
-        "titleHighlight": "the Future",
-        "description": "Microbial genomics, bioinformatics, enzyme technology, genetic engineering and molecular diagnostics, the fields the discipline is actually moving toward.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 62 testing",
+        "titleHighlight": "program 62 testing",
+        "description": "program 62 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       },
       {
-        "num": "02",
-        "title": "Research and",
-        "titleHighlight": "Industry Practice",
-        "description": "Internships, large research projects and real practicals across pharmaceuticals, industry, healthcare, food science and environmental science.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 62 testing",
+        "titleHighlight": "program 62 testing",
+        "description": "program 62 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "03",
-        "title": "Advanced Practical",
-        "titleHighlight": "Lab Training",
-        "description": "PCR, qPCR, sequencing, culturing and scientific data analysis, the techniques that separate knowing biology from doing it.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 62 testing",
+        "titleHighlight": "program 62 testing",
+        "description": "program 62 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       },
       {
-        "num": "04",
-        "title": "Flexible Career",
-        "titleHighlight": "Pathways",
-        "description": "Opportunities across diagnostics, pharmaceuticals, food safety, quality control, research, biotechnology, environmental services and higher education.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 62 testing",
+        "titleHighlight": "program 62 testing",
+        "description": "program 62 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 62 testing",
+      "facts": [
+        {
+          "label": "program 62 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 62 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 62 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 62 testing"
+    },
+    "whyChoose": "program 62 testing",
+    "globalCertifications": "program 62 testing"
   },
   {
-    "id": 1751,
+    "id": 1988,
     "discipline": "Pharmacy",
     "programCode": "LPH202",
-    "programShortName": "B Pharm (LE)",
-    "programName": "Bachelor of Pharmacy (Lateral Entry)",
+    "programShortName": "program 63 testing",
+    "programName": "program 63 testing",
     "level": "UG",
-    "durationYears": "3 years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 135000,
-    "eligibilityCriteria": "Diploma in Pharmacy with 50% marks in aggregate from an institute affiliated to any university or any state Board of Technical Education provided that the diploma or the institute is duly approved by the PCI.",
-    "title": "B.Pharm (Lateral Entry)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 63 testing",
+    "title": "program 63 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 3-year lateral entry pharmacy program for D.Pharm holders to earn a Bachelor of Pharmacy degree with advanced clinical training.",
-    "format": "On Campus (Lateral Entry)",
-    "duration": "3 Years (6 Semesters)",
-    "eligibility": "3-Year Engineering Diploma (min 50% marks)",
+    "partner": "program 63 testing",
+    "description": "program 63 testing",
+    "format": "program 63 testing",
+    "duration": "program 63 testing",
+    "eligibility": "program 63 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LPH_202_e17770b0e0.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 847
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "AI-Enabled",
-        "titleHighlight": "Curriculum",
-        "description": "Artificial intelligence, Python, design thinking, AR and VR labs and flipped classrooms prepare students for a pharmacy profession that is already changing.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 63 testing",
+        "titleHighlight": "program 63 testing",
+        "description": "program 63 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
       },
       {
-        "num": "02",
-        "title": "Research &",
-        "titleHighlight": "Innovation",
-        "description": "Hands-on research experience with support for publishing and patenting, mentored by industry professionals and national and international researchers.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 63 testing",
+        "titleHighlight": "program 63 testing",
+        "description": "program 63 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       },
       {
-        "num": "03",
-        "title": "Industry",
-        "titleHighlight": "Integration",
-        "description": "An industry-driven approach built on pharmaceutical companies, CSIR labs and national hospitals working alongside the faculty.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 63 testing",
+        "titleHighlight": "program 63 testing",
+        "description": "program 63 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       },
       {
-        "num": "04",
-        "title": "Career",
-        "titleHighlight": "Advancement",
-        "description": "National and international placement support, professional certification, and structured skills development and career-readiness programmes.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 63 testing",
+        "titleHighlight": "program 63 testing",
+        "description": "program 63 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 63 testing",
+      "facts": [
+        {
+          "label": "program 63 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 63 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 63 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 63 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 63 testing"
+    },
+    "whyChoose": "program 63 testing",
+    "globalCertifications": "program 63 testing"
   },
   {
-    "id": 1752,
+    "id": 1989,
     "discipline": "Hotel Management and Tourism",
     "programCode": "LHM701",
-    "programShortName": "B.Sc - (H&HM)",
-    "programName": "Bachelor of Science (Hospitality & Hotel Management)",
+    "programShortName": "program 64 testing",
+    "programName": "program 64 testing",
     "level": "UG",
-    "durationYears": "4 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "B.Sc (Hospitality & Hotel Management)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 64 testing",
+    "title": "program 64 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year professional degree in hotel operations, food and beverage management, front office administration, and hospitality leadership.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 64 testing",
+    "description": "program 64 testing",
+    "format": "program 64 testing",
+    "duration": "program 64 testing",
+    "eligibility": "program 64 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LHM_701_6d7b293b28.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 801
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [
       {
-        "num": "01",
-        "title": "AI-Based Hospitality",
-        "titleHighlight": "Learning",
-        "description": "Learn to work with the AI-based technologies used across the hospitality sector, and the practices that turn technology into better guest service.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 64 testing",
+        "titleHighlight": "program 64 testing",
+        "description": "program 64 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
       },
       {
-        "num": "02",
-        "title": "Industry-Integrated",
-        "titleHighlight": "Internships",
-        "description": "A structured internship with leading hotel brands builds hands-on skill and professional relationships with potential employers.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 64 testing",
+        "titleHighlight": "program 64 testing",
+        "description": "program 64 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg"
       },
       {
-        "num": "03",
-        "title": "Learning Through",
-        "titleHighlight": "Practice",
-        "description": "Operation-based skills built through practical training in food production, housekeeping, restaurant management, event management and guest services.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 64 testing",
+        "titleHighlight": "program 64 testing",
+        "description": "program 64 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg"
       },
       {
-        "num": "04",
-        "title": "Global",
-        "titleHighlight": "Exposure",
-        "description": "Academic partnerships, transfer options and mentors with international experience take the programme well beyond one campus.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 64 testing",
+        "titleHighlight": "program 64 testing",
+        "description": "program 64 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 64 testing",
+      "facts": [
+        {
+          "label": "program 64 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 64 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 64 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 64 testing"
+    },
+    "whyChoose": "program 64 testing",
+    "globalCertifications": "program 64 testing"
   },
   {
-    "id": 1753,
+    "id": 1990,
     "discipline": "Hotel Management and Tourism",
     "programCode": "LHM702",
-    "programShortName": "B.Sc - (A&AM)",
-    "programName": "Bachelor of Science (Airlines & Airport Management)",
+    "programShortName": "program 65 testing",
+    "programName": "program 65 testing",
     "level": "UG",
-    "durationYears": "4 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 85000,
-    "eligibilityCriteria": "10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council.",
-    "title": "B.Sc (Airlines & Airport Management)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 65 testing",
+    "title": "program 65 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year aviation management degree covering airport ground operations, airline ticketing, aviation safety, customer service, and air cargo management.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 65 testing",
+    "description": "program 65 testing",
+    "format": "program 65 testing",
+    "duration": "program 65 testing",
+    "eligibility": "program 65 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LHM_702_a8612e8eef.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 847
     },
     "features": [
       {
-        "num": "01",
-        "title": "AI-Augmented Aviation",
-        "titleHighlight": "Curriculum",
-        "description": "AI, aviation technology, safety practice and hospitality, taught through an industry-aligned curriculum built around how the field actually works.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 65 testing",
+        "titleHighlight": "program 65 testing",
+        "description": "program 65 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       },
       {
-        "num": "02",
-        "title": "Real-World Aviation",
-        "titleHighlight": "Exposure",
-        "description": "Mock aircraft, simulated terminals, live projects and internships that turn classroom learning into career-ready experience from the first year.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 65 testing",
+        "titleHighlight": "program 65 testing",
+        "description": "program 65 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
       },
       {
-        "num": "03",
-        "title": "Global Career",
-        "titleHighlight": "Readiness",
-        "description": "Grooming, communication, career counselling and certifications open doors across airlines, airports, tourism, hospitality and aviation entrepreneurship.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 65 testing",
+        "titleHighlight": "program 65 testing",
+        "description": "program 65 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 65 testing",
+      "facts": [
+        {
+          "label": "program 65 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 65 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 65 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 65 testing"
+    },
+    "whyChoose": "program 65 testing",
+    "globalCertifications": "program 65 testing"
   },
   {
-    "id": 1754,
+    "id": 1991,
     "discipline": "Liberal Arts",
     "programCode": "LBA701",
-    "programShortName": "BA (Hons) - L A",
-    "programName": "Bachelor of Arts (Hons) (Liberal Art)",
+    "programShortName": "program 66 testing",
+    "programName": "program 66 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 45000,
-    "eligibilityCriteria": "10+2 or its equivalent examination with atleast 50% marks in any stream conducted by a recognized board / University/ Council.",
-    "title": "BA (Hons) (Liberal Art)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 66 testing",
+    "title": "program 66 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year multidisciplinary liberal arts degree encouraging critical thinking, global perspectives, literature, philosophy, and social sciences.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 66 testing",
+    "description": "program 66 testing",
+    "format": "program 66 testing",
+    "duration": "program 66 testing",
+    "eligibility": "program 66 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBA_701_b3c1e9fb2d.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1755,
+    "id": 1992,
     "discipline": "Liberal Arts",
     "programCode": "LBA702",
-    "programShortName": "B.A. Psycho -H",
-    "programName": "Bachelor of Arts (Psychology) (Hons)",
+    "programShortName": "program 67 testing",
+    "programName": "program 67 testing",
     "level": "UG",
-    "durationYears": "4 Years (with exit option at the end of 3 years*)",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 45000,
-    "eligibilityCriteria": "10+2 in any stream with 50 %marks from a recognized Board/University.",
-    "title": "BA (Psychology) (Hons)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 67 testing",
+    "title": "program 67 testing",
     "theme": "light",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year specialized humanities degree exploring human behavior, cognitive psychology, clinical diagnostics, counseling, and social psychology.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 67 testing",
+    "description": "program 67 testing",
+    "format": "program 67 testing",
+    "duration": "program 67 testing",
+    "eligibility": "program 67 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBA_702_ae36ad3703.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1756,
+    "id": 1993,
     "discipline": "Computing",
     "programCode": "LBS701",
-    "programShortName": "B.Sc. - AVG",
-    "programName": "Bachelor of Science (Hons) (Animation, VFX & Gaming)",
+    "programShortName": "program 68 testing",
+    "programName": "program 68 testing",
     "level": "UG",
-    "durationYears": "4 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 75000,
-    "eligibilityCriteria": "10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks.",
-    "title": "B.Sc (Hons) (Animation, VFX & Gaming)",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 68 testing",
+    "title": "program 68 testing",
     "theme": "dark",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 4-year creative technology degree training students in 2D/3D animation, visual effects (VFX), game design, character modeling, and digital compositing.",
-    "format": "On Campus (Full Time)",
-    "duration": "4 Years (8 Semesters)",
-    "eligibility": "10+2 in any stream (min 50% aggregate)",
+    "partner": "program 68 testing",
+    "description": "program 68 testing",
+    "format": "program 68 testing",
+    "duration": "program 68 testing",
+    "eligibility": "program 68 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBS_701_064761ce50.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 786
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
     "features": [],
-    "certifications": [],
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg"
+      }
+    ],
     "roles": []
   },
   {
-    "id": 1757,
+    "id": 1994,
     "discipline": "Architecture and Planning",
     "programCode": "LAR201",
-    "programShortName": "B. Arch.",
-    "programName": "Bachelor of Architecture",
+    "programShortName": "program 69 testing",
+    "programName": "program 69 testing",
     "level": "UG",
-    "durationYears": "5 Years",
+    "durationYears": "0000",
     "cucetCompulsory": false,
     "cucetScholarshipApplicable": true,
-    "feePerSemester": 90000,
-    "eligibilityCriteria": "10+2 or equivalent examination with Physics and Mathematics as compulsory subjects along with either Chemistry or Biology or Technical Vocational subject or Computer Science or Information Technology or Informatics Practices or Engineering Graphics or Business Studies with at least 45% marks in aggregate or passed 10+3 Diploma Examination with Mathematics as compulsory subject with at least 45% marks in aggregate. The candidate needs to qualify an aptitude test in architecture conducted either by NTA (i.e. JEE) or NATA conducted by the Council of Architecture.",
-    "title": "B.Arch",
+    "feePerSemester": 0,
+    "eligibilityCriteria": "program 69 testing",
+    "title": "program 69 testing",
     "theme": "active",
     "logoId": "CU",
-    "partner": "Chandigarh University",
-    "description": "A 5-year professional architecture degree approved by Council of Architecture, covering architectural design, building technology, urban planning, and structural design.",
-    "format": "On Campus (Full Time)",
-    "duration": "5 Years (10 Semesters)",
-    "eligibility": "10+2 with PCM (min 50% aggregate)",
+    "partner": "program 69 testing",
+    "description": "program 69 testing",
+    "format": "program 69 testing",
+    "duration": "program 69 testing",
+    "eligibility": "program 69 testing",
     "deadline": "Round 2: 23 Feb '26",
     "image": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LAR_201_d941717776.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 747
     },
     "logo": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_cu_photo_66cef65aaf.png",
-      "alt": "",
-      "width": 168,
-      "height": 82
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 847
     },
     "features": [
       {
-        "num": "01",
-        "title": "Studio-First",
-        "titleHighlight": "Learning",
-        "description": "Architectural Design Studios form the core of every semester, so students design, build models, present concepts and develop professional design thinking from the outset.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_academics_5_Q3_A1500_d35a5aaeea.webp"
+        "num": "0000",
+        "title": "program 69 testing",
+        "titleHighlight": "program 69 testing",
+        "description": "program 69 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg"
       },
       {
-        "num": "02",
-        "title": "Experiential",
-        "titleHighlight": "Learning",
-        "description": "Annual study tours, site visits, construction training, community engagement and a six-month professional internship keep hands-on exposure continuous.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp"
+        "num": "0000",
+        "title": "program 69 testing",
+        "titleHighlight": "program 69 testing",
+        "description": "program 69 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg"
       },
       {
-        "num": "03",
-        "title": "Technology",
-        "titleHighlight": "Integration",
-        "description": "Students progressively build proficiency in AutoCAD, BIM, parametric design, generative AI, climate simulation, building energy simulation and XR/AR/VR.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_events_Ai_Convergence_66617fc158.webp"
+        "num": "0000",
+        "title": "program 69 testing",
+        "titleHighlight": "program 69 testing",
+        "description": "program 69 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png"
       },
       {
-        "num": "04",
-        "title": "Sustainability-Focused",
-        "titleHighlight": "Education",
-        "description": "Coursework in climatology, sustainable building design, environmental science, green energy systems and heritage conservation prepares students for climate-responsive practice.",
-        "image": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_Apple_Lab_886bd14ba1.webp"
+        "num": "0000",
+        "title": "program 69 testing",
+        "titleHighlight": "program 69 testing",
+        "description": "program 69 testing",
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
       }
     ],
-    "certifications": [],
-    "roles": []
+    "certifications": [
+      {
+        "image": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg"
+      }
+    ],
+    "roles": [],
+    "about": {
+      "body": "program 69 testing",
+      "facts": [
+        {
+          "label": "program 69 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 69 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 69 testing",
+          "value": "0000"
+        },
+        {
+          "label": "program 69 testing",
+          "value": "0000"
+        }
+      ],
+      "scope": "program 69 testing"
+    },
+    "whyChoose": "program 69 testing",
+    "globalCertifications": "program 69 testing"
   }
 ];

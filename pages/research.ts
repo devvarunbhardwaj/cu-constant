@@ -5,6 +5,6 @@ import type { Research } from '../types/pages/research';
 export type { Research };
 
 export const RESEARCH: Research = {
-  "eyebrow": "Research",
-  "intro": "The detailed view. The map on the home page shows which fields the university publishes in and how much; this is where you read what was actually published — search the corpus, open a domain, and follow the papers and the people behind them."
+  "eyebrow": "testing testing",
+  "intro": "testing testing"
 };

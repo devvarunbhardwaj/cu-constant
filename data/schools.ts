@@ -7,223 +7,743 @@ export type { Schools };
 export const SCHOOLS: Schools = [
   {
     "discipline": "applied-health-sciences",
-    "name": "Applied Health Sciences",
-    "tagline": "Unravel Mysteries: Explore Our Applied Sciences Programs!",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMS_304_d5cfb5cf68.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 786
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 1
+    "order": 1,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "architecture-and-planning",
-    "name": "Architecture and Planning",
-    "tagline": "Build a Future of Design Excellence",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LAR_201_d941717776.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 2
+    "order": 2,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "biotechnology",
-    "name": "Biotechnology",
-    "tagline": "3 programmes in Biotechnology, across undergraduate and postgraduate study.",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMS_305_27d01b032a.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 1552
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 3
+    "order": 3,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "business",
-    "name": "Business",
-    "tagline": "Strategize, Lead, Succeed; Explore Our Management Programs!",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMB_301_b902279bce.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 747
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 4
+    "order": 4,
+    "placement": {
+      "session": "testing testing",
+      "source": "testing testing",
+      "department": "testing testing",
+      "stats": [
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        }
+      ],
+      "recruiters": [
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "commerce",
-    "name": "Commerce",
-    "tagline": "Unlock Business Acumen. Choose Our Commerce Programs",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCO_701_7623d3233e.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 847
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 5
+    "order": 5,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "computing",
-    "name": "Computing",
-    "tagline": "Code Your Dreams: Explore Our Computing Programs!",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LMC_301_5032c18406.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 6
+    "order": 6,
+    "placement": {
+      "session": "testing testing",
+      "source": "testing testing",
+      "department": "testing testing",
+      "stats": [
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        }
+      ],
+      "recruiters": [
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "design",
-    "name": "Design",
-    "tagline": "Unleash Creativity with Advanced & Industry-Aligned Design Programs",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LDE_701_339d994012.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 7
+    "order": 7,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "engineering",
-    "name": "Engineering",
-    "tagline": "Lead the Way in Engineering. Innovate Your Future",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LCS_301_9e30f96813.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 8
+    "order": 8,
+    "placement": {
+      "session": "testing testing",
+      "source": "testing testing",
+      "department": "",
+      "stats": [
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        }
+      ],
+      "recruiters": [
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "hotel-management-and-tourism",
-    "name": "Hotel Management and Tourism",
-    "tagline": "Crafting Leaders for Global Hospitality Excellence",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LHM_701_6d7b293b28.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+      "alt": "testing image",
+      "width": 800,
+      "height": 600
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 9
+    "order": 9,
+    "placement": {
+      "session": "testing testing",
+      "source": "testing testing",
+      "department": "testing testing",
+      "stats": [
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        }
+      ],
+      "recruiters": [
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "journalism-and-mass-communication",
-    "name": "Journalism and Mass Communication",
-    "tagline": "1 programme in Journalism and Mass Communication, at undergraduate level.",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBA_703_52dd862c89.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 10
+    "order": 10,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "legal-studies",
-    "name": "Legal Studies",
-    "tagline": "Transform Society with Legal Expertise",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LLA_301_69200c6ef2.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 11
+    "order": 11,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "liberal-arts",
-    "name": "Liberal Arts",
-    "tagline": "Empower With Versatility & Futuristic Liberal Arts Programs",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LBA_701_b3c1e9fb2d.webp",
-      "alt": "",
-      "width": 2000,
-      "height": 1000
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 801
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 12
+    "order": 12,
+    "placement": null,
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   },
   {
     "discipline": "pharmacy",
-    "name": "Pharmacy",
-    "tagline": "Innovate for a Healthier Tomorrow with Pharma Sciences",
+    "name": "testing testing",
+    "tagline": "testing testing",
     "heroImage": {
-      "url": "http://127.0.0.1:1337/uploads/images_our_programes_assets_new_LPH_201_d4d387e2f1.webp",
-      "alt": "",
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+      "alt": "testing image",
       "width": 1200,
-      "height": 667
+      "height": 800
     },
-    "teachingIntro": "At Chandigarh University, we believe in the power of a unified yet distinct educational journey, seamlessly extending from our faculty philosophy down to the individual schools within each faculty. Our commitment is to ensure that the pedagogical approaches at the school level not only resonate with the overarching goals of the faculty but are also meticulously adapted to meet the unique demands and aspirations of each school's discipline.\n\nBy aligning the educational strategies across schools and faculties, we not only ensure a coherent educational philosophy but also enrich the learning journey by facilitating cross-disciplinary insights and opportunities. This approach allows students to benefit from a broad-based education while gaining deep expertise in their chosen fields.",
+    "teachingIntro": "testing testing\n\ntesting testing",
     "teachingPractices": [],
-    "evaluationIntro": "At Chandigarh University, we believe that assessment is a crucial part of the learning process — not just a measure of what you've learned, but a way to enhance your educational journey and prepare you for the challenges of the real world. Our innovative assessment practices are designed to align with our commitment to personalized learning, ensuring that every student can thrive and reach their full potential.\n\nThrough a variety of engaging, practical, and reflective assessment methods, we aim to equip our students with the skills, knowledge, and mindset needed for success in their chosen fields.",
+    "evaluationIntro": "testing testing\n\ntesting testing",
     "evaluationPractices": [],
     "teachesAiCompetencies": false,
-    "order": 13
+    "order": 13,
+    "placement": {
+      "session": "testing testing",
+      "source": "testing testing",
+      "department": "testing testing",
+      "stats": [
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        },
+        {
+          "value": "0000",
+          "label": "testing testing"
+        }
+      ],
+      "recruiters": [
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        },
+        {
+          "name": "testing testing"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "icon": "spark",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "lab",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "globe",
+        "label": "testing testing",
+        "value": "0000"
+      },
+      {
+        "icon": "partners",
+        "label": "testing testing",
+        "value": "0000"
+      }
+    ]
   }
 ];

@@ -5,41 +5,76 @@ import type { ProgramsSection } from '../../types/pages/home/programs';
 export type { ProgramsSection };
 
 export const PROGRAMS_SECTION: ProgramsSection = {
-  "heading": "AI-Integrated, Industry-Aligned\n*Programs* Co-Created with Industry Giants",
-  "subheading": "Chandigarh University, Uttar Pradesh, offers futuristic academic programs integrating artificial intelligence and aligning with the evolving needs of industry.",
-  "cucetEyebrow": "CUCET 2026 · Phase II",
-  "cucetHeading": "India’s Premier Scholarship, Unlocking *a World of Opportunities*",
-  "cucetDescription": "Chandigarh University Common Entrance Test (CUCET) opens the doors to a world of opportunities and exceptional careers, rewarding academic brilliance and providing financial assistance by offering up to 100% scholarships.",
+  "heading": "testing *testing*",
+  "subheading": "testing testing",
+  "cucetEyebrow": "testing testing",
+  "cucetHeading": "testing *testing*",
+  "cucetDescription": "testing testing",
   "cucetDeadline": "2026-08-31T18:29:59.000Z",
-  "cucetDeadlineLabel": "31 August 2026",
-  "cucetCtaLabel": "Register for CUCET",
+  "cucetDeadlineLabel": "testing testing",
+  "cucetCtaLabel": "testing testing",
   "cucetCtaLink": "https://cucet.cuchd.in/index.aspx?utm_source=Website&utm_medium=culko",
-  "cucetHelpline": "1800-121-288800",
+  "cucetHelpline": "0000",
   "slabs": [
     {
       "id": "1",
-      "marks": "90+",
-      "award": "100% fee waiver"
+      "marks": "0000",
+      "award": "testing testing"
     },
     {
       "id": "2",
-      "marks": "80 – 90",
-      "award": "40%"
+      "marks": "testing testing",
+      "award": "0000"
     },
     {
       "id": "3",
-      "marks": "70 – 79.99",
-      "award": "30%"
+      "marks": "testing testing",
+      "award": "0000"
     },
     {
       "id": "4",
-      "marks": "60 – 69.99",
-      "award": "20%"
+      "marks": "testing testing",
+      "award": "0000"
     },
     {
       "id": "5",
-      "marks": "Scholarship pool",
-      "award": "₹50 Crore"
+      "marks": "testing testing",
+      "award": "0000"
+    }
+  ],
+  "carousel": [
+    {
+      "title": "testing testing",
+      "subTitle": "testing testing",
+      "videoUrl": "https://www.youtube.com/embed/gu91b9abGl8?si=W2JN6vpB1PzAyCDo",
+      "poster": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "title": "testing testing",
+      "subTitle": "testing testing",
+      "videoUrl": "https://www.youtube.com/embed/gu91b9abGl8?si=W2JN6vpB1PzAyCDo",
+      "poster": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
+    },
+    {
+      "title": "testing testing",
+      "subTitle": "testing testing",
+      "videoUrl": "https://www.youtube.com/embed/gu91b9abGl8?si=W2JN6vpB1PzAyCDo",
+      "poster": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     }
   ]
 };

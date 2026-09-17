@@ -5,34 +5,34 @@ import type { MobileDock } from '../types/site/mobile-dock';
 export type { MobileDock };
 
 export const MOBILE_DOCK: MobileDock = {
-  "ctaLabel": "Register Now",
-  "registerEyebrow": "Apply Today For",
-  "registerHeading": "Chandigarh University Programs",
-  "registerDeadlineNote": "Registration End Date (Phase - 1): 15 May 2026",
-  "registerConsent": "By submitting this form, I agree to receive notifications from the University in the form of SMS/E-mail/Call.",
-  "registerSubmitLabel": "APPLY NOW",
-  "registerSuccessTitle": "Registration Submitted!",
-  "registerSuccessBody": "Our counselors will contact you shortly.",
-  "chatTitle": "Ask Us Anything",
-  "chatStatus": "Usually replies instantly",
-  "chatGreeting": "Hi there! I'm here to help. Ask me anything about us.",
-  "chatPlaceholder": "Type your message...",
+  "ctaLabel": "testing testing",
+  "registerEyebrow": "testing testing",
+  "registerHeading": "testing testing",
+  "registerDeadlineNote": "testing testing",
+  "registerConsent": "testing testing",
+  "registerSubmitLabel": "testing testing",
+  "registerSuccessTitle": "testing testing",
+  "registerSuccessBody": "testing testing",
+  "chatTitle": "testing testing",
+  "chatStatus": "0000",
+  "chatGreeting": "testing testing",
+  "chatPlaceholder": "testing testing",
   "chatSuggestions": [
     {
       "id": "1",
-      "label": "Courses offered"
+      "label": "testing testing"
     },
     {
       "id": "2",
-      "label": "Fees & scholarships"
+      "label": "testing testing"
     },
     {
       "id": "3",
-      "label": "Placements"
+      "label": "testing testing"
     },
     {
       "id": "4",
-      "label": "Campus life"
+      "label": "testing testing"
     }
   ]
 };

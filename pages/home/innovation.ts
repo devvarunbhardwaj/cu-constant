@@ -5,87 +5,87 @@ import type { InnovationStartupsSection } from '../../types/pages/home/innovatio
 export type { InnovationStartupsSection };
 
 export const INNOVATION_STARTUPS_SECTION: InnovationStartupsSection = {
-  "ecosystemHeading": "Where student ideas become *funded companies*",
-  "ecosystemSubheading": "An incubation centre, a mentor bench and a live investor pipeline — all of it on campus, and all of it open to students from year one.",
-  "pillarsHeading": "From a dorm-room idea to a *funded company*",
-  "pillarsSubheading": "The incubation centre is not a room you apply to once. It is workspace, mentors, capital and a stage — four things a founder needs at different months of the same year, all of them already on campus.",
-  "startupsSubheading": "Not case studies. These are companies with founders still on the register, built in the incubation cell and funded off the campus pitch stage.",
+  "ecosystemHeading": "testing *testing*",
+  "ecosystemSubheading": "testing testing",
+  "pillarsHeading": "testing *testing*",
+  "pillarsSubheading": "testing testing",
+  "startupsSubheading": "testing testing",
   "stats": [
     {
       "id": "1",
-      "value": "7+",
+      "value": "0000",
       "prefix": "",
-      "label": "Innovation domains",
+      "label": "testing testing",
       "tone": "plain"
     },
     {
       "id": "2",
-      "value": "10+",
+      "value": "0000",
       "prefix": "",
-      "label": "Active startups incubated",
+      "label": "testing testing",
       "tone": "ink"
     },
     {
       "id": "3",
-      "value": "12 Cr",
-      "prefix": "₹",
-      "label": "Raised by student ventures",
+      "value": "0000",
+      "prefix": "test",
+      "label": "testing testing",
       "tone": "red"
     },
     {
       "id": "4",
-      "value": "200+",
+      "value": "0000",
       "prefix": "",
-      "label": "Mentors, operators & investors",
+      "label": "testing testing",
       "tone": "track"
     }
   ],
   "pillars": [
     {
       "id": "1",
-      "title": "Incubation Cell",
-      "body": "Workspace, incorporation help and go-to-market support for every registered student venture, from first prototype through to first revenue.",
+      "title": "testing testing",
+      "body": "testing testing",
       "chips": [
-        "Workspace & labs",
-        "Incorporation support",
-        "Go-to-market",
-        "IP & patent filing"
+        "testing testing",
+        "testing testing",
+        "testing testing",
+        "testing testing"
       ],
       "glyph": "lattice"
     },
     {
       "id": "2",
-      "title": "Mentor Network",
-      "body": "Industry experts, operators and investors hold open office hours on campus, so no founder here is figuring it out alone.",
+      "title": "testing testing",
+      "body": "testing testing",
       "chips": [
-        "Open office hours",
-        "Domain expert panels",
-        "Alumni operators",
-        "Founder residencies"
+        "testing testing",
+        "testing testing",
+        "testing testing",
+        "testing testing"
       ],
       "glyph": "orbit"
     },
     {
       "id": "3",
-      "title": "Capital Access",
-      "body": "Grants, state innovation capital and angel cheques reach student ventures through the campus incubator -- and founders pitch to a room of active funds every semester.",
+      "title": "testing testing",
+      "body": "testing testing",
       "chips": [
-        "Investor meet",
-        "Demo day",
-        "Seed & state grants",
-        "Angel syndicates"
+        "testing testing",
+        "testing testing",
+        "testing testing",
+        "testing testing"
       ],
       "glyph": "ascent"
     },
     {
       "id": "4",
-      "title": "Campus Tank",
-      "body": "The university's own pitch stage, where student founders compete for funding in front of a live panel of investors.",
+      "title": "testing testing",
+      "body": "testing testing",
       "chips": [
-        "Live investor panel",
-        "Fast-track incubation",
-        "Cash prizes",
-        "Media coverage"
+        "testing testing",
+        "testing testing",
+        "testing testing",
+        "testing testing"
       ],
       "glyph": "broadcast"
     }
@@ -93,123 +93,91 @@ export const INNOVATION_STARTUPS_SECTION: InnovationStartupsSection = {
   "startups": [
     {
       "id": "1",
-      "name": "Better IDEa",
-      "sector": "Developer tools",
-      "founders": "Ankush Singh & Farhat",
-      "description": "A web-based IDE for building on AO, so founders can do what they are good at without first solving a development setup.",
+      "name": "testing testing",
+      "sector": "testing testing",
+      "founders": "testing testing",
+      "description": "testing testing",
       "videoUrl": "https://www.youtube.com/embed/9snJSH9CdUs",
       "clipSrc": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_better_idea_be421f832a.mp4",
-      "clipPoster": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_better_idea_poster_eceb9cb114.webp"
+      "clipPoster": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg"
     },
     {
       "id": "2",
-      "name": "Medoc Health",
-      "sector": "Healthcare",
-      "founders": "Utkarsh Luthra",
-      "description": "Simplifies healthcare by empowering hospitals, supporting doctors with intelligent tools and giving patients secure access to their own records.",
+      "name": "testing testing",
+      "sector": "testing testing",
+      "founders": "testing testing",
+      "description": "testing testing",
       "videoUrl": "https://www.youtube.com/embed/xxXloEwplhk",
       "clipSrc": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_medoc_health_eff6bab230.mp4",
-      "clipPoster": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_medoc_health_poster_a38714aae5.webp"
+      "clipPoster": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg"
     },
     {
       "id": "3",
-      "name": "Aurasm",
-      "sector": "Consumer brand",
-      "founders": "Kshitij & Shivanshi",
-      "description": "A luxury lifestyle brand built on timeless craftsmanship, expanding into a curated range of products that embody aura and refined living.",
+      "name": "testing testing",
+      "sector": "testing testing",
+      "founders": "testing testing",
+      "description": "testing testing",
       "videoUrl": "https://www.youtube.com/embed/-tDjE07JjBQ",
       "clipSrc": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_aurasm_523478d9d4.mp4",
-      "clipPoster": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_aurasm_poster_7605bd0427.webp"
+      "clipPoster": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg"
     },
     {
       "id": "4",
-      "name": "Anon",
-      "sector": "AI / Web3",
-      "founders": "Nikhil Singh Rathore & Ayush Kansal",
-      "description": "An AI-powered dApp builder for the Permaweb that lets anyone create, deploy and scale decentralised applications using natural language.",
+      "name": "testing testing",
+      "sector": "testing testing",
+      "founders": "testing testing",
+      "description": "testing testing",
       "videoUrl": "https://www.youtube.com/embed/T0GJ6qHNprA",
       "clipSrc": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_anon_ca10206a88.mp4",
-      "clipPoster": "http://127.0.0.1:1337/uploads/images_innovation_startups_clips_anon_poster_139ecc7f4c.webp"
+      "clipPoster": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg"
     }
   ],
   "tiles": [
     {
       "id": "1",
-      "cover": "http://127.0.0.1:1337/uploads/images_moments_assets_india_first_ai_fest_32d72900d1.webp",
-      "caption": "India’s first AI Fest",
-      "alt": "India First AI Fest",
+      "cover": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "caption": "testing testing",
+      "alt": "testing image",
       "gallery": [
         {
-          "src": "http://127.0.0.1:1337/uploads/images_moments_assets_india_first_ai_fest_32d72900d1.webp",
-          "alt": "India First AI Fest"
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_moments_assets_india_first_ai_fest_1_a9ce42d342.webp",
-          "alt": "India First AI Fest Convergence"
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_moments_assets_India_AI_Convergence_c6fdcb86d7.webp",
-          "alt": "India AI Convergence 2026, an official run-up to the India AI Impact Summit"
+          "src": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+          "alt": "testing image"
         }
       ]
     },
     {
       "id": "2",
-      "cover": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp",
-      "caption": "AI & innovation labs",
-      "alt": "",
+      "cover": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "caption": "testing testing",
+      "alt": "testing image",
       "gallery": [
         {
-          "src": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7751_3498f39456.webp",
-          "alt": ""
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_6859_5b0979e6ee.webp",
-          "alt": "AI lab workstations at Chandigarh University, Uttar Pradesh"
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_campus_life_ai_labs_SYP_7760_6452537816.webp",
-          "alt": ""
+          "src": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+          "alt": "testing image"
         }
       ]
     },
     {
       "id": "3",
-      "cover": "http://127.0.0.1:1337/uploads/images_moments_assets_Campus_Tank_36b86537e4.webp",
-      "caption": "Campus Tank pitch day",
-      "alt": "Launch of Campus Tank Uttar Pradesh at Chandigarh University, Uttar Pradesh",
+      "cover": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+      "caption": "testing testing",
+      "alt": "testing image",
       "gallery": [
         {
-          "src": "http://127.0.0.1:1337/uploads/images_moments_assets_Campus_Tank_36b86537e4.webp",
-          "alt": "Launch of Campus Tank Uttar Pradesh at Chandigarh University, Uttar Pradesh"
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_moments_assets_Campus_Tank_1_f6ae6abdda.webp",
-          "alt": "Founders pitching at Campus Tank Uttar Pradesh"
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_campus_tank_img_463577f71f.jpg",
-          "alt": "Dignitaries unveiling the NARI Women in Tech plaque at SynHERgy, Chandigarh University, Uttar Pradesh"
+          "src": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+          "alt": "testing image"
         }
       ]
     },
     {
       "id": "4",
-      "cover": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Entrepreneurial_Ecosystem_2a748ae2af.webp",
-      "caption": "Entrepreneurial ecosystem",
-      "alt": "",
+      "cover": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+      "caption": "testing testing",
+      "alt": "testing image",
       "gallery": [
         {
-          "src": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Entrepreneurial_Ecosystem_2a748ae2af.webp",
-          "alt": ""
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Entrepreneurial_Ecosystem_1_293a7ff675.webp",
-          "alt": ""
-        },
-        {
-          "src": "http://127.0.0.1:1337/uploads/images_why_CU_assets_Centres_of_Excellence_a6200abc1d.webp",
-          "alt": ""
+          "src": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+          "alt": "testing image"
         }
       ]
     }

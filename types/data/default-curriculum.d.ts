@@ -19,11 +19,7 @@ export type Objective = {
   body: string;
 };
 
-export type CurriculumsRow = {
-  /** The programme code (program.program_code). */
-  program: string | null;
+export type DefaultCurriculum = {
   semesters: Semester[];
   objectives: Objective[];
 };
-
-export type Curriculums = CurriculumsRow[];

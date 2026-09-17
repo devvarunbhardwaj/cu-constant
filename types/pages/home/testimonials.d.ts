@@ -10,11 +10,34 @@ export type TestimonialReel = {
   image: CmsImage;
 };
 
+export type AchieverVideoCategory = 'Stories' | 'Shorts' | 'Placement' | 'Cultural';
+
 export type AchieverVideo = {
   id: string;
   /** Named `videoTitle` because `CucetAchieversCarousel` reads that key. */
   videoTitle: string;
   videoLink: string;
+  /** Unset on most rows — the strip does not filter by it today. */
+  category: AchieverVideoCategory | null;
+};
+
+export type InstagramReel = {
+  id: string;
+  title: string;
+  name: string;
+  url: string;
+  poster: CmsImage | null;
+};
+
+export type QuoteGroup = 'Alumni' | 'Clubs' | 'Guests';
+
+export type Quote = {
+  id: string;
+  quote: string;
+  name: string;
+  role: string;
+  affiliation: string;
+  photo: CmsImage | null;
 };
 
 export type TestimonialSection = {
@@ -24,4 +47,8 @@ export type TestimonialSection = {
   /** Accent-marked headline over the auto-scrolling strip. */
   achieversHeading: string;
   achievers: AchieverVideo[];
+  /** The Instagram reel strip on the home page. */
+  reels: InstagramReel[];
+  /** The Message-tab text testimonials on `/testimonials`, grouped by tab. */
+  quotes: Record<QuoteGroup, Quote[]>;
 };

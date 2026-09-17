@@ -5,15 +5,15 @@ import type { StepInsideSection } from '../../types/pages/home/step-inside';
 export type { StepInsideSection };
 
 export const STEP_INSIDE_SECTION: StepInsideSection = {
-  "heading": "Step Inside *Chandigarh University - Virtually!*",
+  "heading": "testing *testing*",
   "video": {
     "url": "http://127.0.0.1:1337/uploads/images_traditionsection_thirdsection_vid_20bf6407cf.mp4",
     "mime": "video/mp4"
   },
   "poster": {
-    "url": "http://127.0.0.1:1337/uploads/images_traditionsection_thirdsection_poster_0aab0bbca6.webp",
-    "alt": "",
-    "width": 1280,
-    "height": 720
+    "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+    "alt": "testing image",
+    "width": 1200,
+    "height": 786
   }
 };

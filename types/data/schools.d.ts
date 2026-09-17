@@ -18,6 +18,29 @@ export type EvaluationPractice = {
   points: Point[];
 };
 
+export type PlacementStat = {
+  value: string;
+  label: string;
+};
+
+export type Recruiter = {
+  name: string;
+};
+
+export type Placement = {
+  session: string;
+  source: string;
+  department: string;
+  stats: PlacementStat[];
+  recruiters: Recruiter[];
+};
+
+export type Highlight = {
+  icon: 'spark' | 'lab' | 'partners' | 'globe';
+  label: string;
+  value: string;
+};
+
 export type SchoolsRow = {
   discipline: 'applied-health-sciences' | 'architecture-and-planning' | 'biotechnology' | 'business' | 'commerce' | 'computing' | 'design' | 'engineering' | 'hotel-management-and-tourism' | 'journalism-and-mass-communication' | 'legal-studies' | 'liberal-arts' | 'pharmacy';
   name: string;
@@ -29,6 +52,8 @@ export type SchoolsRow = {
   evaluationPractices: EvaluationPractice[];
   teachesAiCompetencies: boolean;
   order: number;
+  placement: Placement | null;
+  highlights: Highlight[];
 };
 
 export type Schools = SchoolsRow[];

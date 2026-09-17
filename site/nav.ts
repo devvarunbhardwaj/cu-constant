@@ -7,37 +7,148 @@ export type { Nav };
 export const NAV: Nav = {
   "quickLinks": [
     {
-      "label": "Placements",
+      "label": "testing testing",
       "href": "/placements",
       "order": 1
     },
     {
-      "label": "Campuses",
+      "label": "testing testing",
       "href": "",
       "order": 2
     },
     {
-      "label": "International",
+      "label": "testing testing",
       "href": "/international",
       "order": 3
     },
     {
-      "label": "News",
+      "label": "testing testing",
       "href": "/news",
       "order": 4
     },
     {
-      "label": "Contact Us",
+      "label": "testing testing",
       "href": "/contact",
       "order": 5
     },
     {
-      "label": "why not me ?",
+      "label": "testing testing",
       "href": "/neo",
       "order": 6
     }
   ],
-  "partnerLogo": null,
+  "partnerLogo": {
+    "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+    "alt": "testing image",
+    "width": 1200,
+    "height": 786
+  },
   "columnLogos": [],
-  "searchPlaceholder": "Ask anything about us...."
+  "searchPlaceholder": "testing testing",
+  "primaryLinks": [
+    {
+      "label": "testing testing",
+      "href": "/placements"
+    },
+    {
+      "label": "testing testing",
+      "href": "#"
+    },
+    {
+      "label": "testing testing",
+      "href": "/international"
+    },
+    {
+      "label": "testing testing",
+      "href": "/news"
+    },
+    {
+      "label": "testing testing",
+      "href": "/contact"
+    }
+  ],
+  "secondaryLinks": [
+    {
+      "label": "testing testing",
+      "hasDropdown": true
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true,
+      "href": "/ai-features"
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true,
+      "href": "/admissions"
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true,
+      "href": "/campus-life"
+    },
+    {
+      "label": "testing testing",
+      "hasDropdown": true,
+      "href": "/research"
+    }
+  ],
+  "dropdownLinksData": {
+    "testing testing": [
+      {
+        "label": "testing testing",
+        "href": "/research"
+      },
+      {
+        "label": "testing testing",
+        "href": "/research/patents-and-publications"
+      },
+      {
+        "label": "testing testing",
+        "href": "/research/research-centers"
+      },
+      {
+        "label": "testing testing",
+        "href": "/research/startups-and-incubation"
+      }
+    ]
+  },
+  "applyLabel": "testing testing",
+  "applyHref": "",
+  "searchSuggestions": [
+    {
+      "label": "testing testing",
+      "href": "#programs-section"
+    },
+    {
+      "label": "testing testing",
+      "href": "#placement-section"
+    },
+    {
+      "label": "testing testing",
+      "href": "#campus-life-section"
+    },
+    {
+      "label": "testing testing",
+      "href": "#tradition-section"
+    }
+  ],
+  "defaultCta": {
+    "eyebrow": "testing testing",
+    "title": "testing *testing*",
+    "body": "testing testing",
+    "primaryLabel": "testing testing",
+    "primaryHref": "/admissions/how-to-apply",
+    "secondaryLabel": "testing testing",
+    "secondaryHref": "/programs",
+    "tone": "accent"
+  }
 };

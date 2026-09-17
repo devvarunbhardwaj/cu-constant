@@ -6,129 +6,129 @@ export type { Books };
 
 export const BOOKS: Books = [
   {
-    "title": "Navigating GDPR compliance: Transforming digital marketing in a privacy-first world",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "IGI Global Scientific Publishing",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Carbon-Nanotube-Reinforced 3D and 4D Printable Conductive Polymer Composites",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Springer",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Q4/Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Effect of EGR on Performance and Emission Characteristics of a Diesel Engine Fuelled with Rice Bran Biodiesel",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Springer",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Q4/Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Elastomeric-Based 3D and 4D Printable Composite Materials for Engineering Applications",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Springer",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Microalgae: Next-Generation Feedstock for Sustainable Aviation Fuel",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Springer",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Green Computing for Sustainable Development",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2025,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book"
+    "kind": "testing testing"
   },
   {
-    "title": "MXenes: From research to emerging applications-A note",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "MXenes: From research to emerging applications",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book"
+    "kind": "testing testing"
   },
   {
-    "title": "MXene-based nanostructured materials for gas sensing applications",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Applications of MXenes in electrochemical sensors",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Environmental applications of MXene-based materials",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "IT-driven sustainability: pathways to economic and environmental progress",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Elsevier",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Carbon Nanotube-Polymer Nanocomposites for Biomedical Applications",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "Springer",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Q4/Book Chapter"
+    "kind": "testing testing"
   },
   {
-    "title": "Semiconducting Fibers for Biomedical Applications",
+    "title": "testing testing",
     "authors": "",
-    "publisher": "CRC Press",
-    "year": 2024,
+    "publisher": "testing testing",
+    "year": 1900,
     "isbn": "",
     "link": "",
-    "kind": "Book chapter"
+    "kind": "testing testing"
   }
 ];

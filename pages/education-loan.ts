@@ -5,36 +5,36 @@ import type { EducationLoan } from '../types/pages/education-loan';
 export type { EducationLoan };
 
 export const EDUCATION_LOAN: EducationLoan = {
-  "lede": "Chandigarh University has set up a separate loan assistance cell to accommodate students during the admission process — online or offline — to acquire loans from university-partnered banks.",
-  "intro": "At Chandigarh University, Uttar Pradesh, we believe in turning aspirations into reality. We understand that financial constraints shouldn't hinder a student's pursuit of higher education. That's why we're committed to supporting students in accessing the necessary funds.",
+  "lede": "testing testing",
+  "intro": "testing testing",
   "routes": [
     {
-      "name": "Bank loan",
-      "body": "The standard route, arranged through the university's partnered banks. All expenses — hostel, transport and equipment alongside academic fees — are covered under the loan.\n\nCollateral-free up to ₹7.5 Lacs from most banks; up to ₹20 Lacs from select banks and NBFCs.\n\nFor loans exceeding ₹7.5 lakh collateral is mandatory — LIC/NSC/KVP, fixed deposits with the lender, or property documents owned by the applicant or co-signer.\n\nA co-applicant is mandatory for all full-time courses: a parent, guardian, or spouse (if married).\n\nRepayment begins one year after completing the course or six months after securing a job, whichever comes first.\n\nMost banks offer a 0.5% concession on the interest rate for girl students.",
-      "bestFor": "Up to ₹7.5 Lacs",
-      "tenure": "10–15 years after the course",
-      "collateral": "Up to ₹7.5 Lacs",
+      "name": "testing testing",
+      "body": "testing testing\n\ntesting testing",
+      "bestFor": "testing testing",
+      "tenure": "testing testing",
+      "collateral": "testing testing",
       "link": ""
     },
     {
-      "name": "PM-Vidyalaxmi scheme",
-      "body": "The Central Sector Scheme launched by the Government of India, offering collateral-free and guarantor-free loans with a 75% credit guarantee, applied for entirely online.\n\nCollateral-free and guarantor-free, with a 75% credit guarantee by the Government of India.\n\nOpen to students from all income backgrounds — there is no upper income limit for loan eligibility.\n\nPreference to students pursuing technical and professional courses.\n\nCovers tuition fee, hostel, books, laptop and living expenses, disbursed as per student and institution needs.\n\nNo payment is required at any stage on the portal or the app.",
+      "name": "testing testing",
+      "body": "testing testing\n\ntesting testing",
       "bestFor": "",
       "tenure": "",
       "collateral": "",
       "link": ""
     },
     {
-      "name": "Short-term EMI services",
-      "body": "For a temporary financial crunch rather than the whole degree: an advance-EMI plan covering semester fees and associated costs, applied for through the university's portal.\n\nCovers semester fees, books, stationery, hostel, equipment, transportation and additional programme fees.\n\nA valid CIBIL score of the applicant or co-applicant is required, along with the last 6 months' bank statements.\n\nNo collateral or security is required for the monthly fee payment plan.\n\nDisbursement to the institute can be processed within 24 hours once the online process is complete.\n\nProviders: Grayquest, Propelld and JODO.",
+      "name": "testing testing",
+      "body": "testing testing\n\ntesting testing",
       "bestFor": "",
-      "tenure": "6 or 12 months",
+      "tenure": "testing testing",
       "collateral": "",
       "link": ""
     },
     {
-      "name": "State government schemes",
-      "body": "Student credit card schemes run by state governments, open to students whose qualifying examinations were taken in the issuing state.\n\nBihar Student Credit Card Scheme — up to ₹4 lakh, 4% per annum for boys and 1% for girls, a 1-year moratorium after study and a 5–7 year repayment period. Applicable only to NAAC A+ graded universities, NIRF ranked institutions and NBA accredited institutions.\n\nWest Bengal Student Credit Card Scheme — up to ₹10 lakh, 4% per annum with a 0.5% additional concession for girls, collateral-free and guarantee-free, with a 1-year moratorium after completion.\n\nJharkhand Student Credit Card Scheme — up to ₹15 lakh at 4% simple interest per annum, collateral-free and fully guaranteed, repayable over 5–15 years including course duration, for applicants not older than 40.",
+      "name": "testing testing",
+      "body": "testing testing\n\ntesting testing",
       "bestFor": "",
       "tenure": "",
       "collateral": "",
@@ -43,178 +43,268 @@ export const EDUCATION_LOAN: EducationLoan = {
   ],
   "banks": [
     {
-      "name": "HDFC Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
     },
     {
-      "name": "Axis Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
     },
     {
-      "name": "ICICI Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
     },
     {
-      "name": "State Bank of India",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Punjab National Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "IDFC FIRST Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Canara Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
     },
     {
-      "name": "IDBI Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Union Bank of India",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Punjab & Sind Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
+      }
     },
     {
-      "name": "Bank of India",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Indian Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Bank of Maharashtra",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Aryavart Bank",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
+      }
     }
   ],
   "nbfcs": [
     {
-      "name": "Propelld",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "name": "Avanse",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
+      }
     },
     {
-      "name": "Grayquest",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
+      }
     },
     {
-      "name": "JODO",
-      "logo": null
+      "name": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
+      }
     }
   ],
   "documents": [
     {
-      "source": "From the student",
+      "source": "testing testing",
       "items": [
         {
-          "text": "KYC documents — Aadhaar Card, Voter ID, Driving Licence or Passport"
+          "text": "testing testing"
         },
         {
-          "text": "Two recent passport-sized photographs"
+          "text": "testing testing"
         },
         {
-          "text": "Mark sheets and passing certificates of 10th, 12th/Diploma and Degree"
+          "text": "testing testing"
         },
         {
-          "text": "PAN Card"
+          "text": "testing testing"
         },
         {
-          "text": "CUCET score card"
+          "text": "testing testing"
         }
       ]
     },
     {
-      "source": "From the university",
+      "source": "testing testing",
       "items": [
         {
-          "text": "Admission offer letter and the full fee structure of the programme, from the Loan Department"
+          "text": "testing testing"
         },
         {
-          "text": "University prospectus"
+          "text": "testing testing"
         },
         {
-          "text": "Fee and registration slips"
+          "text": "testing testing"
         },
         {
-          "text": "Recognitions and approvals, available on culko.in"
+          "text": "testing testing"
         }
       ]
     },
     {
-      "source": "From parents or the guarantor",
+      "source": "testing testing",
       "items": [
         {
-          "text": "KYC identification — Aadhaar, Voter ID, Driving Licence or Passport"
+          "text": "testing testing"
         },
         {
-          "text": "Two recent passport-size photographs"
+          "text": "testing testing"
         },
         {
-          "text": "PAN Card, mandatory for the guarantor"
+          "text": "testing testing"
         },
         {
-          "text": "Bank statement for the last year from an active account"
+          "text": "testing testing"
         },
         {
-          "text": "Income proof — ITR, Form 16/16A, salary slip, or income proof issued by a Magistrate or Tehsildar"
+          "text": "testing testing"
         },
         {
-          "text": "A statement of the assets and liabilities of the co-borrower or guarantor"
+          "text": "testing testing"
         }
       ]
     }
   ],
   "steps": [
     {
-      "title": "Obtain your documents from the university",
-      "body": "Log in to CUIMS, apply for loan documents, fill in the particulars and save. The documents are available to download after 24 working hours, or write to the loan cell directly."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Register and apply online",
-      "body": "Apply to multiple banks at once through PM-Vidyalaxmi, Vidya Lakshmi or JanSamarth, or through your state's student credit card portal."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Submit the file at the bank branch",
-      "body": "Take colour prints of every document, assemble the file against the checklist, and visit the branch you selected on the portal with your parents."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Track the disbursement",
-      "body": "Collect the branch's contact details for future reference and track disbursements through the portal or the PM Vidyalaxmi Digital Rupee app. The loan is disbursed in instalments directly to the university."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
   "eligibility": [
     {
-      "text": "Students should be Indian citizens and must have gained admission to Chandigarh University, Uttar Pradesh on a merit basis through the entrance examination or the selection procedure detailed in the prospectus."
+      "text": "testing testing"
     },
     {
-      "text": "You must be at least 18 years old. If you are a minor, one of your parents can serve as guardian and obtain the loan in your place. Most banks set an upper age limit of 35 years."
+      "text": "testing testing"
     },
     {
-      "text": "A co-applicant is mandatory for all full-time courses — a parent, guardian, or spouse (if married), with a stable income and a good credit history."
+      "text": "testing testing"
     },
     {
-      "text": "A study gap of 1–3 years will not be an obstacle, provided you meet the admission eligibility criteria of the university."
+      "text": "testing testing"
     },
     {
-      "text": "The minimum loan amount is ₹50,000, as offered by most banks. There are no charges or processing fees."
+      "text": "testing testing"
     }
   ],
-  "contactName": "Ashish Sahu, Loan Executive",
-  "contactPhone": "+91-6389161236",
-  "contactEmail": "eduloan@culko.in"
+  "contactName": "testing testing",
+  "contactPhone": "0000",
+  "contactEmail": "testing testing"
 };

@@ -6,94 +6,94 @@ export type { Holidays };
 
 export const HOLIDAYS: Holidays = [
   {
-    "event": "Makar Sankranti",
-    "year": 2026,
-    "date": "January 14",
-    "day": "Wednesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 1
   },
   {
-    "event": "Republic Day",
-    "year": 2026,
-    "date": "January 26",
-    "day": "Monday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 2
   },
   {
-    "event": "Holi",
-    "year": 2026,
-    "date": "March 04",
-    "day": "Wednesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 3
   },
   {
-    "event": "Eid al-Fitr",
-    "year": 2026,
-    "date": "March 20",
-    "day": "Friday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 4
   },
   {
-    "event": "Shri Ram Navami",
-    "year": 2026,
-    "date": "March 27",
-    "day": "Friday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 5
   },
   {
-    "event": "Dr. B.R. Ambedkar Jayanti",
-    "year": 2026,
-    "date": "April 14",
-    "day": "Tuesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 6
   },
   {
-    "event": "Eid al-Adha",
-    "year": 2026,
-    "date": "May 27",
-    "day": "Wednesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 7
   },
   {
-    "event": "Independence Day",
-    "year": 2026,
-    "date": "August 15",
-    "day": "Saturday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 8
   },
   {
-    "event": "Mahatma Gandhi Jayanti",
-    "year": 2026,
-    "date": "October 02",
-    "day": "Friday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 9
   },
   {
-    "event": "Dussehra",
-    "year": 2026,
-    "date": "October 20",
-    "day": "Tuesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 10
   },
   {
-    "event": "Deepawali",
-    "year": 2026,
-    "date": "November 09",
-    "day": "Monday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 11
   },
   {
-    "event": "Gurupurab, Birthday Shri Gurunanak Dev Ji",
-    "year": 2026,
-    "date": "November 24",
-    "day": "Tuesday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 12
   },
   {
-    "event": "Christmas",
-    "year": 2026,
-    "date": "December 25",
-    "day": "Friday",
+    "event": "testing testing",
+    "year": 2020,
+    "date": "testing testing",
+    "day": "testing testing",
     "order": 13
   }
 ];

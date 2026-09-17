@@ -5,7 +5,87 @@ import type { AiFeatures } from '../types/pages/ai-features';
 export type { AiFeatures };
 
 export const AI_FEATURES: AiFeatures = {
-  "intro": [],
-  "competenciesIntro": "AI competencies include skills in machine learning, data analysis, and natural language processing, enabling intelligent decision-making. These competencies drive automation, innovation, and enhanced problem-solving across industries.",
-  "competencySchools": []
+  "intro": [
+    {
+      "text": "testing testing"
+    },
+    {
+      "text": "testing testing"
+    },
+    {
+      "text": "testing testing"
+    }
+  ],
+  "topics": [
+    {
+      "heading": "testing testing",
+      "items": [
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        }
+      ]
+    },
+    {
+      "heading": "testing testing",
+      "items": [
+        {
+          "title": "testing testing",
+          "body": "testing testing\n\ntesting testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing\n\ntesting testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing\n\ntesting testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing\n\ntesting testing"
+        }
+      ]
+    },
+    {
+      "heading": "testing testing",
+      "items": [
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        },
+        {
+          "title": "testing testing",
+          "body": "testing testing"
+        }
+      ]
+    }
+  ],
+  "competenciesIntro": "testing testing",
+  "competencySchools": [
+    "engineering",
+    "computing",
+    "commerce",
+    "business",
+    "liberal-arts",
+    "legal-studies",
+    "journalism-and-mass-communication",
+    "pharmacy"
+  ]
 };

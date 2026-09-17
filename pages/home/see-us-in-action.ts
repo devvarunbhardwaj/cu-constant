@@ -5,203 +5,203 @@ import type { SeeUsInActionSection } from '../../types/pages/home/see-us-in-acti
 export type { SeeUsInActionSection };
 
 export const SEE_US_IN_ACTION_SECTION: SeeUsInActionSection = {
-  "heading": "See Us in *Action*",
-  "subheading": "A multidisciplinary practice focused on thoughtful design, sustainable materials, and high-quality execution. From residential builds to large commercial projects, we shape environments with clarity, and purpose.",
+  "heading": "testing *testing*",
+  "subheading": "testing testing",
   "categories": [
     {
       "id": "1",
-      "title": "Main\nCampus",
+      "title": "testing testing",
       "icon": "building",
       "videoUrl": "https://drive.google.com/file/d/1qnMAcpqaGhirNVQqOHpNoki4gUkJ8_GV/preview",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_new_drop_f6a0087e79.webp",
-        "alt": "",
-        "width": 828,
-        "height": 536
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "2",
-      "title": "Advance Lab",
+      "title": "testing testing",
       "icon": "cpu",
       "videoUrl": "https://www.youtube.com/embed/nzoWqja-mTg",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_see_us_in_action_Thumbnail_25_08_26_Apple_Lab_eb616c5f95.webp",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "3",
-      "title": "Chemistry\nLab",
+      "title": "testing testing",
       "icon": "microscope",
       "videoUrl": "https://www.youtube.com/embed/gSayTTmevPE?si=x37Vy2F19PYywNuu",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_see_us_in_action_Thumbnail_25_08_26_Chemistry_Lab_f7d71d3c16.webp",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
       }
     },
     {
       "id": "4",
-      "title": "Classrooms",
+      "title": "testing testing",
       "icon": "building",
       "videoUrl": "https://www.youtube.com/embed/btvfkdclYRs",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_see_us_in_action_Thumbnail_25_08_26_Classroom_2_4cbdbf3a9a.webp",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "5",
-      "title": "Forensic\nLab",
+      "title": "testing testing",
       "icon": "microscope",
       "videoUrl": "https://www.youtube.com/embed/jPqOb7C5428",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_see_us_in_action_Thumbnail_25_08_26_Forensic_Lab_c1d71cbd2a.webp",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
       }
     },
     {
       "id": "6",
-      "title": "Library",
+      "title": "testing testing",
       "icon": "book",
       "videoUrl": "https://www.youtube.com/embed/c2uBFPuUhI4",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_see_us_in_action_Thumbnail_25_08_26_Liberary_d055639826.webp",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
       }
     },
     {
       "id": "7",
-      "title": "Sas\nLab",
+      "title": "testing testing",
       "icon": "cpu",
       "videoUrl": "https://www.youtube.com/embed/duLVE2vlCdc",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_du_LVE_2vl_Cdc_maxresdefault_381994d751.jpg",
-        "alt": "",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
       }
     }
   ],
   "carousel": [
     {
       "id": "1",
-      "title": "Campus Tour",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/gu91b9abGl8",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_gu91b9ab_Gl8_maxresdefault_4f7dd6ca2f.jpg",
-        "alt": "Campus Tour",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "2",
-      "title": "Global Events",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/GCyTuDj7Ypk?si=A6ngeMUqS20ELORI",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_G_Cy_Tu_Dj7_Ypk_maxresdefault_ce004fff48.jpg",
-        "alt": "Global Events",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "3",
-      "title": "Festival Season",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/btylLJNjAt8?si=DrhwJWfXofSj1U4C",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_btyl_LJ_Nj_At8_maxresdefault_b7b38228dc.jpg",
-        "alt": "Festival Season",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "4",
-      "title": "Celeb Meetup",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/gNmfBmTRrg4?si=o6FDk4DONrSOWDRD",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_g_Nmf_Bm_T_Rrg4_maxresdefault_4167941c53.jpg",
-        "alt": "Celeb Meetup",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
       }
     },
     {
       "id": "5",
-      "title": "Sports",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/KC756CU95vI?si=-SbPz07UDtIk9tXa",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_KC_756_CU_95v_I_maxresdefault_8cf251ad03.jpg",
-        "alt": "Sports",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "6",
-      "title": "Tech Hackathon",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/XgST_1Zru1k?si=4FTSuj9T4aGOfzry",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_Xg_ST_1_Zru1k_maxresdefault_01daf7a0fa.jpg",
-        "alt": "Tech Hackathon",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "7",
-      "title": "Alumni Meet",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/69GxDgvls3I?si=AcmPpr49W5VfWPYU",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_69_Gx_Dgvls3_I_maxresdefault_b518d83096.jpg",
-        "alt": "Alumni Meet",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
       }
     },
     {
       "id": "8",
-      "title": "Art Exhibition",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/Nuu7B8L610Y?si=O4_IIfLOzziy6Z4j",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_Nuu7_B8_L610_Y_maxresdefault_c14a303453.jpg",
-        "alt": "Art Exhibition",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "9",
-      "title": "Startup Pitch",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/lsgo92gYAa8?si=Ibx1lvdrYDz740AY",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_lsgo92g_Y_Aa8_maxresdefault_60b7e91165.jpg",
-        "alt": "Startup Pitch",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
       "id": "10",
-      "title": "Robotics Workshop",
+      "title": "testing testing",
       "videoLink": "https://www.youtube.com/embed/jgBJxkGnnp4?si=EdVbdfe_ZQsF9UJj",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/img_youtube_com_vi_jg_B_Jxk_Gnnp4_maxresdefault_3ffecfcb01.jpg",
-        "alt": "Robotics Workshop",
-        "width": 1280,
-        "height": 720
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     }
   ]

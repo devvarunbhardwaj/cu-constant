@@ -7,91 +7,91 @@ export type { GoverningBody };
 export const GOVERNING_BODY: GoverningBody = [
   {
     "slug": "governing-body",
-    "name": "The Governing Body",
+    "name": "testing testing",
     "lede": "",
     "members": [
       {
-        "seat": "The Chancellor",
-        "position": "Chairperson"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "Vice Chancellor",
-        "position": "Member"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "Three persons nominated by the Trust, out of whom two shall be eminent educationist",
-        "position": "Member"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "One expert member of management or information technology",
-        "position": "Member"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "One expert of finance, nominated by the Chancellor",
-        "position": "Member"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "One officer of the State Government not below the rank of Joint Secretary to the Government of Uttar Pradesh",
-        "position": "Member"
+        "seat": "testing testing",
+        "position": "testing testing"
       },
       {
-        "seat": "Registrar",
-        "position": "Ex-officio Member Secretary"
+        "seat": "testing testing",
+        "position": "testing testing"
       }
     ],
     "order": 1
   },
   {
     "slug": "academic-council",
-    "name": "The Academic Council",
+    "name": "testing testing",
     "lede": "",
     "members": [
       {
-        "seat": "The Vice-Chancellor — Chairman",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "One eminent academician nominated by the State Govt. as its representative",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Dean of Academic Affairs",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Dean Students Welfare",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Dean of Faculties",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Heads of University Departments of Studies",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Controller of Examinations",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Two University Professors who are not Heads of Departments, by rotation according to seniority",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Two Associate Professors and two Assistant Professors from the University Teaching Departments, by rotation according to seniority",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Librarian",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Four persons being specialists in different branches of knowledge, not being employees of the University, to be nominated by the Chancellor",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Registrar — Ex-officio Member Secretary",
+        "seat": "testing testing",
         "position": ""
       }
     ],
@@ -99,43 +99,43 @@ export const GOVERNING_BODY: GoverningBody = [
   },
   {
     "slug": "executive-council",
-    "name": "The Executive Council",
+    "name": "testing testing",
     "lede": "",
     "members": [
       {
-        "seat": "Vice-Chancellor — Chairperson",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Three members to be nominated by the Governing Body",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Two eminent educationists nominated by the Chancellor",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "One officer of the State Government not below the rank of Joint Secretary to the Government of Uttar Pradesh",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "One Professor of the University",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "One Associate Professor of the University",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "One eminent educationist not below the rank of Associate Professor, from the panel of three names to be approved by the State Government",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Registrar — Ex-officio Member Secretary",
+        "seat": "testing testing",
         "position": ""
       },
       {
-        "seat": "Finance Officer — Invited member",
+        "seat": "testing testing",
         "position": ""
       }
     ],

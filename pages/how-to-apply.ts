@@ -5,34 +5,49 @@ import type { HowToApply } from '../types/pages/how-to-apply';
 export type { HowToApply };
 
 export const HOW_TO_APPLY: HowToApply = {
-  "heading": "Six steps, all online",
-  "lede": "The steps to apply to Chandigarh University Uttar Pradesh, from registering for CUCET to confirming your seat.",
+  "heading": "testing testing",
+  "lede": "testing testing",
   "steps": [
     {
       "num": "",
-      "title": "Sign Up",
-      "body": "Register for CUCET by providing your basic details — name, email, mobile number, state and gender.",
+      "title": "testing testing",
+      "body": "testing testing",
       "ctaLabel": "",
       "ctaHref": "",
-      "image": null
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
       "num": "",
-      "title": "Apply for CUCET",
-      "body": "You receive a confirmation on your registered number and email. Log in with those credentials and complete the eligibility and scholarship test application.",
+      "title": "testing testing",
+      "body": "testing testing",
       "ctaLabel": "",
       "ctaHref": "",
-      "image": null
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
       "num": "",
-      "title": "Admission",
-      "body": "On clearing CUCET, submit your admission application. Merit-based scholarship is assessed automatically from your result.",
+      "title": "testing testing",
+      "body": "testing testing",
       "ctaLabel": "",
       "ctaHref": "",
-      "image": null
+      "image": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
     }
   ],
-  "outcomeTitle": "A CUCET score",
-  "outcomeBody": "Your result arrives shortly after you sit the test, and it is what every scholarship band below is assessed from."
+  "outcomeTitle": "testing testing",
+  "outcomeBody": "testing testing"
 };

@@ -7,102 +7,120 @@ export type { Footer };
 export const FOOTER: Footer = {
   "columns": [
     {
-      "heading": "Explore",
+      "heading": "testing testing",
       "order": 1,
       "links": [
         {
-          "label": "About Us",
+          "label": "testing testing",
           "href": "/about",
           "external": false
         },
         {
-          "label": "Admissions",
+          "label": "testing testing",
           "href": "/admissions",
           "external": false
         },
         {
-          "label": "Academics",
+          "label": "testing testing",
           "href": "/academics",
           "external": false
         },
         {
-          "label": "Campus Life",
+          "label": "testing testing",
           "href": "/campus-life",
           "external": false
         }
       ]
     },
     {
-      "heading": "AI Innovations",
+      "heading": "testing testing",
       "order": 2,
       "links": [
         {
-          "label": "AI-Driven Features",
+          "label": "testing testing",
           "href": "/ai-features",
           "external": false
         },
         {
-          "label": "AI-Fuelled Research",
+          "label": "testing testing",
           "href": "/ai-features/ai-fuelled-research",
           "external": false
         },
         {
-          "label": "AI-Powered Labs",
+          "label": "testing testing",
           "href": "/ai-features/ai-powered-labs-coes",
           "external": false
         }
       ]
     },
     {
-      "heading": "Support",
+      "heading": "testing testing",
       "order": 3,
       "links": [
         {
-          "label": "Contact Us",
+          "label": "testing testing",
           "href": "/contact",
           "external": false
+        },
+        {
+          "label": "testing testing",
+          "href": "#",
+          "external": true
+        },
+        {
+          "label": "testing testing",
+          "href": "#",
+          "external": true
         }
       ]
     },
     {
-      "heading": "Visit Here",
+      "heading": "testing testing",
       "order": 4,
       "links": [
         {
-          "label": "Anti Ragging Cell",
+          "label": "testing testing",
           "href": "#",
           "external": true
         },
         {
-          "label": "UGC Compliance",
+          "label": "testing testing",
           "href": "#",
           "external": true
         },
         {
-          "label": "UGC e-Samadhan",
+          "label": "testing testing",
           "href": "#",
           "external": true
         },
         {
-          "label": "UGC - Public Self Disclosure",
+          "label": "testing testing",
           "href": "#",
           "external": true
         },
         {
-          "label": "Declaration of Environmental Clearance",
+          "label": "testing testing",
+          "href": "#",
+          "external": true
+        },
+        {
+          "label": "testing testing",
           "href": "#",
           "external": true
         }
       ]
     }
   ],
-  "addressHeading": "Address",
-  "address": "Chandigarh University, Lucknow - Kanpur Highway - 27, Unnao, Uttar Pradesh, India",
-  "contactHeading": "Get in Touch",
-  "helplineLabel": "Helpline",
-  "helplineNumber": "1800 270 1411",
+  "addressHeading": "testing testing",
+  "address": "testing testing",
+  "contactHeading": "testing testing",
+  "contactNumber": "0000",
+  "contactCaption": "testing testing",
+  "helplineLabel": "testing testing",
+  "helplineNumber": "0000",
+  "helplineCaption": "testing testing",
   "email": "",
-  "socialHeading": "Social Media",
+  "socialHeading": "testing testing",
   "socialLinks": [
     {
       "platform": "facebook",
@@ -126,5 +144,15 @@ export const FOOTER: Footer = {
     }
   ],
   "legalNote": "",
-  "copyright": ""
+  "copyright": "",
+  "legalLinks": [
+    {
+      "label": "testing testing",
+      "href": "#"
+    },
+    {
+      "label": "testing testing",
+      "href": "#"
+    }
+  ]
 };

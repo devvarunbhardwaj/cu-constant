@@ -5,820 +5,820 @@ import type { PlacementSection } from '../../types/pages/home/placement';
 export type { PlacementSection };
 
 export const PLACEMENT_SECTION: PlacementSection = {
-  "heading": "The World's Leading *Companies Hire Our Talent*",
-  "subheading": "Dreaming of working with Fortune 500 & Top 100 Companies of India? Chandigarh University provides the ultimate platform to realize your dreams.",
-  "ctaLabel": "View Placements",
-  "alumniHeading": "Meet Our Proud Alumni",
-  "alumniSubheading": "Dreaming of working with Fortune 500 & Top 100 Companies of India? University provides the ultimate platform to realize your dreams.",
-  "storiesHeading": "Success Stories of Our *Accomplished Alumni*",
-  "storiesCtaLabel": "View All Placements",
-  "networkHeading": "*Top-Tier Companies* in CU's Network",
+  "heading": "testing *testing*",
+  "subheading": "testing testing",
+  "ctaLabel": "testing testing",
+  "alumniHeading": "testing testing",
+  "alumniSubheading": "testing testing",
+  "storiesHeading": "testing *testing*",
+  "storiesCtaLabel": "testing testing",
+  "networkHeading": "testing *testing*",
   "recruiters": [
     {
-      "name": "Samsung",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_samsung_logo_bacce5ec2f.svg",
-        "alt": "",
-        "width": 100,
-        "height": 35
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "EY",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_ey_logo_df0c3f3741.svg",
-        "alt": "",
-        "width": 121,
-        "height": 42
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
       }
     },
     {
-      "name": "Shoppers Stop",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_shoppersstop_logo_e412b3b6d6.svg",
-        "alt": "Shoppers Stop",
-        "width": 113,
-        "height": 39
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Cipla",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_cipla_logo_bdb92bcca2.svg",
-        "alt": "",
-        "width": 113,
-        "height": 39
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
       }
     },
     {
-      "name": "Honda",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_honda_logo_2bfd3dc07e.svg",
-        "alt": "Honda",
-        "width": 116,
-        "height": 40
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
       }
     },
     {
-      "name": "Amex",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_americanexpress_logo_083c25e6a3.svg",
-        "alt": "",
-        "width": 58,
-        "height": 31
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
       }
     },
     {
-      "name": "Microsoft",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_microsoft_logo_31c06961d5.svg",
-        "alt": "Microsoft",
-        "width": 101,
-        "height": 27
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Palo Alto",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_paloalto_logo_691be7e081.webp",
-        "alt": "",
-        "width": 148,
-        "height": 27
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "McKinsey",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_mckinsey_logo_42cd6b7c1c.webp",
-        "alt": "",
-        "width": 114,
-        "height": 43
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Google",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_google_12d8161bec.webp",
-        "alt": "Google",
-        "width": 235,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
       }
     },
     {
-      "name": "Amazon",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_amazon_20fb6b5cd6.webp",
-        "alt": "Amazon",
-        "width": 271,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Dell",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_dell_c4dce4d8fd.webp",
-        "alt": "Dell",
-        "width": 270,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "HP",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_hp_8c584fed09.webp",
-        "alt": "HP",
-        "width": 81,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
       }
     },
     {
-      "name": "IBM",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_ibm_291ca2774b.webp",
-        "alt": "IBM",
-        "width": 201,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Flipkart",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_flipkart_dc39f53bcd.webp",
-        "alt": "Flipkart",
-        "width": 300,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Deloitte",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_deloitte_601ee1740b.webp",
-        "alt": "Deloitte",
-        "width": 420,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Sapient",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_sapient_8fd9eed512.webp",
-        "alt": "Sapient",
-        "width": 230,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
       }
     },
     {
-      "name": "Cognizant",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_cognizant_721a6430ac.webp",
-        "alt": "Cognizant",
-        "width": 326,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "VMware",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_vmware_5ff15bc2d2.webp",
-        "alt": "VMware",
-        "width": 553,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
       }
     },
     {
-      "name": "Schindler",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_schindler_a748cf79e2.webp",
-        "alt": "Schindler",
-        "width": 94,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
       }
     },
     {
-      "name": "Hitachi",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_hitachi_2b6fb7f05d.webp",
-        "alt": "Hitachi",
-        "width": 298,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
       }
     },
     {
-      "name": "L&T",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_landt_6416918150.webp",
-        "alt": "L&T",
-        "width": 441,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "HCL",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_hcl_3fb230e5af.webp",
-        "alt": "HCL",
-        "width": 470,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Directi",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_directi_553183fea1.webp",
-        "alt": "Directi",
-        "width": 245,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Oracle",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_oracle_e4367d9db8.webp",
-        "alt": "Oracle",
-        "width": 484,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
       }
     },
     {
-      "name": "RBS",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_rbs_a2df2c1951.webp",
-        "alt": "RBS",
-        "width": 242,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Bank of America",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_bank_of_america_5dca56114a.webp",
-        "alt": "Bank of America",
-        "width": 790,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "ICICI Securities",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_icici_securities_11d7184970.webp",
-        "alt": "ICICI Securities",
-        "width": 606,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
       }
     },
     {
-      "name": "Muthoot Finance",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_muthoot_finance_bd05db0b4e.webp",
-        "alt": "Muthoot Finance",
-        "width": 211,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Godrej",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_godrej_94a83c7af2.webp",
-        "alt": "Godrej",
-        "width": 168,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Motorola",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_motorola_597412767d.webp",
-        "alt": "Motorola",
-        "width": 397,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "TATA AIA",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_tata_aia_07cd7b1aef.webp",
-        "alt": "TATA AIA",
-        "width": 276,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
       }
     },
     {
-      "name": "Radisson",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_radisson_e3d4ac69dd.webp",
-        "alt": "Radisson",
-        "width": 224,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "ITC",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_itc_c4778c8fc2.webp",
-        "alt": "ITC",
-        "width": 81,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
       }
     },
     {
-      "name": "Jubilant Foodworks",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_jubilant_foodworks_fea24563b1.webp",
-        "alt": "Jubilant Foodworks",
-        "width": 118,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 747
       }
     },
     {
-      "name": "Le Meridien",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_le_meridien_a490e8cc21.webp",
-        "alt": "Le Meridien",
-        "width": 572,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 847
       }
     },
     {
-      "name": "Taj",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_taj_f94174e3ec.webp",
-        "alt": "Taj",
-        "width": 99,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Anchor",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_anchor_1cd7d942cc.webp",
-        "alt": "Anchor",
-        "width": 284,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Vardhaman",
+      "name": "testing testing",
       "logo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_network_vardhaman_e5a3124ba0.webp",
-        "alt": "Vardhaman",
-        "width": 261,
-        "height": 84
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     }
   ],
   "metrics": [
     {
-      "value": "10,000+",
-      "label": "Placement Offers"
+      "value": "0000",
+      "label": "testing testing"
     },
     {
-      "value": "1,300+",
-      "label": "Company Visits"
+      "value": "0000",
+      "label": "testing testing"
     },
     {
-      "value": "₹1.7 CR",
-      "label": "Highest Package"
+      "value": "0000",
+      "label": "testing testing"
     },
     {
-      "value": "180+",
-      "label": "Companies (10+ LPA)"
+      "value": "0000",
+      "label": "testing testing"
     }
   ],
   "years": [
     {
-      "year": "2014",
-      "companiesVisited": 282,
-      "studentsPlaced": 2410,
-      "highestPackage": "24.0 LPA",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
       "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 2
-        },
-        {
-          "name": "15-20 LPA",
-          "value": 2
-        },
-        {
-          "name": "10-15 LPA",
-          "value": 2
-        },
-        {
-          "name": "7-10 LPA",
-          "value": 3
-        },
-        {
-          "name": "5-6 LPA",
-          "value": 12
-        }
-      ]
-    },
-    {
-      "year": "2015",
-      "companiesVisited": 425,
-      "studentsPlaced": 4690,
-      "highestPackage": "23.65 LPA",
-      "highestPackageIntl": null,
-      "packages": [
-        {
-          "name": "20+ LPA",
-          "value": 3
-        },
-        {
-          "name": "15-20 LPA",
-          "value": 3
-        },
-        {
-          "name": "10-15 LPA",
-          "value": 5
-        },
-        {
-          "name": "7-10 LPA",
-          "value": 6
-        },
-        {
-          "name": "5-6 LPA",
-          "value": 12
-        }
-      ]
-    },
-    {
-      "year": "2016",
-      "companiesVisited": 425,
-      "studentsPlaced": 4690,
-      "highestPackage": "22.5 LPA",
-      "highestPackageIntl": null,
-      "packages": [
-        {
-          "name": "20+ LPA",
-          "value": 4
-        },
-        {
-          "name": "15-20 LPA",
-          "value": 4
-        },
-        {
-          "name": "10-15 LPA",
-          "value": 5
-        },
-        {
-          "name": "7-10 LPA",
-          "value": 7
-        },
-        {
-          "name": "5-6 LPA",
-          "value": 17
-        }
-      ]
-    },
-    {
-      "year": "2017",
-      "companiesVisited": 492,
-      "studentsPlaced": 5134,
-      "highestPackage": "31.77 LPA",
-      "highestPackageIntl": null,
-      "packages": [
-        {
-          "name": "20+ LPA",
-          "value": 15
-        },
-        {
-          "name": "15-20 LPA",
-          "value": 15
-        },
-        {
-          "name": "10-15 LPA",
-          "value": 18
-        },
-        {
-          "name": "7-10 LPA",
+          "name": "0000",
           "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 55
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2018",
-      "companiesVisited": 627,
-      "studentsPlaced": 6314,
-      "highestPackage": "31.77 LPA",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
       "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 17
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 17
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 40
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 34
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 172
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2019",
-      "companiesVisited": 627,
-      "studentsPlaced": 6617,
-      "highestPackage": "35 LPA",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
       "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 18
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 18
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 70
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 40
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 290
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2020",
-      "companiesVisited": 691,
-      "studentsPlaced": 7412,
-      "highestPackage": "36 LPA",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
       "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 70
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 48
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 290
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2021",
-      "companiesVisited": 757,
-      "studentsPlaced": 7500,
-      "highestPackage": "52.11 LPA",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
       "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 100
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 62
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 400
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2022",
-      "companiesVisited": 900,
-      "studentsPlaced": 9500,
-      "highestPackage": "54.75 LPA",
-      "highestPackageIntl": "1.7 CR",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 50
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 100
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 200
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 304
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2023",
-      "companiesVisited": 904,
-      "studentsPlaced": 9124,
-      "highestPackage": "54.75 LPA",
-      "highestPackageIntl": "1.7 CR",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 31
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 52
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 200
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 162
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 500
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2024",
-      "companiesVisited": 1100,
-      "studentsPlaced": 9600,
-      "highestPackage": "54.75 LPA",
-      "highestPackageIntl": "1.7 CR",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": null,
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 50
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 60
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 100
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 170
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 500
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2025",
-      "companiesVisited": 1300,
-      "studentsPlaced": 10000,
-      "highestPackage": "54.75 LPA",
-      "highestPackageIntl": "1.7 CR",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": "0000",
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 30
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 50
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 100
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 300
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 650
+          "name": "0000",
+          "value": 0
         }
       ]
     },
     {
-      "year": "2026",
-      "companiesVisited": 1400,
-      "studentsPlaced": 11000,
-      "highestPackage": "59.9 LPA",
-      "highestPackageIntl": "1.7 CR",
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": "0000",
       "packages": [
         {
-          "name": "20+ LPA",
-          "value": 40
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "15-20 LPA",
-          "value": 50
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "10-15 LPA",
-          "value": 100
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "7-10 LPA",
-          "value": 350
+          "name": "0000",
+          "value": 0
         },
         {
-          "name": "5-6 LPA",
-          "value": 650
+          "name": "0000",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": "0000",
+      "packages": [
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": "0000",
+      "packages": [
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "year": "0000",
+      "companiesVisited": 0,
+      "studentsPlaced": 0,
+      "highestPackage": "0000",
+      "highestPackageIntl": "0000",
+      "packages": [
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
+        },
+        {
+          "name": "0000",
+          "value": 0
         }
       ]
     }
   ],
   "achievers": [
     {
-      "name": "Vandana Chauhan",
-      "designation": "Placed in Palo Alto Networks",
-      "placedIn": "Palo Alto Networks",
-      "salaryValue": "₹54.75",
-      "salaryUnit": "LPA",
+      "name": "testing testing",
+      "designation": "testing testing",
+      "placedIn": "testing testing",
+      "salaryValue": "0000",
+      "salaryUnit": "testing te",
       "companyLogo": {
-        "url": "http://127.0.0.1:1337/uploads/images_paloalto_2b101de215.svg",
-        "alt": "Palo Alto Networks",
-        "width": 138,
-        "height": 49
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
       },
       "personImage": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_vandana_chauhan_image_9d7a800f9d.webp",
-        "alt": "Vandana Chauhan",
-        "width": 299,
-        "height": 345
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 801
       }
     },
     {
-      "name": "Harsh",
-      "designation": "Placed in Amazon",
-      "placedIn": "Amazon",
-      "salaryValue": "₹45.50",
-      "salaryUnit": "LPA",
+      "name": "testing testing",
+      "designation": "testing testing",
+      "placedIn": "testing testing",
+      "salaryValue": "0000",
+      "salaryUnit": "testing te",
       "companyLogo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_amazon_049a1ee3e9.png",
-        "alt": "Amazon",
-        "width": 398,
-        "height": 120
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "personImage": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_harsh_1c785a1aa0.webp",
-        "alt": "Harsh",
-        "width": 401,
-        "height": 490
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     },
     {
-      "name": "Shanaya Trehan",
-      "designation": "Placed in Microsoft",
-      "placedIn": "Microsoft",
-      "salaryValue": "₹42.00",
-      "salaryUnit": "LPA",
+      "name": "testing testing",
+      "designation": "testing testing",
+      "placedIn": "testing testing",
+      "salaryValue": "0000",
+      "salaryUnit": "testing te",
       "companyLogo": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_microsoft_logo_31c06961d5.svg",
-        "alt": "Microsoft",
-        "width": 101,
-        "height": 27
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "personImage": {
-        "url": "http://127.0.0.1:1337/uploads/images_placement_assets_shanaya_3a95e5effd.webp",
-        "alt": "Shanaya Trehan",
-        "width": 357,
-        "height": 490
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       }
     }
   ],
@@ -826,553 +826,553 @@ export const PLACEMENT_SECTION: PlacementSection = {
     "Engineering": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 786
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 786
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 1552
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 1552
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 747
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 747
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ],
     "Business Management": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 847
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 847
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+          "alt": "testing image",
+          "width": 800,
+          "height": 600
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+          "alt": "testing image",
+          "width": 800,
+          "height": 600
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ],
     "Marketing": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 801
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 801
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ],
     "Applied Sciences": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 786
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 786
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 1552
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 1552
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 747
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1509062522246_3755977927d7_dd5c6e5f53.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 747
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ],
     "Hotel Management": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 847
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1503676260728_1c00da094a0b_1593d6bdd5.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 847
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+          "alt": "testing image",
+          "width": 800,
+          "height": 600
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+          "alt": "testing image",
+          "width": 800,
+          "height": 600
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ],
     "Pharma": [
       {
         "id": 1,
-        "name": "Mansi Diwedi",
-        "designation": "Associate",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_resmed_placement_d0d5d9ecd6.png",
-          "alt": "ResMed",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_mansi_diwedi_b286e8c925.png",
-          "alt": "Mansi Diwedi",
-          "width": 163,
-          "height": 188
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 2
+        "successfulSessions": 0
       },
       {
         "id": 2,
-        "name": "Eeshika Dwivedi",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_kanerika_placement_5554dd750b.png",
-          "alt": "Kanerika",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_eeshika_diwedi_fa6f4437b4.png",
-          "alt": "Eeshika Dwivedi",
-          "width": 163,
-          "height": 183
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 4
+        "successfulSessions": 0
       },
       {
         "id": 3,
-        "name": "Akanksha Singh",
-        "designation": "Head-Corporate Channel",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_nestle_placement_cf618ca1cd.png",
-          "alt": "Nestlé",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 801
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_akansha_placement_8858604ad3.png",
-          "alt": "Akanksha Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 801
         },
-        "successfulSessions": 6
+        "successfulSessions": 0
       },
       {
         "id": 4,
-        "name": "Pranjal Singh",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_taggd_placement_6775b3bbf7.png",
-          "alt": "Taggd",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Pranjal_Singh_Taggd_1_711194882a.png",
-          "alt": "Pranjal Singh",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 3
+        "successfulSessions": 0
       },
       {
         "id": 5,
-        "name": "Adhishri Agarwal",
-        "designation": "Consultant",
+        "name": "testing testing",
+        "designation": "testing testing",
         "companyImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_caelius_placement_ed905e82f1.png",
-          "alt": "Caelius Consulting",
-          "width": 360,
-          "height": 135
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
         "personImage": {
-          "url": "http://127.0.0.1:1337/uploads/images_placement_assets_alumni_carousel_Group_1000008319_084a5a5dda.png",
-          "alt": "Adhishri Agarwal",
-          "width": 163,
-          "height": 171
+          "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+          "alt": "testing image",
+          "width": 1200,
+          "height": 800
         },
-        "successfulSessions": 5
+        "successfulSessions": 0
       }
     ]
   }

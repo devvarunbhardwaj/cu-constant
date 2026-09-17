@@ -5,26 +5,26 @@ import type { HostelFees } from '../types/pages/hostel-fees';
 export type { HostelFees };
 
 export const HOSTEL_FEES: HostelFees = {
-  "lede": "The hostel fees for Chandigarh University Uttar Pradesh is as follows.",
+  "lede": "testing testing",
   "rooms": [
     {
-      "roomType": "4 seater AC",
+      "roomType": "testing testing",
       "audience": "indian",
-      "rate": "₹1,45,000 per year",
+      "rate": "testing testing",
       "period": "",
       "note": ""
     },
     {
-      "roomType": "4 seater AC",
+      "roomType": "testing testing",
       "audience": "saarc",
-      "rate": "₹1,45,000 per year",
+      "rate": "testing testing",
       "period": "",
       "note": ""
     },
     {
-      "roomType": "4 seater AC",
+      "roomType": "testing testing",
       "audience": "international",
-      "rate": "$2,250 per year",
+      "rate": "testing testing",
       "period": "",
       "note": ""
     }

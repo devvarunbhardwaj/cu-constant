@@ -5,47 +5,47 @@ import type { MomentsMilestoneSection } from '../../types/pages/home/moments';
 export type { MomentsMilestoneSection };
 
 export const MOMENTS_MILESTONE_SECTION: MomentsMilestoneSection = {
-  "heading": "Moments, Milestones & *Recognition*",
+  "heading": "testing *testing*",
   "cards": [
     {
       "id": "1",
-      "badge": "Kuldeep Yadav · CU",
-      "headSans": "Sports meets",
-      "headItalic": "AI-augmented education",
+      "badge": "testing testing",
+      "headSans": "testing testing",
+      "headItalic": "testing testing",
       "headTail": null,
-      "body": "International cricketer Kuldeep Yadav joins CU Uttar Pradesh as a student, and launches the CU Sports Scholarship for talented athletes.",
+      "body": "testing testing",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_kuldeep_moments_bg_e6d3e1c99b.webp",
-        "alt": "Enrollment of Kuldeep Yadav and launch of the CU Sports Scholarship",
-        "width": 2000,
-        "height": 1129
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "imageMobile": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_Kuldeep_Yadav_Mobile_3eaf820857.webp",
-        "alt": "Enrollment of Kuldeep Yadav and launch of the CU Sports Scholarship",
-        "width": 1400,
-        "height": 1200
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "imageCaption": null,
       "imageTreatment": "cover",
       "tiles": [
         {
-          "label": "For aspiring athletes",
-          "value": "Education",
-          "valueSuffix": "& competitive sport, together at CU-UP",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": []
         },
         {
-          "label": "CU Sports Scholarship",
-          "value": "Launched",
-          "valueSuffix": "by Kuldeep Yadav",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Pathways for talented athletes",
+              "label": "testing testing",
               "value": null
             },
             {
-              "label": "Higher education without compromising sport",
+              "label": "testing testing",
               "value": null
             }
           ]
@@ -54,53 +54,53 @@ export const MOMENTS_MILESTONE_SECTION: MomentsMilestoneSection = {
     },
     {
       "id": "2",
-      "badge": "Campus Tank · Uttar Pradesh",
-      "headSans": "India’s biggest",
-      "headItalic": "university-led startup launchpad",
+      "badge": "testing testing",
+      "headSans": "testing testing",
+      "headItalic": "testing testing",
       "headTail": null,
-      "body": "Campus Tank Uttar Pradesh backs student founders with real capital, mentorship from industry stalwarts and incubation from CU UP itself.",
+      "body": "testing testing",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_Campus_Tank_36b86537e4.webp",
-        "alt": "Launch of Campus Tank Uttar Pradesh at Chandigarh University, Uttar Pradesh",
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1497366216548_37526070297c_cc9da0bc35.jpg",
+        "alt": "testing image",
         "width": 1200,
-        "height": 600
+        "height": 801
       },
       "imageMobile": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_Campus_Tank_1_c6518a8f98.webp",
-        "alt": "Launch of Campus Tank Uttar Pradesh at Chandigarh University, Uttar Pradesh",
-        "width": 1400,
-        "height": 1200
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1562774053_701939374585_d6c47bbbb9.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 786
       },
-      "imageCaption": "Campus Tank Uttar Pradesh — launch",
+      "imageCaption": "testing testing",
       "imageTreatment": "cover",
       "tiles": [
         {
-          "label": "Funding pool",
-          "value": "$6",
-          "valueSuffix": "Million",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Mentorship & training",
-              "value": "Industry stalwarts"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Incubation support",
-              "value": "By Chandigarh University UP"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         },
         {
-          "label": "Who it backs",
-          "value": "Student",
-          "valueSuffix": "founders, across every CU-UP discipline",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Stage",
-              "value": "Idea to incubation"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Pitch to",
-              "value": "Investors & mentors"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         }
@@ -108,53 +108,53 @@ export const MOMENTS_MILESTONE_SECTION: MomentsMilestoneSection = {
     },
     {
       "id": "3",
-      "badge": "India AI Convergence · 2026",
-      "headSans": "An official run-up event for the",
-      "headItalic": "India AI Impact Summit 2026",
+      "badge": "testing testing",
+      "headSans": "testing testing",
+      "headItalic": "testing testing",
       "headTail": null,
-      "body": "CU UP hosted India AI Convergence 2026, an official run-up to the Union Government’s AI Impact Summit, with 50+ experts from 5 countries.",
+      "body": "testing testing",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_India_AI_Convergence_c6fdcb86d7.webp",
-        "alt": "India AI Convergence 2026, an official run-up to the India AI Impact Summit",
-        "width": 2160,
-        "height": 1080
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1531482615713_2afd69097998_6b6c6f5768.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "imageMobile": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_Indian_Ai_Imac_Summit_26_mobile_7045528db0.webp",
-        "alt": "India First AI Fest at Chandigarh University, Uttar Pradesh",
-        "width": 1400,
-        "height": 1200
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1513258496099_48168024aec0_38d2e4fa8c.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
-      "imageCaption": "India First AI Fest",
+      "imageCaption": "testing testing",
       "imageTreatment": "cover",
       "tiles": [
         {
-          "label": "Global AI voices",
-          "value": "50+",
-          "valueSuffix": "experts & leaders",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Countries represented",
-              "value": "5"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Participation",
-              "value": "Global"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         },
         {
-          "label": "India AI Convergence 2026",
-          "value": "Official",
-          "valueSuffix": "pre-event",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Run-up to",
-              "value": "AI Impact Summit 2026"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Hosted by",
-              "value": "CU UP & TBI"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         }
@@ -162,57 +162,57 @@ export const MOMENTS_MILESTONE_SECTION: MomentsMilestoneSection = {
     },
     {
       "id": "4",
-      "badge": "AI Impact Summit · Bharat 2026",
-      "headSans": "India’s leading academic institution on",
-      "headItalic": "human-centred AI education",
+      "badge": "testing testing",
+      "headSans": "testing testing",
+      "headItalic": "testing testing",
       "headTail": null,
-      "body": "Chandigarh University, Uttar Pradesh joins University Canada West (Canada) and Canterbury Institute of Management (Australia) at the AI Impact Summit 2026, leading the global conversation on “Faculty Futures 2035, Global Roadmap for Human-Centred AI Education”.",
+      "body": "testing testing",
       "image": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_Ai_Summit_d340f28196.webp",
-        "alt": "Dignitaries unveiling the NARI Women in Tech plaque at SynHERgy, Chandigarh University, Uttar Pradesh",
-        "width": 2000,
-        "height": 1600
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
       },
       "imageMobile": {
-        "url": "http://127.0.0.1:1337/uploads/images_moments_assets_AI_Impact_Summit_Mobile_231f0148a0.webp",
-        "alt": "Dignitaries unveiling the NARI Women in Tech plaque at SynHERgy, Chandigarh University, Uttar Pradesh",
-        "width": 1400,
-        "height": 1200
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 1552
       },
-      "imageCaption": "AI Impact Summit 2026",
+      "imageCaption": "testing testing",
       "imageTreatment": "cover",
       "tiles": [
         {
-          "label": "Global coalition",
-          "value": "3",
-          "valueSuffix": "partner institutions",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "India",
-              "value": "Chandigarh University, UP"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Canada",
-              "value": "University Canada West"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Australia",
-              "value": "Canterbury Institute of Management"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         },
         {
-          "label": "Faculty Futures 2035",
-          "value": "Global",
-          "valueSuffix": "roadmap for human-centred AI education",
+          "label": "testing testing",
+          "value": "0000",
+          "valueSuffix": "0000",
           "rows": [
             {
-              "label": "Category",
-              "value": "Welfare for All & Happiness of All"
+              "label": "testing testing",
+              "value": "0000"
             },
             {
-              "label": "Format",
-              "value": "Expert dialogue & discussions"
+              "label": "testing testing",
+              "value": "0000"
             }
           ]
         }

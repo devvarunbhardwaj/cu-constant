@@ -8,32 +8,32 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "jee-mains",
     "kind": "merit",
-    "name": "A. Engineering UG programs (based on JEE-Mains rank)",
-    "body": "This is given to students based on their academic performance/achievements, and scores in the national-level entrance test.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [
       {
-        "band": "Upto 25,000",
-        "value": "100% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "25,001 – 50,000",
-        "value": "75% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "50,001 – 75,000",
-        "value": "50% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "75,001 – 1,00,000",
-        "value": "20% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "1,00,001 – 1,25,000",
-        "value": "10% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
@@ -44,74 +44,74 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "mba-entrance",
     "kind": "merit",
-    "name": "B. MBA (based on national level entrance exam)",
+    "name": "testing testing",
     "body": "",
     "slabs": [
       {
-        "band": ">= 80%",
-        "value": "50% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "75 – 79.99%",
-        "value": "25% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "70 – 74.99%",
-        "value": "10% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
     "points": [],
-    "continuation": "Industry Collaborated programs referred at PG level are not applicable for the above said scheme. For MBA – Applied Finance with PwC and MBA – Fintech with NSE Academy the slabs are 40% (90.01–100 and 80–90 marks), 30% (70–79.99), 20% (60–69.99), 15% (50–59.99), 10% (40–49.99), and 30–39.99 marks is eligible.",
+    "continuation": "testing testing",
     "order": 2
   },
   {
     "slug": "ug-12th",
     "kind": "merit",
-    "name": "C. Undergraduate programs (based on 12th percentage)",
+    "name": "testing testing",
     "body": "",
     "slabs": [
       {
-        "band": "≥ 90%",
-        "value": "50% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "85% – 89.99%",
-        "value": "20% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "80% – 84.99%",
-        "value": "10% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
     "points": [],
-    "continuation": "Marks percentage will be calculated from all appearing subjects (including additional subjects) in Detail Marks Card.",
+    "continuation": "testing testing",
     "order": 3
   },
   {
     "slug": "lateral-entry",
     "kind": "merit",
-    "name": "D. Lateral Entry Entrance Test programs (based on diploma marks)",
+    "name": "testing testing",
     "body": "",
     "slabs": [
       {
-        "band": "≥ 90%",
-        "value": "50% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "85% – 89.99%",
-        "value": "20% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "80% – 84.99%",
-        "value": "10% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
@@ -122,55 +122,55 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "pg-graduation",
     "kind": "merit",
-    "name": "E. Postgraduate programs (based on graduation percentage)",
+    "name": "testing testing",
     "body": "",
     "slabs": [
       {
-        "band": "≥ 90%",
-        "value": "50% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "80% – 89.99%",
-        "value": "30% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "75% – 79.99%",
-        "value": "20% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "70% – 74.99%",
-        "value": "10% of Semester Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
     "points": [],
-    "continuation": "The Industry Collaborated Programs referred at PG Level are not applicable for the above said scheme.",
+    "continuation": "testing testing",
     "order": 5
   },
   {
     "slug": "gate",
     "kind": "merit",
-    "name": "F. PG scholarship to GATE qualified students",
+    "name": "testing testing",
     "body": "",
     "slabs": [],
     "points": [
       {
-        "text": "The GATE fellowship amount of Rs 12500/- per month will be applicable up to 10% of the total seats of the PG program (all Master of Engineering programs)."
+        "text": "testing testing"
       },
       {
-        "text": "The GATE fellowship will be given to the meritorious students based on GATE score."
+        "text": "testing testing"
       },
       {
-        "text": "Fellowship will be offered for a period of 8 months in a year (i.e. August to November & January to April)."
+        "text": "testing testing"
       },
       {
-        "text": "Students availing Gate Fellowship have to take teaching load of 8 to 10 hours per week."
+        "text": "testing testing"
       },
       {
-        "text": "They need to qualify through interview process for their teaching ability."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -179,15 +179,15 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "ncsc",
     "kind": "merit",
-    "name": "G. National Children Science Congress participants",
+    "name": "testing testing",
     "body": "",
     "slabs": [],
     "points": [
       {
-        "text": "Top 10 award winners of NCSC every year will be given 100% fee waiver if they take admission in any UG Program in Chandigarh University, Unnao, Uttar Pradesh."
+        "text": "testing testing"
       },
       {
-        "text": "All Students who have participated in NCSC will be given 10% fee waiver if they take admission in any UG Program in Chandigarh University, Unnao, Uttar Pradesh."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -196,27 +196,27 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "architecture",
     "kind": "merit",
-    "name": "H. Architecture scholarship on NATA / JEE (Main) score",
-    "body": "In order to encourage meritorious students to get admission in B.Arch. program, the University has introduced a new scholarship scheme i.e. “Architecture Scholarship on the basis of NATA/ JEE (Mains) 2026 Score” for the students admitted during the Academic Session 2026-27.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [
       {
-        "band": "NATA score more than 150",
-        "value": "40% of Academic Fee",
-        "note": "JEE (Main) Paper II percentile equal to more than 90"
+        "band": "testing testing",
+        "value": "0000",
+        "note": "testing testing"
       },
       {
-        "band": "NATA score from 120.1 – 150",
-        "value": "30% of Academic Fee",
-        "note": "JEE (Main) percentile equal to or more than 85 but less than 90"
+        "band": "testing testing",
+        "value": "0000",
+        "note": "testing testing"
       },
       {
-        "band": "NATA score from 100 – 120",
-        "value": "20% of Academic Fee",
-        "note": "JEE (Main) percentile equal to more than 80 but less than 85"
+        "band": "testing testing",
+        "value": "0000",
+        "note": "testing testing"
       },
       {
-        "band": "NATA score from 90 – 99.99",
-        "value": "10% of Academic Fee",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
@@ -227,8 +227,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "cgpa",
     "kind": "merit",
-    "name": "I. CGPA based scholarship",
-    "body": "10% of scholarship will be given to the students of Chandigarh University with 9.0 or above CGPA score if the student is not availing any other scholarship.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -237,21 +237,21 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "ladakh",
     "kind": "merit",
-    "name": "J. Meritorious students of Ladakh",
-    "body": "Students from Ladakh who have passed Senior-Secondary and have scored more than 80% marks from only CBSE affiliated Board or College would be eligible for this scholarship for their higher education at Chandigarh University, Unnao, Uttar Pradesh. Scholarship worth Rs. 1.5 Crore will be covered under this Scheme.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "Students who have scored in between 80-85% will be eligible for 25% scholarship."
+        "text": "testing testing"
       },
       {
-        "text": "Students who have scored in between 85.1-90% will be eligible for 35% scholarship."
+        "text": "testing testing"
       },
       {
-        "text": "Students who have scored more than 90% will be eligible for 50% scholarship."
+        "text": "testing testing"
       },
       {
-        "text": "Maximum Seats would be 25 per Year."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -260,44 +260,44 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "cv-raman",
     "kind": "merit",
-    "name": "K. Sir C.V. Raman Scholarship Scheme",
-    "body": "The C.V. Raman Scholarship is designed to attract and support young talent interested in pursuing a career in scientific research. Meritorious students with aggregate marks within the top 1% of their Class XII examination of any State/Central Education Board in India are eligible, and the student must be pursuing courses in Basic/Applied Sciences at the B.Sc and M.Sc. level. Only students who have completed their 10+2 from C.B.S.E./UPMSP/I.S.C are eligible, and the applicant must be a resident of Uttar Pradesh. The total value of the scholarship is Rs. 3 Crore.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [
       {
-        "band": "90% and above",
-        "value": "50%",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "85% – 89%",
-        "value": "40%",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "80% – 84%",
-        "value": "30%",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "75% – 79%",
-        "value": "20%",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       },
       {
-        "band": "70% – 74%",
-        "value": "10%",
+        "band": "testing testing",
+        "value": "0000",
         "note": ""
       }
     ],
     "points": [],
-    "continuation": "Eligible programmes: B.Sc. (Hons.) Data Science, B.Sc. (Hons.) Biotechnology, B.Sc. (Hons.) Forensic Science, B.Sc. (Hons.) Microbiology and Bachelor of Pharmacy.",
+    "continuation": "testing testing",
     "order": 11
   },
   {
     "slug": "old-student",
     "kind": "concession",
-    "name": "A. Old student concession, to promote higher education",
-    "body": "The students of Chandigarh University, who seek admission in Chandigarh University after qualifying degree will be provided scholarship equivalent to 10% of yearly fee for entire duration of the course.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -306,8 +306,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "single-girl-child",
     "kind": "concession",
-    "name": "B. Single girl child concession",
-    "body": "The Chandigarh University provides 20% concession on yearly fee to single girl child for entire duration of the course.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -316,8 +316,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "teachers-ward",
     "kind": "concession",
-    "name": "C. Teacher’s ward concession",
-    "body": "The Chandigarh University provides a 10% concession on the yearly fee to the wards of teachers for the entire duration of the Program (Teachers of Govt. / Govt. recognized schools/ colleges/ universities) provided a teacher should have at least one year of regular service. A maximum of 5% of total seats in each Program shall be offered under this scheme.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -326,8 +326,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "sibling",
     "kind": "concession",
-    "name": "D. Sibling concession",
-    "body": "The University offers 10% concession on the yearly fee to one of the siblings studying in any institute of Chandigarh University, Unnao, Uttar Pradesh, till the time both siblings are studying in the university. The concession will be allowed to continue even after the passing out of one sibling.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -336,8 +336,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "girl-sibling",
     "kind": "concession",
-    "name": "E. Concession to girl sibling",
-    "body": "The Chandigarh University provides 10% concession on the yearly fee to both female siblings for the entire duration of the Program. The concession will be allowed to continue even after the passing out of one sibling.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -346,18 +346,18 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "afews",
     "kind": "concession",
-    "name": "F. Armed Forces Educational Welfare Scheme (AFEWS)",
-    "body": "A Reservation-cum-Fee Waiver initiative for Defence Personnel, their spouses, and wards. Under this scheme, 5% of seats in all programs are reserved for the wards and spouses of Defence Martyrs and their immediate dependents.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "Order of priority: war widows and wards of war casualties; war injured and released defence personnel, their spouses and wards; war disabled defence personnel (superannuated), their spouses and wards; wards of serving defence personnel; wards of retired defence personnel."
+        "text": "testing testing"
       },
       {
-        "text": "20% fee concession for war widows and wards of war casualties, war injured/released/disabled defence personnel and their spouses and wards, wards and spouses of serving and retired defence personnel, and wards/spouses of paramilitary forces personnel."
+        "text": "testing testing"
       },
       {
-        "text": "Serving defence officers pursuing a program during their study leave shall be offered 1% seats (minimum one seat per program) with a 20% concession in the semester fee."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -366,15 +366,15 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "staff",
     "kind": "concession",
-    "name": "G. Concession for Chandigarh University staff",
+    "name": "testing testing",
     "body": "",
     "slabs": [],
     "points": [
       {
-        "text": "The wards, spouse, and real brother/sister of regular Chandigarh University, Unnao, Uttar Pradesh, staff members with a minimum of one year of continuous service shall be eligible for a 50% concession in academic fees for UG & PG programs."
+        "text": "testing testing"
       },
       {
-        "text": "A 60% concession in academic fees shall be applicable for the wards, spouse, or real siblings of staff members drawing a monthly salary below ₹25,000/-. This concession shall remain valid as long as the concerned staff member continues to serve in Chandigarh University, Unnao, Uttar Pradesh."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -383,15 +383,15 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "orphan",
     "kind": "concession",
-    "name": "H. Orphan concession",
+    "name": "testing testing",
     "body": "",
     "slabs": [],
     "points": [
       {
-        "text": "50% of the concession will be given in case of an Orphan Candidate."
+        "text": "testing testing"
       },
       {
-        "text": "20% of the concession will be given in case of a Single Parent."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -400,15 +400,15 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "early-bird",
     "kind": "concession",
-    "name": "I. Early bird scholarship",
-    "body": "Early bird scholarship to the Master of Engineering Programs as per the following conditions:",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "15 (Fifteen) percent scholarship to be given to the students who have completed a Bachelor of Engineering from Chandigarh University, Unnao, Uttar Pradesh, provided they pay the full semester fee at the time of admission."
+        "text": "testing testing"
       },
       {
-        "text": "10 (Ten) percent scholarship to be given to the students who have completed Bachelor of Engineering/Technology from other recognized Universities/Institutes."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -417,8 +417,8 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "alumni",
     "kind": "concession",
-    "name": "J. Alumni scholarship",
-    "body": "10% concession will also be allowed to the real brother/sister/spouse/wards of the alumni student of this University.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [],
     "continuation": "",
@@ -427,21 +427,21 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "gyan-kashi",
     "kind": "concession",
-    "name": "K. Gyan Kashi scholarship policy",
-    "body": "Scholarship proposed for Sikh Community students in Varanasi for 5 years’ worth Rs. 64.56 Crores for first 250 student’s intake (2023-2027).",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "Sikh community students of Varanasi who have passed Senior-Secondary from any state or central recognized board are eligible, as are those who have passed Graduation from any state or central recognized University."
+        "text": "testing testing"
       },
       {
-        "text": "Family income shall not exceed Rs. 5,00,000 per annum and a valid income certificate from the competent authority of the area is to be annexed with the application for admission."
+        "text": "testing testing"
       },
       {
-        "text": "Scholarship of 50% will be allowed up to 250 students on first come first served basis."
+        "text": "testing testing"
       },
       {
-        "text": "Students must have valid address and ID proof of Varanasi, Uttar Pradesh. Scholarship will be applicable on academic fees only."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -450,18 +450,18 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "kalpana-chawla",
     "kind": "concession",
-    "name": "L. Kalpana Chawla Scholarship for Girls",
-    "body": "For girl students belonging to the economically weaker section of Uttar Pradesh who have completed 10+2 from Uttar Pradesh, on a first-come first-served basis.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "Income criteria: family income less than Rs. 3 Lac per annum."
+        "text": "testing testing"
       },
       {
-        "text": "Total number of scholarships: 10 per year (first come first serve)."
+        "text": "testing testing"
       },
       {
-        "text": "Quantum of scholarship: 10% of the academic fee in any Program of choice."
+        "text": "testing testing"
       }
     ],
     "continuation": "",
@@ -470,21 +470,21 @@ export const SCHOLARSHIPS: Scholarships = [
   {
     "slug": "vikram-batra",
     "kind": "concession",
-    "name": "M. Shaheed Captain Vikram Batra Scholarship",
-    "body": "For the wards of Kargil War heroes. The total amount of scholarship under this scheme would be Rs. 25 Lakh per year.",
+    "name": "testing testing",
+    "body": "testing testing",
     "slabs": [],
     "points": [
       {
-        "text": "20 seats would be reserved for Kargil Martyrs for 2 years in Chandigarh University, Unnao, Uttar Pradesh."
+        "text": "testing testing"
       },
       {
-        "text": "15% academic fee waiver for the wards of Kargil Martyrs."
+        "text": "testing testing"
       },
       {
-        "text": "10% academic fee waiver for the wards of defence personnel who were injured in Kargil."
+        "text": "testing testing"
       },
       {
-        "text": "The fee waiver would be applicable for the entire program duration."
+        "text": "testing testing"
       }
     ],
     "continuation": "",

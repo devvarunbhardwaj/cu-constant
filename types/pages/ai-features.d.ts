@@ -4,8 +4,19 @@ export type Paragraph = {
   text: string;
 };
 
+export type TopicItem = {
+  title: string;
+  body: string;
+};
+
+export type Topic = {
+  heading: string;
+  items: TopicItem[];
+};
+
 export type AiFeatures = {
   intro: Paragraph[];
+  topics: Topic[];
   competenciesIntro: string;
   competencySchools: string[];
 };

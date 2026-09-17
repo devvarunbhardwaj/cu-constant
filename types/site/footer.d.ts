@@ -17,16 +17,25 @@ export type Social = {
   link: string;
 };
 
+export type LegalLink = {
+  label: string;
+  href: string;
+};
+
 export type Footer = {
   columns: Column[];
   addressHeading: string;
   address: string;
   contactHeading: string;
+  contactNumber: string;
+  contactCaption: string;
   helplineLabel: string;
   helplineNumber: string;
+  helplineCaption: string;
   email: string;
   socialHeading: string;
   socialLinks: Social[];
   legalNote: string;
   copyright: string;
+  legalLinks: LegalLink[];
 };

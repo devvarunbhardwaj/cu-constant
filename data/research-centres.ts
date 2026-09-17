@@ -7,20 +7,67 @@ export type { ResearchCentres };
 export const RESEARCH_CENTRES: ResearchCentres = [
   {
     "slug": "cradle",
-    "name": "Centre for Research and AI Development Learning Ecosystem",
-    "acronym": "CRADLE",
-    "lede": "The CRADLE Cell at Chandigarh University, Uttar Pradesh, is dedicated to encouraging research through artificial intelligence and building partnerships around the world for technological transformation and societal betterment.",
-    "focusAreas": [],
-    "image": null,
+    "name": "testing testing",
+    "acronym": "testing testing",
+    "lede": "testing testing",
+    "vision": "testing testing",
+    "focusAreas": [
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      }
+    ],
+    "image": {
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1523240795612_9a054b0db644_4024e78648.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
+    },
     "order": 1
   },
   {
     "slug": "caira",
-    "name": "Centre for Artificial Intelligence Research and Applications",
-    "acronym": "CAIRA",
-    "lede": "Artificial intelligence (AI) is poised to revolutionise every industry and aspect of human life. Chandigarh University, Uttar Pradesh, has established the Centre for Artificial Intelligence Research and Applications (CAIRA) to foster the responsible development of AI. As a first-of-its-kind initiative among regional universities, CAIRA focuses on advancing interdisciplinary AI research across scientific, technological, societal, business, and educational fields. The Centre aims to lead AI innovation and develop real-world solutions that address contemporary challenges.",
-    "focusAreas": [],
-    "image": null,
+    "name": "testing testing",
+    "acronym": "testing testing",
+    "lede": "testing testing",
+    "vision": "testing testing",
+    "focusAreas": [
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      },
+      {
+        "text": "testing testing"
+      }
+    ],
+    "image": {
+      "url": "http://127.0.0.1:1337/uploads/testing_photo_1524178232363_1fb2b075b655_4844aedea4.jpg",
+      "alt": "testing image",
+      "width": 1200,
+      "height": 800
+    },
     "order": 2
   }
 ];

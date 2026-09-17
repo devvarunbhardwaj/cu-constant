@@ -5,207 +5,232 @@ import type { About } from '../types/pages/about';
 export type { About };
 
 export const ABOUT: About = {
-  "vision": "To be a sanctuary of perpetual knowledge and wisdom, fostering a boundless exchange of ideas, nurturing harmony between humanity, technology, and the natural world, and preparing individuals to shape a just, sustainable, and enlightened civilization for all future generations.",
+  "vision": "testing testing",
   "mission": [
     {
-      "title": "Infrastructure & resources",
-      "body": "Providing advanced infrastructure and resources, enabling cutting-edge research, innovation, and the pursuit of excellence in education."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Globally competitive programs",
-      "body": "Offering globally competitive programs and courses designed to meet the evolving needs of industries and societies."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Creativity & critical thinking",
-      "body": "Developing a culture of creativity and critical thinking, supported by a dynamic and flexible curriculum."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Holistic development",
-      "body": "Ensuring holistic development through a balanced focus on academics, co-curricular, and extracurricular activities."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Transparent evaluation",
-      "body": "Creating transparent and objective evaluation systems to uphold the integrity and reliability of academic degrees."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "National & international partnerships",
-      "body": "Establishing national and international partnerships, encouraging collaboration and exchange of knowledge."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Social responsibility",
-      "body": "Actively contributing to societal welfare through impactful Institutional Social Responsibility (ISR) initiatives."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "AI innovation",
-      "body": "Driving AI innovation through equitable computing access, nurturing expertise, collaboration, and ethical practices."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
-  "coreValuesIntro": "The University's core values emphasize honoring human dignity with fairness and inclusivity, fostering empathy through compassionate action, embodying humility with modest success and a commitment to learning, and promoting generosity by enriching society and spreading knowledge for a brighter future.",
+  "coreValuesIntro": "0000",
   "coreValues": [
     {
-      "name": "Human Dignity",
+      "name": "testing testing",
       "points": [
         {
-          "text": "Respecting"
+          "text": "testing testing"
         },
         {
-          "text": "Treating fairly and being inclusive"
+          "text": "testing testing"
         }
       ]
     },
     {
-      "name": "Humility",
+      "name": "testing testing",
       "points": [
         {
-          "text": "Modesty in success"
+          "text": "testing testing"
         },
         {
-          "text": "Openness to learn"
+          "text": "testing testing"
         }
       ]
     },
     {
-      "name": "Empathy",
+      "name": "testing testing",
       "points": [
         {
-          "text": "Exhibiting sensibility to other's plight"
+          "text": "testing testing"
         },
         {
-          "text": "Exhibit solidarity through action"
+          "text": "testing testing"
         }
       ]
     },
     {
-      "name": "Giving",
+      "name": "testing testing",
       "points": [
         {
-          "text": "Contributing to society, nation & family"
+          "text": "testing testing"
         },
         {
-          "text": "Sharing knowledge to create a more enlightened & purposeful society"
+          "text": "testing testing"
         }
       ]
     }
   ],
   "cuEdge": [
     {
-      "title": "World Class Education",
-      "body": "A transformative learning experience that encourages critical thinking and innovation, equipping you with future-ready skills and career competence."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "AI-Enabled Campus",
-      "body": "Artificial intelligence is used to extend conventional teaching methods and establish a forward-thinking educational framework across the campus."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Eco-Aware",
-      "body": "Environmentally sustainable practices, energy-efficient structures and natural spaces run through the estate as a standing commitment to ecological responsibility."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
   "universityExperience": [
     {
-      "title": "Sustainable Campus",
-      "body": "Chandigarh University's ecologically sensitive campus design is a testament to its commitment to sustainability."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Futuristic Learning with AI-Enabled Campus",
-      "body": "The University offers top-notch facilities and a chance to stay ahead of the curve by integrating with the AI-driven world."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Unique and Innovative Academic Model",
-      "body": "Our deep skilling courses nurture advanced knowledge and critical analytical skills through an innovative curriculum."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Research-Oriented Learning Tracks",
-      "body": "Chandigarh University emphasises advanced learning and research opportunities, offering Honours with Research in the fourth year."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Tailored Pathway Programs",
-      "body": "Offering customised pathway programs that meet individual needs, Chandigarh University provides entry and exit alternatives at various points."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Value-Based Education",
-      "body": "Embracing a holistic approach, Chandigarh University empowers students in personal, professional, and social aspects."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
   "recognitions": [
     {
       "figure": "#19",
-      "title": "Overall",
-      "body": "Ranked among the top universities in India."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "#31",
-      "title": "Engineering",
-      "body": "National ranking for engineering programmes."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "#32",
-      "title": "Management",
-      "body": "National ranking for management programmes."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "#15",
-      "title": "Pharmacy",
-      "body": "National ranking for pharmacy programmes."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "#14",
-      "title": "Architecture & Planning",
-      "body": "National ranking for architecture and planning."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "#1",
-      "title": "Patents",
-      "body": "Ranked first in India for filing the highest number of patents in 2021-22."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "",
-      "title": "NAAC A+",
-      "body": "A+ accreditation by the National Assessment and Accreditation Council, awarded in the first cycle."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "",
-      "title": "ABET accredited",
-      "body": "Among the first private universities in India to have the highest number of engineering programmes accredited by ABET."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
       "figure": "",
-      "title": "MAKA Trophy",
-      "body": "The first private university to win the Maulana Abul Kalam Azad Trophy."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
-  "approvalsLede": "Chandigarh University, Uttar Pradesh Campus, is proud to continue the legacy of academic excellence of Chandigarh University. This campus introduces an innovative AI-integrated learning approach, as the first AI-augmented multidisciplinary private university in Uttar Pradesh.",
+  "approvalsLede": "testing testing",
   "approvals": [
     {
-      "acronym": "UGC",
-      "name": "University Grants Commission",
-      "body": "Chandigarh University is recognized by University Grants Commission (UGC), a statutory body of the Government of India established for the coordination, determination and maintenance of standards of university education in India.",
-      "logo": null
+      "acronym": "testing testing",
+      "name": "testing testing",
+      "body": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1506905925346_21bda4d32df4_3e7d976a76.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "acronym": "BCI",
-      "name": "Bar Council of India",
-      "body": "All programs of Law at Chandigarh University are approved by Bar Council of India (BCI), a body established under the Advocates Act 1961 that regulates the legal practice and legal education in India. It prescribes standards of professional conduct, etiquettes and exercises disciplinary jurisdiction over the bar. It also sets standards for legal education and grants recognition to Universities whose degree in law will serve as a qualification for students to enroll themselves as advocates upon graduation.",
-      "logo": null
+      "acronym": "testing testing",
+      "name": "testing testing",
+      "body": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1522202176988_66273c2fd55f_e8afb4bee4.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "acronym": "PCI",
-      "name": "Pharmacy Council of India",
-      "body": "All programs related to Pharmacy at Chandigarh University are approved by PCI. The Pharmacy education and profession in India up to graduate level is regulated by the PCI, a statutory body governed by the provisions of the Pharmacy Act, 1948 passed by the Parliament.",
-      "logo": null
+      "acronym": "testing testing",
+      "name": "testing testing",
+      "body": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1523050854058_8df90110c9f1_5d3933d7b4.png",
+        "alt": "testing image",
+        "width": 800,
+        "height": 600
+      }
     },
     {
-      "acronym": "COA",
-      "name": "Council of Architecture",
-      "body": "The Bachelor of Architecture (B.Arch) program at Chandigarh University, Uttar Pradesh, is approved by the Council of Architecture (COA), the statutory body established under the Architects Act, 1972, that regulates the profession and education of architecture in India. It sets the minimum standards of architectural education required for a person to be recognised as a qualified architect and maintains the Register of Architects. The Council has accorded approval for the 5-year full-time Bachelor of Architecture degree course at CU-UP for the academic session 2026-2027, with an institutional code of UP51, making sure graduates are eligible to register as practising architects upon successful completion of their degree.",
-      "logo": null
+      "acronym": "testing testing",
+      "name": "testing testing",
+      "body": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1541339907198_e08756dedf3f_6466a1a79a.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     },
     {
-      "acronym": "AIU",
-      "name": "Association of Indian Universities",
-      "body": "Chandigarh University is a member of Association of Indian Universities. AIU serves as the representative of universities in India and undertakes various programs as would help to improve standards of instruction, examination, research, textbooks, scholarly publications, library organisation and such other programs which may contribute to the growth and propagation of knowledge.",
-      "logo": null
+      "acronym": "testing testing",
+      "name": "testing testing",
+      "body": "testing testing",
+      "logo": {
+        "url": "http://127.0.0.1:1337/uploads/testing_photo_1519389950473_47ba0277781c_004043fca3.jpg",
+        "alt": "testing image",
+        "width": 1200,
+        "height": 800
+      }
     }
   ],
-  "leadershipIntro": "At Chandigarh University, Uttar Pradesh, our values are deeply rooted in the leadership provided by our esteemed leaders. Their exemplary vision, dedication, and commitment inspire every aspect of the University, guiding us towards excellence. Under their guidance, we are committed to uphold the highest standards of honesty, creativity, and inclusivity, shaping a dynamic community of learners and leaders who are prepared to make a difference in the world."
+  "leadershipIntro": "testing testing"
 };

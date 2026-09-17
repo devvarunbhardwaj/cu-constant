@@ -5,18 +5,23 @@ import type { International } from '../types/pages/international';
 export type { International };
 
 export const INTERNATIONAL: International = {
-  "cohortHeading": "Shape your *global* future",
+  "cohortHeading": "testing *testing*",
   "cohortBody": [
     {
-      "text": "Witness the CU UP Excellence. 40+ partner universities across the globe."
+      "text": "testing testing"
     }
   ],
   "cohortStats": [],
-  "cohortImage": null,
-  "shiftHeading": "Study here, *and abroad*",
+  "cohortImage": {
+    "url": "http://127.0.0.1:1337/uploads/testing_photo_1517486808906_6ca8b3f04846_4d025ae68f.jpg",
+    "alt": "testing image",
+    "width": 1200,
+    "height": 1552
+  },
+  "shiftHeading": "testing *testing*",
   "shiftBody": [
     {
-      "text": "Applications for the 2026 session are open. Exchange and credit-transfer options are available from the first year."
+      "text": "testing testing"
     }
   ]
 };

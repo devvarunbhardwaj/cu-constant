@@ -5,331 +5,331 @@ import type { AdvancedCredit } from '../types/pages/advanced-credit';
 export type { AdvancedCredit };
 
 export const ADVANCED_CREDIT: AdvancedCredit = {
-  "lede": "Learn skills that matter. Earn credits that count. Explore industry-aligned certification courses and earn academic credits — absolutely free — before you even begin your university journey.",
+  "lede": "testing testing",
   "about": [
     {
-      "text": "Advanced Credit Program (ACP) at Chandigarh University is a structured learning pathway designed to build industry-relevant skills and academic readiness. Acting as a bridge between school and university, ACP gives learners an authentic taste of university-level learning even before they formally begin their university journey."
+      "text": "testing testing"
     },
     {
-      "text": "Through ACP, students can choose the course aligned with their interests and career aspirations, and complete it at their own pace. Each course is thoughtfully designed to provide conceptual understanding, practical exposure, and application-oriented learning, helping learners develop relevant skills in emerging domains."
+      "text": "testing testing"
     },
     {
-      "text": "Courses are delivered in collaboration with industry partners, and upon successful accomplishment of a course, learners earn one academic credit along with an industry-endorsed certificate, enhancing their academic profile and employability."
+      "text": "testing testing"
     }
   ],
   "stats": [
     {
-      "value": "60K+",
-      "label": "Certified learners"
+      "value": "0000",
+      "label": "testing testing"
     },
     {
-      "value": "91%",
-      "label": "Satisfied learners"
+      "value": "0000",
+      "label": "testing testing"
     },
     {
-      "value": "40+",
-      "label": "Diverse courses"
+      "value": "0000",
+      "label": "testing testing"
     }
   ],
   "facts": [
     {
-      "label": "Cost",
-      "value": "Courses worth ₹5,000, now ₹0"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Format",
-      "value": "Online"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Duration",
-      "value": "1 week"
+      "label": "testing testing",
+      "value": "0000"
     },
     {
-      "label": "Earns",
-      "value": "One academic credit"
+      "label": "testing testing",
+      "value": "0000"
     }
   ],
   "benefits": [
     {
-      "title": "Cost-Free Credential",
-      "body": "No financial burden to get a globally recognized credential to grow your professional & academic career."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Credits for Growth",
-      "body": "Get support & advance your higher education and career development by gaining academic credits."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Programs with Purpose",
-      "body": "Grow your personal passion and professional aspirations with this wide range of programs."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Guided by Experts",
-      "body": "Gain valuable knowledge and insights from seasoned faculty members and industry professionals."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Interactive Insights",
-      "body": "Involve with dynamic program materials crafted to deepen understanding and promote practical application."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
   "objectives": [
     {
-      "text": "To offer foundational learning pathways that help students build conceptual clarity and academic readiness before entering their formal degree programs."
+      "text": "testing testing"
     },
     {
-      "text": "To collaborate with industry partners in developing and delivering courses, ensuring learners gain exposure to current tools, practices, and real-world applications."
+      "text": "testing testing"
     },
     {
-      "text": "To promote early skill development among youth by providing accessible, high-quality learning experiences that strengthen employability, innovation, and future career growth."
+      "text": "testing testing"
     }
   ],
-  "creditNote": "Gaining academic credits in advance through programs like ACP allows students to fast-track their education by reducing the course load during their regular degree. It also offers early exposure to core subjects, helping them build a strong academic foundation.",
+  "creditNote": "testing testing",
   "tracks": [
     {
-      "name": "Engineering",
+      "name": "testing testing",
       "courses": [
         {
-          "name": "Gen AI Literacy"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to AI"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Machine Learning"
+          "name": "testing testing"
         },
         {
-          "name": "Cyber Security"
+          "name": "testing testing"
         },
         {
-          "name": "Cloud Computing and AWS Essentials"
+          "name": "testing testing"
         },
         {
-          "name": "Data Analytics and Visualization"
+          "name": "testing testing"
         },
         {
-          "name": "Data Science"
+          "name": "testing testing"
         },
         {
-          "name": "Programming in Python"
+          "name": "testing testing"
         },
         {
-          "name": "Basics of Java Programming"
+          "name": "testing testing"
         },
         {
-          "name": "Coding"
+          "name": "testing testing"
         },
         {
-          "name": "Creating Websites: A Beginner’s Guide"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Blockchain Technology"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Robotics"
+          "name": "testing testing"
         },
         {
-          "name": "Engineering Design: Using CAD/CAM"
+          "name": "testing testing"
         },
         {
-          "name": "Elements of Aeronautics"
+          "name": "testing testing"
         },
         {
-          "name": "Probability and Statistics"
+          "name": "testing testing"
         },
         {
-          "name": "Critical and Design Thinking"
+          "name": "testing testing"
         },
         {
-          "name": "Startups and Entrepreneurship"
+          "name": "testing testing"
         },
         {
-          "name": "Public Speaking"
+          "name": "testing testing"
         }
       ]
     },
     {
-      "name": "Science",
+      "name": "testing testing",
       "courses": [
         {
-          "name": "Introduction to Cancer Biology"
+          "name": "testing testing"
         },
         {
-          "name": "Techniques in Molecular Biology"
+          "name": "testing testing"
         },
         {
-          "name": "Food & Industrial Microbiology"
+          "name": "testing testing"
         },
         {
-          "name": "Probability and Statistics"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to AI"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Machine Learning"
+          "name": "testing testing"
         },
         {
-          "name": "Gen AI Literacy"
+          "name": "testing testing"
         },
         {
-          "name": "Critical and Design Thinking"
+          "name": "testing testing"
         },
         {
-          "name": "Startups and Entrepreneurship"
+          "name": "testing testing"
         },
         {
-          "name": "Effective Communication and Interpersonal Skills"
+          "name": "testing testing"
         },
         {
-          "name": "Public Speaking"
+          "name": "testing testing"
         }
       ]
     },
     {
-      "name": "Liberal Arts",
+      "name": "testing testing",
       "courses": [
         {
-          "name": "Architectural Design Basics"
+          "name": "testing testing"
         },
         {
-          "name": "Sketching"
+          "name": "testing testing"
         },
         {
-          "name": "Digital Tools in Fashion Design"
+          "name": "testing testing"
         },
         {
-          "name": "Fundamentals of Interior Design"
+          "name": "testing testing"
         },
         {
-          "name": "Digital Content and Communication"
+          "name": "testing testing"
         },
         {
-          "name": "Radio Jockey"
+          "name": "testing testing"
         },
         {
-          "name": "Overview of Indian Legal System"
+          "name": "testing testing"
         },
         {
-          "name": "Gen AI Literacy"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to AI"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Machine Learning"
+          "name": "testing testing"
         },
         {
-          "name": "Critical and Design Thinking"
+          "name": "testing testing"
         },
         {
-          "name": "Startups and Entrepreneurship"
+          "name": "testing testing"
         },
         {
-          "name": "Public Speaking"
+          "name": "testing testing"
         }
       ]
     },
     {
-      "name": "Management",
+      "name": "testing testing",
       "courses": [
         {
-          "name": "Digital Banking and Fintech Essentials"
+          "name": "testing testing"
         },
         {
-          "name": "Digital Trading Fundamentals"
+          "name": "testing testing"
         },
         {
-          "name": "Basics of Taxation and GST"
+          "name": "testing testing"
         },
         {
-          "name": "Project Management"
+          "name": "testing testing"
         },
         {
-          "name": "Fundamentals of Aviation Industry"
+          "name": "testing testing"
         },
         {
-          "name": "Fundamentals of Hospitality and Hotel Operations"
+          "name": "testing testing"
         },
         {
-          "name": "Tourism Management Essentials"
+          "name": "testing testing"
         },
         {
-          "name": "Cooking & Baking"
+          "name": "testing testing"
         },
         {
-          "name": "Basics of Microsoft Excel"
+          "name": "testing testing"
         },
         {
-          "name": "Data Analytics and Visualization"
+          "name": "testing testing"
         },
         {
-          "name": "AI-Driven Lifestyle & Digital Health Management"
+          "name": "testing testing"
         },
         {
-          "name": "Gen AI Literacy"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to AI"
+          "name": "testing testing"
         },
         {
-          "name": "Introduction to Machine Learning"
+          "name": "testing testing"
         },
         {
-          "name": "Probability and Statistics"
+          "name": "testing testing"
         },
         {
-          "name": "Critical and Design Thinking"
+          "name": "testing testing"
         },
         {
-          "name": "Startups and Entrepreneurship"
+          "name": "testing testing"
         }
       ]
     }
   ],
   "enrolSteps": [
     {
-      "title": "Create your account",
-      "body": "Register on the CUCET portal with your basic details."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Log in with OTP",
-      "body": "Use the OTP received on your registered mobile number."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Open the Advanced Credit Program tab",
-      "body": "Click “Advanced Credit Program”, then “Apply for ACP”. If you have registered before, click “Already Registered”."
+      "title": "testing testing",
+      "body": "testing testing"
     },
     {
-      "title": "Choose your course preferences",
-      "body": "Pick the courses aligned with your interests and career aspirations."
+      "title": "testing testing",
+      "body": "testing testing"
     }
   ],
   "highlights": [
     {
-      "text": "Domain-Specific Specialisation"
+      "text": "testing testing"
     },
     {
-      "text": "Interactive Learning"
+      "text": "testing testing"
     },
     {
-      "text": "Industry Aligned Courses"
+      "text": "testing testing"
     },
     {
-      "text": "Passion Exposure"
+      "text": "testing testing"
     },
     {
-      "text": "Certifications"
+      "text": "testing testing"
     },
     {
-      "text": "Professional Mentorship"
+      "text": "testing testing"
     },
     {
-      "text": "Academic Credits"
+      "text": "testing testing"
     },
     {
-      "text": "Skill Enhancement"
+      "text": "testing testing"
     }
   ],
-  "contactName": "Advanced Credit Program",
-  "contactPhone": "1800-270-1411",
-  "contactEmail": "acp@culko.in"
+  "contactName": "testing testing",
+  "contactPhone": "0000",
+  "contactEmail": "testing testing"
 };
