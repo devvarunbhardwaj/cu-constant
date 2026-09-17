@@ -5,7 +5,7 @@ import type { HeroSection } from '../../types/pages/home/hero';
 export type { HeroSection };
 
 export const HERO_SECTION: HeroSection = {
-  "heading": "testing *testing*",
+  "heading": "hi",
   "subheading": "testing testing",
   "fallbackImage": {
     "url": "http://127.0.0.1:1337/uploads/testing_photo_1571260899304_425eee4c7efc_5ce92f65fd.jpg",
